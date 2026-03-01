@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "Innovation & Entrepreneurship (25853(T))",
+    "Basic Electronics (26811(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "Unknown Subject (637261 { 28571(T))",
+    "Network Administration & Services (28572(T))",
+    "Cyber Security & Ethics (28573(T))",
+    "Unknown Subject (637309 { 28551(T))",
+    "Computer Architecture & Microprocessor (28553(T))",
+    "Sensor & IoT System (28563(T))",
+    "Unknown Subject (637313 { 28551(T))",
+    "Microcontroller Based System Design & Development (28564(T))",
+    "Network Administration & Services (28572(T))",
+    "Design of Machine Elements (27071(T))",
+    "Tool Design (27072(T))",
+    "Production Planning & Control (27075(T))",
+    "Engineering Thermodynamics (27131(T))",
+    "Multimedia & Animation (28575(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
