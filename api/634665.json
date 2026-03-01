@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 2.88",
+    "gpa5: 2.93",
+    "Unknown Subject (gpa4: 634678 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 2.38",
+    "Unknown Subject (gpa4: 634681 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 2.82",
+    "gpa4:\n3.14",
+    "gpa3: 2.67",
+    "gpa2: 2.81",
+    "gpa1: 3.46",
+    "ref_sub: 2.20",
+    "gpa3: 2.23",
+    "gpa2: 2.36",
+    "gpa1: 2.82",
+    "ref_sub: 2.80",
+    "gpa3: 2.63",
+    "gpa2: 2.93",
+    "gpa1: 3.37",
+    "Microwave Engineering and Antennas (ref_sub:\n29471(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
