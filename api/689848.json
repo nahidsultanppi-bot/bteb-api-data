@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "Unknown Subject (690466 { gpa7: ref)",
+    "gpa6: 2.29",
+    "gpa5: 2.68",
+    "gpa4:\ngpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.73",
+    "ref_sub: 2.55",
+    "gpa3: 2.67",
+    "gpa2: 2.27",
+    "gpa1: 2.80",
+    "Mathematics-II (ref_sub:\n25921(T))",
+    "Physics-II (25922(T))",
+    "Digital Electronics-I (26831(T))",
+    "Digital Electronics-II (26841(T))",
+    "Switch Gear and Protection (26773(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
