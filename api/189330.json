@@ -1,0 +1,27 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.25",
+    "gpa5: ref",
+    "Unknown Subject (gpa4: 622321 { gpa7: ref)",
+    "gpa6: 3.35",
+    "gpa5: ref",
+    "gpa4:\n3.13",
+    "gpa3: ref",
+    "gpa2: 3.63",
+    "gpa1: 3.45",
+    "ref_sub: 2.98",
+    "gpa3: 3.20",
+    "gpa2: 3.20",
+    "gpa1: 3.68",
+    "Mathematics-III (ref_sub:\n25931(T))",
+    "Structural Mechanics (26431(T))",
+    "Theory of Structure (26454(T))",
+    "Estimating & Costing-II (26475(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
