@@ -1,0 +1,20 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: 3.45",
+    "gpa6: ref",
+    "gpa5: 3.44",
+    "gpa4:\nref",
+    "gpa3: 3.21",
+    "gpa2: ref",
+    "gpa1: 3.36",
+    "Mathematics-II (ref_sub:\n25921(T))",
+    "Electrical & Electronic Measurements-II (26763(T))",
+    "Communication Engineering (26842(T))",
+    "Digital Electronics (26845(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
