@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 2.88",
+    "Unknown Subject (gpa4: 690464 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 2.70",
+    "Unknown Subject (gpa4: 690465 { gpa7: ref)",
+    "gpa6: 2.84",
+    "gpa5: 2.78",
+    "gpa4:\n2.61",
+    "gpa3: 2.48",
+    "gpa2: ref",
+    "gpa1: 3.05",
+    "ref_sub: 2.49",
+    "gpa3: 2.36",
+    "gpa2: ref",
+    "gpa1: 2.85",
+    "ref_sub: 2.68",
+    "gpa3: 2.63",
+    "gpa2: 2.67",
+    "gpa1: 2.98",
+    "Mathematics-II (ref_sub:\n25921(T))",
+    "Copmputer Networking (28562(T))",
+    "Network Administration & Services (28572(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
