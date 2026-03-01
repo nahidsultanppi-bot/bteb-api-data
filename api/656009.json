@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.04",
+    "gpa5: 3.06",
+    "Unknown Subject (gpa4: 656011 { gpa7: 2.84)",
+    "gpa6: 3.10",
+    "gpa5: ref",
+    "Unknown Subject (gpa4: 656014 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "ref",
+    "gpa3: ref",
+    "gpa2: 3.06",
+    "gpa1: 3.38",
+    "ref_sub: 2.56",
+    "gpa3: ref",
+    "gpa2: 2.83",
+    "gpa1: 2.98",
+    "ref_sub: gpa3: ref",
+    "gpa2: 3.12",
+    "gpa1: 3.20",
+    "Mathematics-III (ref_sub:\n25931(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "Network Administration & Services (28572(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
