@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.50",
+    "gpa5: 3.49",
+    "Unknown Subject (gpa4: 637401 { gpa7: ref)",
+    "gpa6: 3.38",
+    "gpa5: 3.39",
+    "Unknown Subject (gpa4: 637411 { gpa7: ref)",
+    "gpa6: 3.13",
+    "gpa5: 3.28",
+    "gpa4:\n3.15",
+    "gpa3: 3.44",
+    "gpa2: 3.29",
+    "gpa1: 3.77",
+    "ref_sub: 3.17",
+    "gpa3: 3.40",
+    "gpa2: 3.42",
+    "gpa1: 3.25",
+    "ref_sub: 3.32",
+    "gpa3: 3.33",
+    "gpa2: 3.43",
+    "gpa1: 3.58",
+    "Estimating & Costing-II (ref_sub:\n26475(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
