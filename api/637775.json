@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "AC Machine-I (26761(T))",
+    "Transmission and Distribution ofEectricalPower-I (26762(T))",
+    "AC Machine-II (26771(T))",
+    "Unknown Subject (637864 { 25931(T))",
+    "Automobile Fundamentals (26211(T))",
+    "Engineering Mechanics (27041(T))",
+    "Unknown Subject (637939 { 25921(T))",
+    "Mathematics-III (25931(T))",
+    "Digital Marketing Technique (28571(T))",
+    "Unknown Subject (637945 { 25921(T))",
+    "Application Development Using Python (28531(T))",
+    "Application Development Using Java (28551(T))",
+    "Transmission and Distribution ofEllectrical Power-II (26772(T))",
+    "Switch Gear and Protection (26773(T))",
+    "Automation Engineering & PLC (26875(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
