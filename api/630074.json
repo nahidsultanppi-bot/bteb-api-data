@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.01",
+    "gpa5: ref",
+    "Unknown Subject (gpa4: 630090 { gpa7: ref)",
+    "gpa6: 3.09",
+    "gpa5: ref",
+    "gpa4:\nref",
+    "gpa3: 3.19",
+    "gpa2: 3.08",
+    "gpa1: 3.53",
+    "ref_sub: 3.27",
+    "gpa3: ref",
+    "gpa2: 3.13",
+    "gpa1: 3.90",
+    "Java Programming (ref_sub:\n28541(T))",
+    "Operating System (28555(T))",
+    "Digital Marketing Technique (28571(T))",
+    "Network Administration & Services (28572(T))",
+    "Mathematics-III (25931(T))",
+    "Computer Architecture & Microprocessor (28553(T))",
+    "Network Administration & Services (28572(T))",
+    "Cyber Security & Ethics (28573(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
