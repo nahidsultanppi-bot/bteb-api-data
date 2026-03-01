@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 2.18",
+    "gpa5: 2.08",
+    "Unknown Subject (gpa4: 653228 { gpa7: ref)",
+    "gpa6: 2.59",
+    "gpa5: 2.70",
+    "Unknown Subject (gpa4: 653229 { gpa7: ref)",
+    "gpa6: 2.20",
+    "gpa5: 2.51",
+    "gpa4:\n2.26",
+    "gpa3: 2.21",
+    "gpa2: ref",
+    "gpa1: 2.71",
+    "ref_sub: 2.35",
+    "gpa3: 2.39",
+    "gpa2: ref",
+    "gpa1: 2.82",
+    "ref_sub: 2.40",
+    "gpa3: ref",
+    "gpa2: 2.42",
+    "gpa1: 3.00",
+    "Physics-II (ref_sub:\n25922(T))",
+    "Animation (29671(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
