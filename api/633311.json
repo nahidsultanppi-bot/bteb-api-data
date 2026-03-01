@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.06",
+    "gpa5: 2.89",
+    "Unknown Subject (gpa4: 633312 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 3.00",
+    "Unknown Subject (gpa4: 633321 { gpa7: ref)",
+    "gpa6: 3.06",
+    "gpa5: 3.04",
+    "gpa4:\n2.86",
+    "gpa3: 3.06",
+    "gpa2: 2.77",
+    "gpa1: 3.20",
+    "ref_sub: 3.17",
+    "gpa3: 3.17",
+    "gpa2: ref",
+    "gpa1: 3.30",
+    "ref_sub: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.38",
+    "Tool Design (ref_sub:\n27072(T))",
+    "Production Planning & Control (27075(T))",
+    "Mechatronics & PLC (29231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
