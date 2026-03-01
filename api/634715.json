@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 2.44",
+    "Unknown Subject (gpa4: 647416 { gpa7: ref)",
+    "gpa6: 2.79",
+    "gpa5: 2.70",
+    "Unknown Subject (gpa4: 690680 { gpa7: ref)",
+    "gpa6: 3.27",
+    "gpa5: 3.01",
+    "gpa4:\n2.23",
+    "gpa3: 2.39",
+    "gpa2: 2.47",
+    "gpa1: 3.01",
+    "ref_sub: 2.83",
+    "gpa3: 2.51",
+    "gpa2: 2.20",
+    "gpa1: 3.16",
+    "ref_sub: 3.04",
+    "gpa3: 3.01",
+    "gpa2: 2.59",
+    "gpa1: 3.33",
+    "Electrical & Electronic Measurements-II (ref_sub:\n26763(T))",
+    "AC Machine-II (26771(T))",
+    "Wireless and Mobile Communication (29462(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
