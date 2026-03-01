@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 3.14",
+    "Unknown Subject (gpa4: 644372 { gpa7: 3.15)",
+    "gpa6: ref",
+    "gpa5: 3.26",
+    "gpa4:\n3.06",
+    "gpa3: 3.01",
+    "gpa2: 3.01",
+    "gpa1: 3.05",
+    "ref_sub: 3.24",
+    "gpa3: 3.05",
+    "gpa2: 3.03",
+    "gpa1: 3.11",
+    "Transportation Engineering-I (ref_sub:\n26463(T))",
+    "Design of Structure-I (26464(T))",
+    "Design of Structure-II (26474(T))",
+    "Estimating & Costing-II (26475(T))",
+    "Design of Structure-I (26464(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
