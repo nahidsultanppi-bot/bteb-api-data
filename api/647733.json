@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.19",
+    "gpa5: 3.01",
+    "Unknown Subject (gpa4: 647734 { gpa7: ref)",
+    "gpa6: 3.21",
+    "gpa5: 2.92",
+    "Unknown Subject (gpa4: 647742 { gpa7: ref)",
+    "gpa6: 3.05",
+    "gpa5: 3.17",
+    "gpa4:\n3.40",
+    "gpa3: 3.48",
+    "gpa2: 3.71",
+    "gpa1: 3.83",
+    "ref_sub: 2.95",
+    "gpa3: 2.86",
+    "gpa2: 3.36",
+    "gpa1: 3.29",
+    "ref_sub: 2.81",
+    "gpa3: 3.05",
+    "gpa2: 3.39",
+    "gpa1: 3.45",
+    "Service Station Operation & Estimating (ref_sub:\n27171(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
