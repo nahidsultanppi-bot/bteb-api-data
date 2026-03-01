@@ -1,0 +1,19 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 2.79",
+    "gpa4:\n2.45",
+    "gpa3: 2.90",
+    "gpa2: 2.50",
+    "gpa1: 3.05",
+    "Electrical & Electronic Measurements-II (ref_sub:\n26763(T))",
+    "Switch Gear and Protection (26773(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
