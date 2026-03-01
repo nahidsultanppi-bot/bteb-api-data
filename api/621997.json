@@ -1,0 +1,27 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.30",
+    "gpa5: ref",
+    "Unknown Subject (gpa4: 689554 { gpa7: ref)",
+    "gpa6: 3.61",
+    "gpa5: 3.39",
+    "gpa4:\nref",
+    "gpa3: 2.94",
+    "gpa2: 2.70",
+    "gpa1: 2.83",
+    "ref_sub: 3.36",
+    "gpa3: 3.14",
+    "gpa2: 2.89",
+    "gpa1: 2.83",
+    "Application Development Using Java (ref_sub:\n28551(T))",
+    "Network Administration & Services (28572(T))",
+    "Apps Development Project (28574(T))",
+    "Environmental Studies (29041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
