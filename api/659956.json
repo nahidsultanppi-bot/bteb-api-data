@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 2.83",
+    "Unknown Subject (gpa4: 659957 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 2.65",
+    "Unknown Subject (gpa4: 659958 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 3.05",
+    "gpa4:\n2.65",
+    "gpa3: 2.54",
+    "gpa2: 2.41",
+    "gpa1: 2.83",
+    "ref_sub: ref",
+    "gpa3: ref",
+    "gpa2: 2.41",
+    "gpa1: ref",
+    "ref_sub: 2.64",
+    "gpa3: ref",
+    "gpa2: 2.90",
+    "gpa1: 3.25",
+    "AC Machine-I (ref_sub:\n26761(T))",
+    "AC Machine-II (26771(T))",
+    "Switch Gear and Protection (26773(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
