@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "AC Machine-I (26761(T))",
+    "Transmission and Distribution of ElectricalPower (26764(T))",
+    "AC Machine-II (26771(T))",
+    "Unknown Subject (623099 { 26764(T))",
+    "AC Machine-II (26771(T))",
+    "Networks, Filters and Transmission lines (26843(T))",
+    "Unknown Subject (623219 { 27271(T))",
+    "Advance RAC (27273(T))",
+    "RAC for Food Preservation (27274(T))",
+    "Unknown Subject (623227 { 25853(T))",
+    "Basic Electronics (26811(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "MicrowaveRadar and Navigation Aids (26871(T))",
+    "Industrial Automation and PLC (26872(T))",
+    "Control System and Robotics (26873(T))",
+    "Bio-Medical Instruments (28654(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
