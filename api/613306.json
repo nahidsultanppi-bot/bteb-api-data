@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.36",
+    "gpa5: ref",
+    "Unknown Subject (gpa4: 613307 { gpa7: ref)",
+    "gpa6: 3.30",
+    "gpa5: 3.30",
+    "gpa4:\n3.50",
+    "gpa3: 3.42",
+    "gpa2: 3.26",
+    "gpa1: 3.38",
+    "ref_sub: 3.48",
+    "gpa3: 3.46",
+    "gpa2: 3.45",
+    "gpa1: 3.55",
+    "Application Development Using Java (ref_sub:\n28551(T))",
+    "Network Administration & Services (28572(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
