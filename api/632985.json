@@ -1,0 +1,19 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 2.83",
+    "gpa5: ref",
+    "gpa4:\n2.95",
+    "gpa3: 2.93",
+    "gpa2: 2.92",
+    "gpa1: 3.25",
+    "Computer Architecture & Microprocessor (ref_sub:\n28553(T))",
+    "Network Administration & Services (28572(T))",
+    "Cyber Security & Ethics (28573(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
