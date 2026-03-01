@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "Unknown Subject (617236 { gpa7: ref)",
+    "gpa6: 3.38",
+    "gpa5: 3.10",
+    "gpa4:\ngpa3: 2.95",
+    "gpa2: 2.93",
+    "gpa1: 2.98",
+    "ref_sub: 3.37",
+    "gpa3: 3.36",
+    "gpa2: 3.18",
+    "gpa1: 3.03",
+    "Innovation & Entrepreneurship (ref_sub:\n25853(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "AC Machine-I (26761(T))",
+    "Transmission and Distribution ofEllectrical Power-II (26772(T))",
+    "Network Administration & Services (28572(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
