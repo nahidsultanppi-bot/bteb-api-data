@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: 2.76",
+    "gpa1: 3.00",
+    "Mathematics-III (ref_sub:\n25931(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "AC Machine-II (26771(T))",
+    "Transmission and Distribution ofEllectrical Power-II (26772(T))",
+    "Communication Engineering (26842(T))",
+    "Microprocessor & Microcontroller (26853(T))",
+    "Automation Engineering & PLC (26875(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
