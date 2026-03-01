@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 2.85",
+    "Unknown Subject (gpa4: 607084 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 2.80",
+    "Unknown Subject (gpa4: 607088 { gpa7: ref)",
+    "gpa6: 3.01",
+    "gpa5: 3.07",
+    "gpa4:\n2.69",
+    "gpa3: 2.67",
+    "gpa2: 3.23",
+    "gpa1: 3.74",
+    "ref_sub: 2.57",
+    "gpa3: 2.60",
+    "gpa2: 2.99",
+    "gpa1: 3.23",
+    "ref_sub: 3.05",
+    "gpa3: 2.68",
+    "gpa2: 3.14",
+    "gpa1: 3.68",
+    "Strength of Materials (ref_sub:\n27061(T))",
+    "Design of Machine Elements (27071(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
