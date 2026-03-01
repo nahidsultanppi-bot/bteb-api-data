@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.13",
+    "gpa5: 2.27",
+    "Unknown Subject (gpa4: 650708 { gpa7: ref)",
+    "gpa6: 2.65",
+    "gpa5: 2.34",
+    "Unknown Subject (gpa4: 650710 { gpa7: ref)",
+    "gpa6: 2.89",
+    "gpa5: 2.36",
+    "gpa4:\n2.61",
+    "gpa3: 2.71",
+    "gpa2: 2.75",
+    "gpa1: 3.18",
+    "ref_sub: 2.13",
+    "gpa3: 2.78",
+    "gpa2: 2.57",
+    "gpa1: 2.90",
+    "ref_sub: 2.31",
+    "gpa3: 2.54",
+    "gpa2: 2.51",
+    "gpa1: 2.56",
+    "Industrial Automation and PLC (ref_sub:\n26872(T))",
+    "Control System and Robotics (26873(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
