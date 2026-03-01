@@ -1,0 +1,20 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 2.98",
+    "gpa4:\n2.89",
+    "gpa3: ref",
+    "gpa2: 2.75",
+    "gpa1: 3.18",
+    "Mathematics-III (ref_sub:\n25931(T))",
+    "AC Machine-I (26761(T))",
+    "AC Machine-II (26771(T))",
+    "Transmission and Distribution ofEllectrical Power-II (26772(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
