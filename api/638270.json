@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 3.28",
+    "Unknown Subject (gpa4: 638271 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "ref",
+    "gpa3: 3.17",
+    "gpa2: 3.05",
+    "gpa1: 3.24",
+    "ref_sub: gpa3: 3.31",
+    "gpa2: 2.99",
+    "gpa1: 3.07",
+    "AC Machine-I (ref_sub:\n26761(T))",
+    "Automation Engineering & PLC (26875(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
