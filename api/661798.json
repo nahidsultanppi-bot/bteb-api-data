@@ -1,0 +1,21 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4:\n3.06",
+    "gpa3: 2.69",
+    "gpa2: 2.94",
+    "gpa1: 3.83",
+    "Operating System (ref_sub:\n28555(T))",
+    "Database Management System (28561(T))",
+    "Surveillance Security System (28565(T))",
+    "Apps Development Project (28574(T))",
+    "Multimedia & Animation (28575(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
