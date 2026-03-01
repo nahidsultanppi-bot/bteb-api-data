@@ -1,0 +1,27 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: ref",
+    "Unknown Subject (gpa4: 690654 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4:\n3.07",
+    "gpa3: ref",
+    "gpa2: 2.90",
+    "gpa1: 3.68",
+    "ref_sub: 2.85",
+    "gpa3: ref",
+    "gpa2: 2.69",
+    "gpa1: 3.54",
+    "Physics-II (ref_sub:\n25922(T))",
+    "Theory of Structure (26454(T))",
+    "Design of Structure-I (26464(T))",
+    "Design of Structure-II (26474(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
