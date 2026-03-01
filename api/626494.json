@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: ref",
+    "Unknown Subject (gpa4: 690377 { gpa7: ref)",
+    "gpa6: 3.18",
+    "gpa5: 3.46",
+    "gpa4:\n2.90",
+    "gpa3: ref",
+    "gpa2: 3.28",
+    "gpa1: 3.40",
+    "ref_sub: 3.07",
+    "gpa3: 3.30",
+    "gpa2: 3.43",
+    "gpa1: 3.41",
+    "Structural Mechanics (ref_sub:\n26431(T))",
+    "Theory of Structure (26454(T))",
+    "Transportation Engineering-I (26463(T))",
+    "Design of Structure-I (26464(T))",
+    "Design of Structure-II (26474(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
