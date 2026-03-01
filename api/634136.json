@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.14",
+    "gpa5: 2.78",
+    "Unknown Subject (gpa4: 634138 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 2.64",
+    "Unknown Subject (gpa4: 634149 { gpa7: ref)",
+    "gpa6: 2.83",
+    "gpa5: 2.73",
+    "gpa4:\n3.02",
+    "gpa3: ref",
+    "gpa2: 2.62",
+    "gpa1: 3.16",
+    "ref_sub: 2.94",
+    "gpa3: 2.83",
+    "gpa2: 2.50",
+    "gpa1: 2.99",
+    "ref_sub: 3.01",
+    "gpa3: 2.40",
+    "gpa2: 2.79",
+    "gpa1: 3.12",
+    "Mathematics-III (ref_sub:\n25931(T))",
+    "Mechatronics & PLC (29231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
