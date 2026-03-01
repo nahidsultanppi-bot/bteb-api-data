@@ -1,0 +1,21 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4:\n3.33",
+    "gpa3: 3.54",
+    "gpa2: 3.48",
+    "gpa1: 3.78",
+    "Computer Architecture & Microprocessor (ref_sub:\n28553(T))",
+    "Data Communication (28554(T))",
+    "Database Management System (28561(T))",
+    "Network Administration & Services (28572(T))",
+    "Multimedia & Animation (28575(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
