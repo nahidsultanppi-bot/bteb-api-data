@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: 3.21",
+    "gpa6: 3.21",
+    "gpa5: 3.13",
+    "Unknown Subject (668063 { gpa7: ref)",
+    "gpa6: 3.25",
+    "gpa5: 3.34",
+    "gpa4:\ngpa4: ref",
+    "gpa3: ref",
+    "gpa2: 3.23",
+    "gpa1: 3.40",
+    "ref",
+    "gpa3: 2.93",
+    "gpa2: ref",
+    "gpa1: 2.99",
+    "Structural Mechanics (ref_sub:\nref_sub: 26431(T))",
+    "Geotechnical Engineering (26445(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
