@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "Unknown Subject (190052 { gpa7: ref)",
+    "gpa6: 3.16",
+    "gpa5: ref",
+    "gpa4:\ngpa3: ref",
+    "gpa2: 3.61",
+    "gpa1: 4.00",
+    "ref_sub: 3.40",
+    "gpa3: ref",
+    "gpa2: 3.75",
+    "gpa1: 3.75",
+    "DC Machine (ref_sub:\n26742(T))",
+    "Switch Gear and Protection (26773(T))",
+    "Industrial Electronics (26833(T))",
+    "Microprocessor & Microcontroller (26853(T))",
+    "Innovation & Entrepreneurship (25853(T))",
+    "AC Machine-II (26771(T))",
+    "Switch Gear and Protection (26773(T))",
+    "Industrial Electronics (26833(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
