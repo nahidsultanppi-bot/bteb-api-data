@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 2.68",
+    "gpa5: 2.29",
+    "Unknown Subject (gpa4: 645995 { gpa7: ref)",
+    "gpa6: 2.46",
+    "gpa5: 2.80",
+    "Unknown Subject (gpa4: 645999 { gpa7: 3.44)",
+    "gpa6: ref",
+    "gpa5: 3.08",
+    "gpa4:\n2.73",
+    "gpa3: 3.06",
+    "gpa2: 2.91",
+    "gpa1: 3.42",
+    "ref_sub: ref",
+    "gpa3: 2.71",
+    "gpa2: ref",
+    "gpa1: 3.27",
+    "ref_sub: 3.06",
+    "gpa3: 3.12",
+    "gpa2: 2.78",
+    "gpa1: 3.18",
+    "Food Engineering Operation-II (ref_sub:\n26971(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
