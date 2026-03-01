@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: 2.98",
+    "gpa6: ref",
+    "gpa5: 2.67",
+    "Unknown Subject (gpa4: 619488 { gpa7: ref)",
+    "gpa6: 3.21",
+    "gpa5: 2.74",
+    "gpa4:\nref",
+    "gpa3: 2.57",
+    "gpa2: 2.42",
+    "gpa1: 2.86",
+    "ref_sub: 2.57",
+    "gpa3: 2.45",
+    "gpa2: 2.29",
+    "gpa1: 3.30",
+    "Mechanical Measurement & Metrology (ref_sub:\n27062(T))",
+    "Engineering Thermodynamics (27131(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
