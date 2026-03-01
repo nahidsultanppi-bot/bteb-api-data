@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "AC Machine-I (26761(T))",
+    "AC Machine-II (26771(T))",
+    "Power Electronics (26832(T))",
+    "Unknown Subject (643430 { 27071(T))",
+    "Heat Treatment of Metal (27073(T))",
+    "Production Planning & Control (27075(T))",
+    "Unknown Subject (643662 { 27061(T))",
+    "Design of Machine Elements (27071(T))",
+    "Heat Treatment of Metal (27073(T))",
+    "Unknown Subject (643771 { 25841(T))",
+    "Physics-II (25922(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "MicrowaveRadar and Navigation Aids (26871(T))",
+    "Industrial Automation and PLC (26872(T))",
+    "Control System and Robotics (26873(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
