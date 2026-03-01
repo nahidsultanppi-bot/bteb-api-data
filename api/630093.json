@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 3.19",
+    "Unknown Subject (gpa4: 630095 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4:\n3.26",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.91",
+    "ref_sub: 3.25",
+    "gpa3: 3.33",
+    "gpa2: ref",
+    "gpa1: 3.32",
+    "Mathematics-II (ref_sub:\n25921(T))",
+    "Mathematics-III (25931(T))",
+    "Structural Mechanics (26431(T))",
+    "Advance Surveying (26462(T))",
+    "Principles of Marketing (25851(T))",
+    "Mathematics-II (25921(T))",
+    "Surveying-III (26453(T))",
+    "Hydraulics (26456(T))",
+    "Design of Structure-II (26474(T))",
+    "Estimating & Costing-II (26475(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
