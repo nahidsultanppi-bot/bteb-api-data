@@ -1,0 +1,19 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 2.68",
+    "gpa5: ref",
+    "gpa4:\n2.61",
+    "gpa3: 2.64",
+    "gpa2: ref",
+    "gpa1: 2.89",
+    "Basic Electricity (ref_sub:\n26711(T))",
+    "RAC System Analysis (27271(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
