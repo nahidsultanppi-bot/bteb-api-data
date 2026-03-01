@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.24",
+    "gpa5: 3.54",
+    "Unknown Subject (gpa4: 689777 { gpa7: ref)",
+    "gpa6: 2.96",
+    "gpa5: 3.08",
+    "Unknown Subject (gpa4: 689778 { gpa7: ref)",
+    "gpa6: 2.89",
+    "gpa5: 2.96",
+    "gpa4:\n3.30",
+    "gpa3: 3.35",
+    "gpa2: 3.18",
+    "gpa1: 3.25",
+    "ref_sub: 2.90",
+    "gpa3: 3.14",
+    "gpa2: 3.05",
+    "gpa1: 3.10",
+    "ref_sub: 2.83",
+    "gpa3: 3.05",
+    "gpa2: 2.58",
+    "gpa1: 2.66",
+    "Network Administration & Services (ref_sub:\n28572(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
