@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Physics -I (25912(T))",
+    "Mathematics-II (25921(T))",
+    "Physics-II (25922(T))",
+    "Python Programming (28521(T))",
+    "Web Design & Development-I (28544(T))",
+    "Operating System (28555(T))",
+    "Microcontroller Based System Design & Development (28564(T))",
+    "Digital Marketing Technique (28571(T))",
+    "Network Administration & Services (28572(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
