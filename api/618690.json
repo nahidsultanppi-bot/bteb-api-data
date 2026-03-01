@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: 3.02",
+    "gpa6: ref",
+    "gpa5: 2.79",
+    "Unknown Subject (gpa4: 618700 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 2.75",
+    "Unknown Subject (gpa4: 618708 { gpa7: 2.65)",
+    "gpa6: 2.61",
+    "gpa5: 2.56",
+    "2.50",
+    "gpa3: ref",
+    "gpa2: 2.55",
+    "gpa1: 2.71",
+    "ref_sub: ref",
+    "gpa3: 2.67",
+    "gpa2: 2.45",
+    "gpa1: 2.52",
+    "ref_sub: gpa4: ref",
+    "gpa3: 2.39",
+    "gpa2: 2.14",
+    "gpa1: 2.36",
+    "Physics-II (25922(T))",
+    "Instrumental Methods of Analysis (26365(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
