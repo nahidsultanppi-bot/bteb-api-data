@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 2.49",
+    "gpa5: 2.55",
+    "Unknown Subject (gpa4: 615609 { gpa7: ref)",
+    "gpa6: 2.24",
+    "gpa5: 2.30",
+    "Unknown Subject (gpa4: 615612 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 2.78",
+    "gpa4:\n2.95",
+    "gpa3: 3.04",
+    "gpa2: 2.90",
+    "gpa1: 3.04",
+    "ref_sub: 2.33",
+    "gpa3: 2.42",
+    "gpa2: 2.34",
+    "gpa1: 2.79",
+    "ref_sub: 2.76",
+    "gpa3: 2.73",
+    "gpa2: 2.88",
+    "gpa1: 3.62",
+    "Transmission and Distribution ofEllectrical Power-II (ref_sub:\n26772(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
