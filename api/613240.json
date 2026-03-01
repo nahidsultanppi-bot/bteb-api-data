@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 3.55",
+    "Unknown Subject (gpa4: 613246 { gpa7: ref)",
+    "gpa6: 3.76",
+    "gpa5: ref",
+    "Unknown Subject (gpa4: 613255 { gpa7: ref)",
+    "gpa6: 3.29",
+    "gpa5: 3.39",
+    "gpa4:\n2.95",
+    "gpa3: 3.49",
+    "gpa2: 3.09",
+    "gpa1: 3.52",
+    "ref_sub: ref",
+    "gpa3: 3.48",
+    "gpa2: 3.32",
+    "gpa1: 3.38",
+    "ref_sub: 3.43",
+    "gpa3: ref",
+    "gpa2: 3.10",
+    "gpa1: 3.40",
+    "Innovation & Entrepreneurship (ref_sub:\n25853(T))",
+    "Design of Structure-I (26464(T))",
+    "Sanitary Engineering (26472(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
