@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 3.31",
+    "Unknown Subject (gpa4: 690346 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 3.05",
+    "gpa4:\n3.15",
+    "gpa3: 3.17",
+    "gpa2: ref",
+    "gpa1: 3.20",
+    "ref_sub: 3.07",
+    "gpa3: 3.26",
+    "gpa2: 3.13",
+    "gpa1: 3.65",
+    "Mathematics-II (ref_sub:\n25921(T))",
+    "AC Machine-II (26771(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
