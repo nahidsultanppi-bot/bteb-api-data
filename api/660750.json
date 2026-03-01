@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.03",
+    "gpa5: 3.02",
+    "Unknown Subject (gpa4: 660761 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 2.96",
+    "Unknown Subject (gpa4: 689417 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 3.28",
+    "gpa4:\n2.92",
+    "gpa3: 2.72",
+    "gpa2: 3.12",
+    "gpa1: 3.16",
+    "ref_sub: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.98",
+    "ref_sub: 3.25",
+    "gpa3: 3.26",
+    "gpa2: 3.19",
+    "gpa1: 3.41",
+    "Design of Machine Elements (ref_sub:\n27071(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
