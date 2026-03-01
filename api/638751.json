@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.43",
+    "gpa2: 3.40",
+    "gpa1: 3.30",
+    "Principles of Marketing (ref_sub:\n25851(T))",
+    "Java Programming (28541(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "Computer Peripherals & Interfacing (28543(T))",
+    "Application Development Using Java (28551(T))",
+    "Cyber Security & Ethics (28573(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
