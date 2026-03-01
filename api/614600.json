@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: 3.18",
+    "gpa6: ref",
+    "gpa5: 2.73",
+    "Unknown Subject (gpa4: 614613 { gpa7: 3.17)",
+    "gpa6: 3.05",
+    "gpa5: ref",
+    "Unknown Subject (gpa4: 637707 { gpa7: 3.18)",
+    "gpa6: ref",
+    "gpa5: 3.35",
+    "gpa4:\n2.69",
+    "gpa3: 2.87",
+    "gpa2: 2.98",
+    "gpa1: 3.63",
+    "ref_sub: ref",
+    "gpa3: ref",
+    "gpa2: 3.11",
+    "gpa1: 3.30",
+    "ref_sub: 3.21",
+    "gpa3: 3.01",
+    "gpa2: 3.08",
+    "gpa1: 3.32",
+    "Database Management System (ref_sub:\n28561(T))",
+    "Microcontroller Based System Design & Development (28564(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
