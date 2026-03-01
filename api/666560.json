@@ -1,0 +1,27 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 2.96",
+    "gpa5: ref",
+    "Unknown Subject (gpa4: 666565 { gpa7: ref)",
+    "gpa6: 2.98",
+    "gpa5: 3.36",
+    "gpa4:\nref",
+    "gpa3: 3.33",
+    "gpa2: 2.93",
+    "gpa1: 3.45",
+    "ref_sub: 3.12",
+    "gpa3: 3.36",
+    "gpa2: 3.02",
+    "gpa1: 3.73",
+    "Computer Peripherals & Interfacing (ref_sub:\n28543(T))",
+    "Computer Architecture & Microprocessor (28553(T))",
+    "Apps Development Project (28574(T))",
+    "Multimedia & Animation (28575(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
