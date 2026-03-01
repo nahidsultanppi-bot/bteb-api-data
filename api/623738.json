@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.06",
+    "gpa5: 3.53",
+    "Unknown Subject (gpa4: 623739 { gpa7: ref)",
+    "gpa6: 3.04",
+    "gpa5: 3.28",
+    "Unknown Subject (gpa4: 623743 { gpa7: ref)",
+    "gpa6: 3.00",
+    "gpa5: 3.33",
+    "gpa4:\n2.77",
+    "gpa3: 3.23",
+    "gpa2: 3.31",
+    "gpa1: 3.30",
+    "ref_sub: 2.71",
+    "gpa3: 3.00",
+    "gpa2: 2.96",
+    "gpa1: 3.05",
+    "ref_sub: 2.92",
+    "gpa3: 3.17",
+    "gpa2: 3.31",
+    "gpa1: 3.33",
+    "Apps Development Project (ref_sub:\n28574(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
