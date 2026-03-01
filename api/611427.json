@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.30",
+    "gpa5: 3.35",
+    "Unknown Subject (gpa4: 611432 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 3.00",
+    "Unknown Subject (gpa4: 611438 { gpa7: ref)",
+    "gpa6: 2.73",
+    "gpa5: 3.09",
+    "gpa4:\n3.46",
+    "gpa3: 2.99",
+    "gpa2: 2.92",
+    "gpa1: 3.43",
+    "ref_sub: 3.08",
+    "gpa3: 2.80",
+    "gpa2: 2.77",
+    "gpa1: 3.00",
+    "ref_sub: 3.12",
+    "gpa3: 2.80",
+    "gpa2: 2.63",
+    "gpa1: 3.48",
+    "Switch Gear and Protection (ref_sub:\n26773(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
