@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 3.60",
+    "Unknown Subject (gpa4: 668196 { gpa7: ref)",
+    "gpa6: 2.88",
+    "gpa5: ref",
+    "gpa4:\n3.52",
+    "gpa3: 3.39",
+    "gpa2: 3.42",
+    "gpa1: 3.74",
+    "ref_sub: 3.29",
+    "gpa3: 3.17",
+    "gpa2: 3.30",
+    "gpa1: 3.40",
+    "Automation Engineering & PLC (ref_sub:\n26875(T))",
+    "Progamming in C (28567(T))",
+    "Environmental Studies (29041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
