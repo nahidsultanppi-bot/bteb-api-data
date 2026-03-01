@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: 3.14",
+    "gpa5: ref",
+    "Unknown Subject (gpa4: 622224 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: ref",
+    "Unknown Subject (gpa4: 622271 { gpa7: ref)",
+    "gpa6: 3.21",
+    "gpa5: ref",
+    "gpa4:\n2.96",
+    "gpa3: 3.18",
+    "gpa2: 3.35",
+    "gpa1: 3.22",
+    "ref_sub: 2.88",
+    "gpa3: ref",
+    "gpa2: 3.16",
+    "gpa1: 3.01",
+    "ref_sub: 3.01",
+    "gpa3: 2.45",
+    "gpa2: 3.07",
+    "gpa1: 3.38",
+    "Theory of Structure (ref_sub:\n26454(T))",
+    "Design of Structure-II (26474(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
