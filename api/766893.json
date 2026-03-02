@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.46",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 766894 { gpa5: ref)",
+    "gpa4: 2.67",
+    "gpa3: 2.96",
+    "Unknown Subject (gpa2: 766897 { gpa5: ref)",
+    "gpa4: 2.55",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 766898 { gpa5: ref)",
+    "gpa4: 2.54",
+    "gpa3: 2.54",
+    "gpa2:\n2.73",
+    "gpa1: 3.05",
+    "Electrical Circuits-II (ref_sub: 26731(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
