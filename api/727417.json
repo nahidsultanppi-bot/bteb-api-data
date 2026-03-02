@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.95",
+    "gpa3: 2.81",
+    "Unknown Subject (gpa2: 727428 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.68",
+    "Unknown Subject (gpa2: 727441 { gpa5: ref)",
+    "gpa4: 2.88",
+    "gpa3: 2.58",
+    "Unknown Subject (gpa2: 727461 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.38",
+    "gpa2:\n3.03",
+    "gpa1: 2.82",
+    "Theory of Structure (ref_sub: 26454(T))",
+    "Water and Waste Water Engineering (29051(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
