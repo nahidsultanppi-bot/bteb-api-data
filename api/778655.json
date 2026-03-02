@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.38",
+    "gpa3: 3.08",
+    "Unknown Subject (gpa2: 778660 { gpa5: ref)",
+    "gpa4: 3.40",
+    "gpa3: 3.33",
+    "Unknown Subject (gpa2: 778663 { gpa5: ref)",
+    "gpa4: 2.58",
+    "gpa3: 2.68",
+    "Unknown Subject (gpa2: 778666 { gpa5: ref)",
+    "gpa4: 3.49",
+    "gpa3: 3.37",
+    "gpa2:\n2.53",
+    "gpa1: 2.77",
+    "Progamming in C (ref_sub: 28567(T))",
+    "Physiotherapy and Rehabilitation Devices (28653(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
