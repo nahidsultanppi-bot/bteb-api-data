@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "Mathematics -I (25911(T))",
+    "Physics -I (25912(T))",
+    "Chemistry (25913(T))",
+    "Unknown Subject (790207 { 25721(T))",
+    "Mathematics-II (25921(T))",
+    "Physics-II (25922(T))",
+    "Unknown Subject (794778 { 21011(P))",
+    "Chemistry (25913(P))",
+    "Mathematics-III (25931(P))",
+    "Unknown Subject (842133 { 25811(T))",
+    "Physics -I (25912(T))",
+    "Mathematics-II (25921(T))",
+    "Physics-II (25922(T))",
+    "Mathematics-III (25931(T))",
+    "Basic Electricity (26711(T))",
+    "Basic Electronics (26811(T))",
+    "Mathematics-III (25931(T))",
+    "Basic Electronics (26811(T))",
+    "Digital Electronics-I (26831(T))",
+    "Application Development Using Python (28531(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
