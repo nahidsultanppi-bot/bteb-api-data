@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 724565 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.11",
+    "Unknown Subject (gpa2: 724567 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.24",
+    "gpa2:\n2.99",
+    "gpa1: 2.93",
+    "Estimating & Costing-I (ref_sub: 26442(T))",
+    "Surveying-III (26453(T))",
+    "3.03",
+    "gpa1: 3.01",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "ref",
+    "gpa1: 2.88",
+    "Physics-II (ref_sub: 25922(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "Theory of Structure (26454(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
