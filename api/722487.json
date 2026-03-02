@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.12",
+    "Unknown Subject (gpa2: 722493 { gpa5: ref)",
+    "gpa4: 3.42",
+    "gpa3: 3.23",
+    "Unknown Subject (gpa2: 722497 { gpa5: 3.43)",
+    "gpa4: 3.06",
+    "gpa3: 3.27",
+    "Unknown Subject (722498 { gpa5: ref)",
+    "gpa4: 3.01",
+    "gpa3: 3.48",
+    "gpa2:\n3.08",
+    "gpa1: 3.11",
+    "Estimating & Costing-I (ref_sub: 26442(T))",
+    "Theory of Structure (26454(T))",
+    "3.22",
+    "gpa1: 3.14",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
