@@ -1,0 +1,19 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.82",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 765025 { gpa5: ref)",
+    "gpa4: 3.21",
+    "gpa3: 3.17",
+    "gpa2:\n2.89",
+    "gpa1: 3.20",
+    "Digital Electronics-I (ref_sub: 26831(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
