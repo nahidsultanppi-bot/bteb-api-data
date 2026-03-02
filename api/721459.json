@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.80",
+    "Unknown Subject (gpa2: 721469 { gpa5: ref)",
+    "gpa4: 3.08",
+    "gpa3: 3.14",
+    "Unknown Subject (gpa2: 721471 { gpa5: ref)",
+    "gpa4: 2.65",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 721472 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "ref",
+    "gpa1: 3.18",
+    "Accounting (ref_sub: 25841(T))",
+    "Mathematics-II (25921(T))",
+    "3.27",
+    "gpa1: 3.43",
+    "Computer Architecture & Microprocessor (ref_sub: 28553(T))",
+    "Data Communication (28554(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
