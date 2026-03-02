@@ -1,0 +1,20 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3:\n2.89",
+    "gpa2: ref",
+    "gpa1: 2.71",
+    "Electrical Circuits-I (ref_sub: 26721(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "Electrical & Electronic Measurements-II (26763(T))",
+    "Microprocessor & Microcontroller (26853(T))",
+    "Environmental Studies (29041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
