@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.66",
+    "Unknown Subject (ref_sub: 817137 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.82",
+    "Unknown Subject (ref_sub: 817143 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.53",
+    "Unknown Subject (ref_sub: 818316 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.15",
+    "Physics -I (ref_sub:\n25912(T))",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Civil Engineering Metarials (26411(T))",
+    "Physics -I (25912(T))",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Basic Electronics (26811(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
