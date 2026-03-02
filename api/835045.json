@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.76",
+    "gpa1: 3.20",
+    "Unknown Subject (835047 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.87",
+    "Unknown Subject (ref_sub: 835057 { gpa3: ref)",
+    "gpa2: 2.54",
+    "gpa1: 2.73",
+    "Unknown Subject (835062 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.80",
+    "Machine Shop Practice-I (ref_sub:\nref_sub: 27012(T))",
+    "RAC Cycles and Components (27231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
