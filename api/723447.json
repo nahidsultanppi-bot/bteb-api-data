@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.80",
+    "Unknown Subject (gpa2: 723448 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.15",
+    "Unknown Subject (gpa2: 723450 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.01",
+    "Unknown Subject (gpa2: 723451 { gpa5: ref)",
+    "gpa4: 2.82",
+    "gpa3: 3.00",
+    "gpa2:\n3.44",
+    "gpa1: 2.89",
+    "Surveying-III (ref_sub: 26453(T))",
+    "Hydraulics (26456(T))",
+    "3.01",
+    "gpa1: 2.89",
+    "Estimating & Costing-I (ref_sub: 26442(T))",
+    "Surveying-III (26453(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
