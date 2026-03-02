@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.23",
+    "gpa1: 2.76",
+    "Unknown Subject (863564 { gpa3: ref)",
+    "gpa2: 3.02",
+    "gpa1: 3.38",
+    "Unknown Subject (863572 { gpa3: 3.49)",
+    "gpa2: ref",
+    "gpa1: 3.07",
+    "Unknown Subject (863573 { gpa3: ref)",
+    "gpa2: 2.97",
+    "gpa1: 3.24",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Structural Mechanics (26431(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
