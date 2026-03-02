@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 782164 { gpa5: ref)",
+    "gpa4: 2.69",
+    "gpa3: 2.67",
+    "Unknown Subject (gpa2: 782169 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 782177 { gpa5: ref)",
+    "gpa4: 2.65",
+    "gpa3: 2.52",
+    "gpa2:\n2.67",
+    "gpa1: 2.76",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Chemistry (25913(T))",
+    "2.40",
+    "gpa1: 3.21",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
