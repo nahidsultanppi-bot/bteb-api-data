@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: 2.77",
+    "Unknown Subject (gpa1: 749622 { gpa4: ref)",
+    "gpa3: 2.69",
+    "gpa2: 2.50",
+    "Unknown Subject (gpa1: 749755 { gpa4: ref)",
+    "gpa3: 2.61",
+    "gpa2: ref",
+    "gpa1:\n3.21",
+    "Electrical Installation,Planning and Estimating (ref_sub: 26741(T))",
+    "DC Machine (26742(T))",
+    "Industrial Electronics (26833(T))",
+    "2.95",
+    "Electrical Installation,Planning and Estimating (ref_sub: 26741(T))",
+    "DC Machine (26742(T))",
+    "Digital Electronics (26845(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
