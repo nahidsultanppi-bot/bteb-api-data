@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.45",
+    "Unknown Subject (ref_sub: 834393 { gpa3: ref)",
+    "gpa2: 2.38",
+    "gpa1: 2.95",
+    "Unknown Subject (834394 { gpa3: ref)",
+    "gpa2: 2.77",
+    "gpa1: 3.00",
+    "Unknown Subject (834395 { gpa3: ref)",
+    "gpa2: 3.21",
+    "gpa1: 2.90",
+    "Mathematics-II (25921(T))",
+    "IT Support Services (28533(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
