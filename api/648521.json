@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: 2.29",
+    "Unknown Subject (gpa3: 648529 { gpa6: ref)",
+    "gpa5: 3.00",
+    "gpa4: 2.79",
+    "gpa3:\n2.45",
+    "gpa2: 2.51",
+    "gpa1: 3.52",
+    "Electrical & Electronic Measurements-II (ref_sub: 26763(T))",
+    "2.94",
+    "gpa2: 3.24",
+    "gpa1: 3.35",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Communication Engineering (26842(T))",
+    "Microprocessor & Microcontroller (26853(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
