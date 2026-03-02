@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.74",
+    "Unknown Subject (gpa2: 721841 { gpa5: ref)",
+    "gpa4: 3.85",
+    "gpa3: 2.93",
+    "Unknown Subject (gpa2: 721843 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.98",
+    "Unknown Subject (gpa2: 721844 { gpa5: ref)",
+    "gpa4: 3.05",
+    "gpa3: 3.04",
+    "gpa2:\n2.99",
+    "gpa1: 3.18",
+    "Basic Estimating & Costing (ref_sub: 26447(T))",
+    "Theory of Structure (26454(T))",
+    "3.17",
+    "gpa1: 2.98",
+    "Python Programming (ref_sub: 28521(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
