@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 653402 { gpa3: ref)",
+    "gpa2: 2.60",
+    "gpa1: 2.83",
+    "Unknown Subject (752274 { gpa3: ref)",
+    "gpa2: 2.92",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 752290 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Mathematics -I (ref_sub:\n25911(T))",
+    "Chemistry (25913(T))",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Architectural Graphics (26132(T))",
+    "Working Drawing-I (26133(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
