@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.13",
+    "Unknown Subject (gpa2: 749764 { gpa5: 3.27)",
+    "gpa4: ref",
+    "gpa3: 3.15",
+    "Unknown Subject (gpa2: 749769 { gpa5: ref)",
+    "gpa4: 3.02",
+    "gpa3: 3.21",
+    "Unknown Subject (gpa2: 749771 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.78",
+    "gpa2:\n2.71",
+    "gpa1: 3.04",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Machine Shop Practice III (27042(T))",
+    "2.91",
+    "gpa1: 3.34",
+    "Basic Electronics (ref_sub: 26811(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
