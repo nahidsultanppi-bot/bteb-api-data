@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 748633 { gpa5: ref)",
+    "gpa4: 3.03",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 748642 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.09",
+    "Unknown Subject (gpa2: 748652 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.00",
+    "gpa2:\n2.59",
+    "gpa1: 2.81",
+    "Accounting (ref_sub: 25841(T))",
+    "Physics-II (25922(T))",
+    "2.67",
+    "gpa1: 2.81",
+    "Commercial & Industrial RAC (ref_sub: 27252(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
