@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 858828 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 858884 { gpa3: ref)",
+    "gpa2: 3.43",
+    "gpa1: 3.60",
+    "Unknown Subject (858905 { gpa3: ref)",
+    "gpa2: 3.13",
+    "gpa1: 3.18",
+    "Mathematics -I (25911(T))",
+    "Chemistry (25913(T))",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Mathematics -I (25911(T))",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Structural Mechanics (26431(T))",
+    "IT Support Services (ref_sub: 28533(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
