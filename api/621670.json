@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.50",
+    "gpa3: 2.74",
+    "Unknown Subject (gpa2: 621682 { gpa5: ref)",
+    "gpa4: 2.75",
+    "gpa3: 2.72",
+    "Unknown Subject (gpa2: 721836 { gpa5: ref)",
+    "gpa4: 3.25",
+    "gpa3: 3.42",
+    "Unknown Subject (gpa2: 721838 { gpa5: ref)",
+    "gpa4: 3.50",
+    "gpa3: 2.87",
+    "gpa2:\n2.71",
+    "gpa1: 3.50",
+    "Theory of Structure (ref_sub: 26454(T))",
+    "Python Programming (28521(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
