@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: ref",
+    "Unknown Subject (gpa4: 690553 { gpa7: 3.11)",
+    "gpa6: 3.00",
+    "gpa5: ref",
+    "gpa4:\n2.24",
+    "gpa3: 2.92",
+    "gpa2: 2.78",
+    "gpa1: 2.89",
+    "ref_sub: 3.28",
+    "gpa3: 2.84",
+    "gpa2: 2.91",
+    "gpa1: 3.48",
+    "Industrial Stoichiometry & Thermodynamics (ref_sub:\n26364(T))",
+    "Food Microbiology-II (26951(T))",
+    "Food Industrial Instrumentation & Process Control (26955(T))",
+    "Food Engineering Operation-II (26971(T))",
+    "Fluid Mechanics & Machineries (27051(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
