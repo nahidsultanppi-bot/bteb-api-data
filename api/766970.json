@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.58",
+    "gpa3: 3.45",
+    "Unknown Subject (gpa2: 766975 { gpa5: ref)",
+    "gpa4: 3.26",
+    "gpa3: 3.36",
+    "Unknown Subject (gpa2: 766977 { gpa5: ref)",
+    "gpa4: 2.73",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 766978 { gpa5: ref)",
+    "gpa4: 2.99",
+    "gpa3: 3.15",
+    "gpa2:\n3.63",
+    "gpa1: 3.57",
+    "Food Microbiology-II (ref_sub: 26951(T))",
+    "Food Industrial Instrumentation & Process Control (26955(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
