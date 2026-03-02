@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (794187 { gpa5: 3.36)",
+    "gpa4: 3.52",
+    "gpa3: 3.30",
+    "Unknown Subject (794191 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.44",
+    "Unknown Subject (gpa2: 795396 { gpa5: ref)",
+    "gpa4: 2.91",
+    "gpa3: ref",
+    "gpa2:\ngpa1: 4.00",
+    "Electrical Circuits-I (ref_sub: 26721(T))",
+    "Electrical Circuits-II (26731(T))",
+    "gpa2: ref",
+    "gpa1: 3.75",
+    "Python Programming (ref_sub: 28521(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
