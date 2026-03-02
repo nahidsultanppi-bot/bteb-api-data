@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 634334 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.52",
+    "Unknown Subject (gpa2: 634337 { gpa5: ref)",
+    "gpa4: 2.52",
+    "gpa3: 2.57",
+    "Unknown Subject (gpa2: 634341 { gpa5: 2.49)",
+    "gpa4: 2.70",
+    "gpa3: ref",
+    "gpa2:\n2.82",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Automotive Body Building (26241(T))",
+    "ref",
+    "gpa1: 3.40",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Engineering Mechanics (27041(T))",
+    "2.98",
+    "gpa1: 3.23",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Power Plant Enginnering (27152(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
