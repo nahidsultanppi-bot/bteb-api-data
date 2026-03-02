@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.78",
+    "gpa4: ref",
+    "gpa3: 2.42",
+    "Unknown Subject (gpa2: 759979 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.38",
+    "Unknown Subject (gpa2: 759992 { gpa5: ref)",
+    "gpa4: 3.20",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 760003 { gpa5: ref)",
+    "gpa4: 2.61",
+    "gpa3: ref",
+    "gpa2:\n2.39",
+    "gpa1: ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "ref",
+    "gpa1: 2.78",
+    "Business Communication (ref_sub: 25831(T))",
+    "Accounting (25841(T))",
+    "3.33",
+    "gpa1: 3.05",
+    "Computer Architecture & Microprocessor (ref_sub: 28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
