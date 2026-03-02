@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.23",
+    "gpa3: 3.46",
+    "Unknown Subject (gpa2: 703147 { gpa5: ref)",
+    "gpa4: 3.69",
+    "gpa3: 3.63",
+    "Unknown Subject (gpa2: 703148 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (703164 { gpa5: ref)",
+    "gpa4: 3.20",
+    "gpa3: ref",
+    "gpa2:\n3.13",
+    "gpa1: 3.01",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
