@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.19",
+    "gpa3: 3.50",
+    "Unknown Subject (gpa2: 764995 { gpa5: ref)",
+    "gpa4: 3.26",
+    "gpa3: 3.42",
+    "Unknown Subject (gpa2: 765006 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.96",
+    "Unknown Subject (gpa2: 765008 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.04",
+    "gpa2:\n3.30",
+    "gpa1: 3.41",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Advanced Welding-I (27053(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
