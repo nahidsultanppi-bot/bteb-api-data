@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: 2.56",
+    "gpa2: 2.61",
+    "Unknown Subject (gpa1: 657802 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 658215 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: 2.38",
+    "Unknown Subject (gpa1: 755389 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1:\n2.99",
+    "Surveying-II (ref_sub: 26444(T))",
+    "Geotechnical Engineering (26445(T))",
+    "Hydrology (26446(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
