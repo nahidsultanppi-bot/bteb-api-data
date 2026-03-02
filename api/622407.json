@@ -1,0 +1,17 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.01",
+    "gpa3: ref",
+    "gpa2:\n3.16",
+    "gpa1: 3.72",
+    "Structural Mechanics (ref_sub: 26431(T))",
+    "Civil CAD-II (26452(T))",
+    "Theory of Structure (26454(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
