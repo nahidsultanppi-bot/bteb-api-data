@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.85",
+    "gpa3: ref",
+    "Piping & Duct Works (gpa2: 672537 { gpa5: ref)",
+    "gpa4: 2.92",
+    "gpa3: 3.20",
+    "Unknown Subject (gpa2: 702807 { gpa5: ref)",
+    "gpa4: 3.27",
+    "gpa3: 3.30",
+    "Unknown Subject (gpa2: 706906 { gpa5: 3.51)",
+    "gpa4: 3.26",
+    "gpa3: 2.95",
+    "2.75",
+    "gpa1: 3.29",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "3.15",
+    "gpa1: 3.85",
+    "Computer Architecture & Microprocessor (ref_sub: 28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
