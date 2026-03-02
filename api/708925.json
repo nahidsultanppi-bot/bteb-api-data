@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.74",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 708926 { gpa5: ref)",
+    "gpa4: 2.89",
+    "gpa3: 3.14",
+    "Unknown Subject (gpa2: 708930 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (708937 { gpa5: ref)",
+    "gpa4: 2.65",
+    "gpa3: 2.71",
+    "gpa2:\nref",
+    "gpa1: 2.76",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Surveying-I (26432(T))",
+    "3.05",
+    "gpa1: 2.84",
+    "Surveying-III (ref_sub: 26453(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
