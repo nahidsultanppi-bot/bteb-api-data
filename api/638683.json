@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.39",
+    "gpa3: 2.58",
+    "Unknown Subject (gpa2: 638687 { gpa5: ref)",
+    "gpa4: 2.18",
+    "gpa3: 2.61",
+    "Unknown Subject (gpa2: 739745 { gpa5: ref)",
+    "gpa4: 2.62",
+    "gpa3: 2.33",
+    "Unknown Subject (gpa2: 739751 { gpa5: 3.24)",
+    "gpa4: 2.49",
+    "gpa3: ref",
+    "gpa2:\n2.42",
+    "gpa1: 2.90",
+    "Basic Safety & Security (ref_sub: 27955(T))",
+    "Maritime Laws (27956(T))",
+    "ref",
+    "gpa1: 2.74",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Basic Safety & Security (27955(T))",
+    "2.42",
+    "gpa1: 2.49",
+    "Marine Boiler & Steam Engineering (ref_sub: 27952(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
