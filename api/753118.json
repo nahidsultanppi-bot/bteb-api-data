@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.30",
+    "gpa3: 2.56",
+    "Unknown Subject (gpa2: 753120 { gpa5: 3.19)",
+    "gpa4: 3.21",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 753123 { gpa5: ref)",
+    "gpa4: 3.79",
+    "gpa3: 2.92",
+    "Unknown Subject (gpa2: 753124 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.30",
+    "gpa2:\n2.75",
+    "gpa1: 2.77",
+    "Surveying-III (ref_sub: 26453(T))",
+    "Theory of Structure (26454(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
