@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: 2.65",
+    "Unknown Subject (gpa1: 786257 { gpa4: ref)",
+    "gpa3: 3.26",
+    "gpa2: 2.46",
+    "Unknown Subject (gpa1: 786366 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 786420 { gpa4: ref)",
+    "gpa3: 2.44",
+    "gpa2: ref",
+    "gpa1:\n2.38",
+    "Physics-II (ref_sub: 25922(T))",
+    "Application Development Using Python (28531(T))",
+    "Java Programming (28541(T))",
+    "2.58",
+    "Digital Electronics-II (ref_sub: 26841(T))",
+    "Java Programming (28541(T))",
+    "Data Structure & Algorithm (28542(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
