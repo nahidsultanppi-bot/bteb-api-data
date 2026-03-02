@@ -1,0 +1,20 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n2.25",
+    "gpa1: 2.75",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Engineering Thermodynamics (27131(T))",
+    "RAC Cycles and Components (27231(T))",
+    "Circuits and Electrical Machine in RAC (27241(T))",
+    "Heating Ventilation & Air Conditioning (HVAC) (27251(T))",
+    "Commercial & Industrial RAC (27252(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
