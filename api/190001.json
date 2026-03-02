@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.00",
+    "gpa3: 3.00",
+    "Unknown Subject (gpa2: 700022 { gpa5: ref)",
+    "gpa4: 3.61",
+    "gpa3: 3.44",
+    "Unknown Subject (gpa2: 789984 { gpa5: ref)",
+    "gpa4: 3.51",
+    "gpa3: 3.58",
+    "gpa2:\nref",
+    "gpa1: 2.50",
+    "Electrical Engineering Drawing (ref_sub: 26722(T))",
+    "Testing and Maintannance of Electrical Equipments (26753(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
