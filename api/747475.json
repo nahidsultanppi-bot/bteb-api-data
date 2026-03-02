@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.60",
+    "gpa3: 2.76",
+    "Unknown Subject (gpa2: 747482 { gpa5: ref)",
+    "gpa4: 2.62",
+    "gpa3: 2.75",
+    "Unknown Subject (gpa2: 747485 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.89",
+    "Unknown Subject (gpa2: 747489 { gpa5: ref)",
+    "gpa4: 2.92",
+    "gpa3: 3.12",
+    "gpa2:\n2.69",
+    "gpa1: 2.86",
+    "Testing and Maintannance of Electrical Equipments (ref_sub: 26753(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
