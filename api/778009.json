@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.54",
+    "Unknown Subject (gpa2: 778013 { gpa5: ref)",
+    "gpa4: 2.54",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 778014 { gpa5: ref)",
+    "gpa4: 2.68",
+    "gpa3: 2.56",
+    "Unknown Subject (gpa2: 778015 { gpa5: ref)",
+    "gpa4: 3.19",
+    "gpa3: 3.10",
+    "gpa2:\nref",
+    "gpa1: 2.63",
+    "Chemistry (ref_sub: 25913(T))",
+    "Computer Peripherals & Interfacing (28543(T))",
+    "2.36",
+    "gpa1: 2.53",
+    "Digital Electronics-I (ref_sub: 26831(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
