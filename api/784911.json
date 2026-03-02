@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 784918 { gpa5: ref)",
+    "gpa4: 2.42",
+    "gpa3: 3.03",
+    "Unknown Subject (gpa2: 784920 { gpa5: ref)",
+    "gpa4: 2.36",
+    "gpa3: 2.55",
+    "Unknown Subject (gpa2: 784924 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "2.68",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Automobile Air- Conditioning (26251(T))",
+    "3.05",
+    "gpa1: 2.80",
+    "Automobile Air- Conditioning (ref_sub: 26251(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
