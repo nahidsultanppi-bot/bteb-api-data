@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (731949 { gpa5: 3.04)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 731952 { gpa5: ref)",
+    "gpa4: 2.90",
+    "gpa3: 3.24",
+    "Unknown Subject (gpa2: 731953 { gpa5: 2.74)",
+    "gpa4: 3.00",
+    "gpa3: 3.11",
+    "gpa1: 2.95",
+    "Physics -I (ref_sub: 25912(T))",
+    "Refrigeration & Cold Storage (26355(T))",
+    "2.64",
+    "gpa1: 3.12",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Engineering Mechanics (27041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
