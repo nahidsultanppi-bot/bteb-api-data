@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 784463 { gpa5: ref)",
+    "gpa4: 3.01",
+    "gpa3: 3.17",
+    "Unknown Subject (gpa2: 784467 { gpa5: ref)",
+    "gpa4: 3.29",
+    "gpa3: 3.24",
+    "Unknown Subject (gpa2: 790075 { gpa5: ref)",
+    "gpa4: 3.39",
+    "gpa3: 3.15",
+    "gpa2:\n3.02",
+    "gpa1: 3.00",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Industrial Electronics (26833(T))",
+    "ref",
+    "gpa1: 2.98",
+    "Accounting (ref_sub: 25841(T))",
+    "Chemistry (25913(T))",
+    "3.36",
+    "gpa1: 3.48",
+    "Computer Architecture & Microprocessor (ref_sub: 28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
