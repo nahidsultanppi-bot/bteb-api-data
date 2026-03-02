@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.13",
+    "Unknown Subject (gpa2: 744064 { gpa5: ref)",
+    "gpa4: 2.13",
+    "gpa3: 2.88",
+    "Unknown Subject (gpa2: 744151 { gpa5: ref)",
+    "gpa4: 3.73",
+    "gpa3: 3.25",
+    "Unknown Subject (gpa2: 744158 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.06",
+    "gpa2:\nref",
+    "gpa1: 3.24",
+    "Accounting (ref_sub: 25841(T))",
+    "Electrical Circuits-I (26721(T))",
+    "ref",
+    "gpa1: 2.86",
+    "Physics-II (ref_sub: 25922(T))",
+    "Electrical Circuits-I (26721(T))",
+    "2.78",
+    "gpa1: 3.36",
+    "AC Machine-I (ref_sub: 26761(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
