@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 785637 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: 2.48",
+    "Unknown Subject (gpa1: 785685 { gpa4: ref)",
+    "gpa3: 2.56",
+    "gpa2: 2.57",
+    "Unknown Subject (gpa1: 785864 { gpa4: ref)",
+    "gpa3: 2.76",
+    "gpa2: 2.75",
+    "gpa1:\n2.30",
+    "Accounting (ref_sub: 25841(T))",
+    "Mathematics-III (25931(T))",
+    "Surveying-II (26444(T))",
+    "2.98",
+    "Digital Electronics-I (ref_sub: 26831(T))",
+    "Digital Electronics-II (26841(T))",
+    "Networks, Filters and Transmission lines (26843(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
