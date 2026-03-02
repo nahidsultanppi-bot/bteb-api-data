@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.74",
+    "gpa3: 2.98",
+    "Unknown Subject (gpa2: 740955 { gpa5: ref)",
+    "gpa4: 3.10",
+    "gpa3: 2.68",
+    "Unknown Subject (gpa2: 740956 { gpa5: ref)",
+    "gpa4: 2.86",
+    "gpa3: 2.88",
+    "Unknown Subject (gpa2: 740968 { gpa5: ref)",
+    "gpa4: 3.45",
+    "gpa3: 3.03",
+    "gpa2:\n2.82",
+    "gpa1: 2.85",
+    "Bio-Medical Instruments (ref_sub: 28654(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
