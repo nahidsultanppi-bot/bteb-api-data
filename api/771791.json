@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.53",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 771793 { gpa5: 2.90)",
+    "gpa4: 2.65",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 771796 { gpa5: ref)",
+    "gpa4: 2.80",
+    "gpa3: 2.85",
+    "Unknown Subject (gpa2: 771799 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n2.89",
+    "gpa1: 2.55",
+    "Power Electronics (ref_sub: 26832(T))",
+    "Television Engineering (26851(T))",
+    "2.85",
+    "gpa1: 2.81",
+    "Physics-II (ref_sub: 25922(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
