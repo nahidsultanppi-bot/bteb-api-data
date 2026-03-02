@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.26",
+    "gpa1: 3.15",
+    "Unknown Subject (818951 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.90",
+    "Unknown Subject (ref_sub: 818953 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 818969 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Geodetic Surveying (ref_sub:\nref_sub: 27834(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
