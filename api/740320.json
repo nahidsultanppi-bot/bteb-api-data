@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.02",
+    "Unknown Subject (gpa2: 740326 { gpa5: ref)",
+    "gpa4: 3.21",
+    "gpa3: 2.95",
+    "Unknown Subject (gpa2: 740327 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 740338 { gpa5: ref)",
+    "gpa4: 3.12",
+    "gpa3: ref",
+    "gpa2:\nref",
+    "gpa1: 3.10",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Java Programming (28541(T))",
+    "3.21",
+    "gpa1: 3.43",
+    "Application Development Using Java (ref_sub: 28551(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
