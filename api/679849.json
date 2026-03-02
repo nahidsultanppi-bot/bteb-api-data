@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: 3.30",
+    "gpa6: 3.36",
+    "gpa5: 3.33",
+    "Unknown Subject (679855 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 3.23",
+    "Unknown Subject (gpa4: 689448 { gpa7: ref)",
+    "gpa6: 3.43",
+    "gpa5: 3.39",
+    "gpa4:\ngpa4: 3.23",
+    "gpa3: 3.12",
+    "gpa2: ref",
+    "gpa1: 3.65",
+    "3.11",
+    "gpa3: 3.04",
+    "gpa2: 3.15",
+    "gpa1: 3.50",
+    "ref_sub: 3.50",
+    "gpa3: 3.38",
+    "gpa2: 3.49",
+    "gpa1: 3.86",
+    "Chemistry (ref_sub:\nref_sub: 25913(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
