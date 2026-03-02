@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (701133 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.80",
+    "Unknown Subject (gpa2: 701150 { gpa5: ref)",
+    "gpa4: 3.32",
+    "gpa3: 3.13",
+    "gpa2:\ngpa1: 2.83",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Basic Electronics (26811(T))",
+    "3.04",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Digital Electronics-II (26841(T))",
+    "3.25",
+    "gpa1: 3.10",
+    "Computer Architecture & Microprocessor (ref_sub: 28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
