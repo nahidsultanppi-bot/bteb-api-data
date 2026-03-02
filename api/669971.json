@@ -1,0 +1,19 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: 3.15",
+    "gpa3:\n3.42",
+    "gpa2: 3.07",
+    "gpa1: 3.55",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "Transmission and Distribution ofEectricalPower-I (26762(T))",
+    "Microprocessor & Microcontroller (26853(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
