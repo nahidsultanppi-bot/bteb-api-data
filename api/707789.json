@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.83",
+    "Unknown Subject (gpa2: 707805 { gpa5: ref)",
+    "gpa4: 2.68",
+    "gpa3: 3.08",
+    "Unknown Subject (gpa2: 707809 { gpa5: 2.43)",
+    "gpa4: ref",
+    "gpa3: 2.92",
+    "Unknown Subject (gpa2: 707815 { gpa5: ref)",
+    "gpa4: 2.74",
+    "gpa3: 2.76",
+    "gpa2:\n2.60",
+    "gpa1: 3.11",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Foundry & Pattern Making (27054(T))",
+    "2.36",
+    "gpa1: 3.03",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Foundry & Pattern Making (27054(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
