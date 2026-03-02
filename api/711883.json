@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.70",
+    "Unknown Subject (gpa2: 711886 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.35",
+    "Unknown Subject (gpa2: 711887 { gpa5: ref)",
+    "gpa4: 2.69",
+    "gpa3: 3.12",
+    "Unknown Subject (gpa2: 711888 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.48",
+    "gpa2:\nref",
+    "gpa1: 2.55",
+    "Accounting (ref_sub: 25841(T))",
+    "Basic Electronics (26811(T))",
+    "ref",
+    "gpa1: 2.23",
+    "Accounting (ref_sub: 25841(T))",
+    "Chemistry (25913(T))",
+    "2.48",
+    "gpa1: 2.95",
+    "Accounting (ref_sub: 25841(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
