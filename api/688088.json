@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: 3.37",
+    "gpa6: ref",
+    "gpa5: 3.25",
+    "Unknown Subject (gpa4: 688091 { gpa7: ref)",
+    "gpa6: 3.39",
+    "gpa5: 3.65",
+    "Unknown Subject (gpa4: 688095 { gpa7: ref)",
+    "gpa6: 3.00",
+    "gpa5: 2.98",
+    "gpa4:\n2.89",
+    "gpa3: 3.23",
+    "gpa2: 3.05",
+    "gpa1: 3.60",
+    "ref_sub: 3.38",
+    "gpa3: 3.33",
+    "gpa2: 2.95",
+    "gpa1: 3.78",
+    "ref_sub: 2.86",
+    "gpa3: 2.98",
+    "gpa2: 2.70",
+    "gpa1: 3.53",
+    "Database Management System (ref_sub:\n28561(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
