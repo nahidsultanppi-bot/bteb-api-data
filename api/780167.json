@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.26",
+    "Unknown Subject (gpa2: 780168 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.05",
+    "Unknown Subject (gpa2: 780172 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.04",
+    "Unknown Subject (gpa2: 780175 { gpa5: ref)",
+    "gpa4: 3.32",
+    "gpa3: 3.12",
+    "gpa2:\nref",
+    "gpa1: 3.00",
+    "Accounting (ref_sub: 25841(T))",
+    "Chemistry (25913(T))",
+    "ref",
+    "gpa1: ref",
+    "Accounting (ref_sub: 25841(T))",
+    "Mathematics -I (25911(T))",
+    "2.73",
+    "gpa1: 3.20",
+    "Digital Electronics-II (ref_sub: 26841(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
