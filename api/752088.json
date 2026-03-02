@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.25",
+    "gpa3: 2.48",
+    "Unknown Subject (gpa2: 752090 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.19",
+    "Unknown Subject (gpa2: 752092 { gpa5: 2.37)",
+    "gpa4: 2.30",
+    "gpa3: 2.36",
+    "Unknown Subject (752095 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.33",
+    "gpa2:\n2.77",
+    "gpa1: 2.92",
+    "Fabric Design (ref_sub: 29652(T))",
+    "Design & Editing (29653(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
