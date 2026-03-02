@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.61",
+    "Engineering Ethics (gpa2: 682659 { gpa5: ref)",
+    "gpa4: 2.62",
+    "gpa3: 2.82",
+    "Aviation Legislation-I (gpa2: 682716 { gpa5: 2.83)",
+    "gpa4: ref",
+    "gpa3: 2.65",
+    "Aircraft Maintenance Practices (gpa2: 682730 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.74",
+    "gpa2:\nref",
+    "gpa1: 2.87",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "DC Machine (26742(T))",
+    "2.32",
+    "gpa1: 2.86",
+    "Advanced Welding-I (ref_sub: 27053(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
