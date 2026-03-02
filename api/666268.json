@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 666369 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.93",
+    "Unknown Subject (gpa2: 731879 { gpa5: ref)",
+    "gpa4: 3.36",
+    "gpa3: 2.96",
+    "Unknown Subject (gpa2: 735399 { gpa5: 2.65)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n2.73",
+    "gpa1: 2.64",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "3.01",
+    "gpa1: 3.20",
+    "Digital Electronics-II (ref_sub: 26841(T))",
+    "Application Development Using Java (28551(T))",
+    "2.88",
+    "gpa1: 3.44",
+    "Food Industrial Instrumentation & Process Control (ref_sub: 26955(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
