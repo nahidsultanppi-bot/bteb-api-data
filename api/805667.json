@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.61",
+    "Unknown Subject (ref_sub: 805674 { gpa3: ref)",
+    "gpa2: 3.34",
+    "gpa1: 3.61",
+    "Unknown Subject (805675 { gpa3: ref)",
+    "gpa2: 3.40",
+    "gpa1: 3.67",
+    "Unknown Subject (805685 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.52",
+    "Structural Mechanics (ref_sub:\n26431(T))",
+    "Basic Electronics (26811(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
