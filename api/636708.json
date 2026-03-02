@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.69",
+    "Unknown Subject (gpa2: 636730 { gpa5: ref)",
+    "gpa4: 2.46",
+    "gpa3: 2.59",
+    "Unknown Subject (gpa2: 636742 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (636744 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "2.59",
+    "gpa1: 2.80",
+    "Industrial Management (ref_sub: 25852(T))",
+    "DC Machine (26742(T))",
+    "2.58",
+    "gpa1: 3.08",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
