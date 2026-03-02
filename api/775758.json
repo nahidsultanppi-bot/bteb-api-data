@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: 2.48",
+    "Unknown Subject (gpa1: 776141 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: 2.46",
+    "Unknown Subject (gpa1: 776265 { gpa4: ref)",
+    "gpa3: 2.55",
+    "gpa2: 2.60",
+    "Unknown Subject (gpa1: 777244 { gpa4: ref)",
+    "gpa3: 3.04",
+    "gpa2: 2.80",
+    "gpa1:\n3.04",
+    "Electrical Circuits-II (ref_sub: 26731(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "DC Machine (26742(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
