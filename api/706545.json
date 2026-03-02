@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.20",
+    "Unknown Subject (gpa2: 706548 { gpa5: ref)",
+    "gpa4: 3.68",
+    "gpa3: 3.83",
+    "Unknown Subject (gpa2: 706559 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (706568 { gpa5: ref)",
+    "gpa4: 3.18",
+    "gpa3: 3.27",
+    "gpa2:\n2.94",
+    "gpa1: 2.59",
+    "Estimating & Costing-I (ref_sub: 26442(T))",
+    "Foundation Engineering (26451(T))",
+    "3.70",
+    "gpa1: 3.34",
+    "Surveying-III (ref_sub: 26453(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
