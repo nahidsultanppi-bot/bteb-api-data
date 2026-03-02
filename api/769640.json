@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.00",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 769644 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n3.00",
+    "gpa1: 3.00",
+    "Accounting (ref_sub: 25841(T))",
+    "Digital Electronics-I (26831(T))",
+    "2.60",
+    "gpa1: 2.48",
+    "Business Communication (ref_sub: 25831(T))",
+    "Accounting (25841(T))",
+    "Application Development Using Python (28531(T))",
+    "Application Development Using Java (28551(T))",
+    "Web Design & Development-II (28552(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
