@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: 2.93",
+    "gpa2: ref",
+    "gpa1: 2.74",
+    "Unknown Subject (854960 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.55",
+    "Unknown Subject (ref_sub: 854965 { gpa3: 2.86)",
+    "gpa2: ref",
+    "gpa1: 2.62",
+    "Unknown Subject (854974 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Electrical Engineering Drawing (ref_sub:\nref_sub: 26722(T))",
+    "Basic Electronics (26811(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
