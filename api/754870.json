@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.45",
+    "gpa3: 2.95",
+    "Unknown Subject (gpa2: 754874 { gpa5: ref)",
+    "gpa4: 2.68",
+    "gpa3: 3.01",
+    "Unknown Subject (gpa2: 754892 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (754906 { gpa5: ref)",
+    "gpa4: 2.51",
+    "gpa3: 2.74",
+    "gpa2:\n2.73",
+    "gpa1: 2.71",
+    "Automobile Air- Conditioning (ref_sub: 26251(T))",
+    "Fluid Mechanics & Machineries (27051(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
