@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.24",
+    "Unknown Subject (gpa2: 704997 { gpa5: ref)",
+    "gpa4: 3.26",
+    "gpa3: 3.53",
+    "Unknown Subject (gpa2: 705006 { gpa5: ref)",
+    "gpa4: 3.43",
+    "gpa3: 3.40",
+    "Unknown Subject (gpa2: 705013 { gpa5: ref)",
+    "gpa4: 3.06",
+    "gpa3: 3.29",
+    "gpa2:\nref",
+    "gpa1: 3.43",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Engineering Mechanics (27041(T))",
+    "3.39",
+    "gpa1: 3.50",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
