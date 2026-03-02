@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.07",
+    "Unknown Subject (gpa2: 724180 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.07",
+    "Unknown Subject (gpa2: 724181 { gpa5: ref)",
+    "gpa4: 3.10",
+    "gpa3: 3.04",
+    "Unknown Subject (gpa2: 724199 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.35",
+    "gpa2:\nref",
+    "gpa1: 3.19",
+    "Physics-II (ref_sub: 25922(T))",
+    "Digital Electronics (26845(T))",
+    "2.91",
+    "gpa1: 3.14",
+    "Digital Electronics (ref_sub: 26845(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
