@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.26",
+    "gpa3: 3.38",
+    "Unknown Subject (gpa2: 749483 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.15",
+    "Unknown Subject (gpa2: 749487 { gpa5: 3.41)",
+    "gpa4: ref",
+    "gpa3: 3.27",
+    "Unknown Subject (gpa2: 749490 { gpa5: 3.58)",
+    "gpa4: 3.11",
+    "gpa3: ref",
+    "gpa2:\nref",
+    "gpa1: 3.14",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Civil CAD-II (26452(P))",
+    "ref",
+    "gpa1: ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Mathematics-II (25921(T))",
+    "2.96",
+    "gpa1: 3.35",
+    "Environmental Studies (ref_sub: 29041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
