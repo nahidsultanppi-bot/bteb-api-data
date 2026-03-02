@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.36",
+    "gpa3: 3.19",
+    "Unknown Subject (gpa2: 749358 { gpa5: ref)",
+    "gpa4: 3.30",
+    "gpa3: 3.21",
+    "Unknown Subject (gpa2: 749365 { gpa5: ref)",
+    "gpa4: 3.32",
+    "gpa3: 3.12",
+    "Unknown Subject (gpa2: 749366 { gpa5: ref)",
+    "gpa4: 3.26",
+    "gpa3: 3.21",
+    "gpa2:\n3.36",
+    "gpa1: 3.40",
+    "Accounting (ref_sub: 25841(T))",
+    "Web Design & Development-II (28552(T))",
+    "3.27",
+    "gpa1: 3.40",
+    "Web Design & Development-II (ref_sub: 28552(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
