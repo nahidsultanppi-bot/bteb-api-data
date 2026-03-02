@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.18",
+    "Unknown Subject (gpa2: 726137 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 726140 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.93",
+    "Unknown Subject (gpa2: 726141 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.15",
+    "gpa2:\n3.05",
+    "gpa1: 3.61",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
