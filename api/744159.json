@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.99",
+    "Unknown Subject (gpa2: 744164 { gpa5: ref)",
+    "gpa4: 2.17",
+    "gpa3: 3.00",
+    "Unknown Subject (gpa2: 744165 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (744166 { gpa5: ref)",
+    "gpa4: 3.01",
+    "gpa3: 2.60",
+    "gpa2:\nref",
+    "gpa1: 3.24",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Physics-II (25922(T))",
+    "2.50",
+    "gpa1: 3.14",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "Radiology and Imaging Equipment (28651(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
