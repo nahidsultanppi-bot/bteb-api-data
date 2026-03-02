@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.17",
+    "gpa3: 3.06",
+    "Unknown Subject (gpa2: 789034 { gpa5: ref)",
+    "gpa4: 2.85",
+    "gpa3: 2.58",
+    "Unknown Subject (gpa2: 789035 { gpa5: ref)",
+    "gpa4: 2.69",
+    "gpa3: 3.03",
+    "Unknown Subject (gpa2: 789042 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n2.35",
+    "gpa1: 2.95",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Foundry & Pattern Making (27054(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
