@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.69",
+    "gpa3: 2.48",
+    "Unknown Subject (gpa2: 776960 { gpa5: ref)",
+    "gpa4: 2.41",
+    "gpa3: 2.50",
+    "Unknown Subject (gpa2: 778510 { gpa5: ref)",
+    "gpa4: 2.44",
+    "gpa3: 3.04",
+    "Unknown Subject (gpa2: 778617 { gpa5: ref)",
+    "gpa4: 2.40",
+    "gpa3: 3.02",
+    "gpa2:\nref",
+    "gpa1: 2.70",
+    "Chemistry (ref_sub: 25913(T))",
+    "Application Development Using Java (28551(T))",
+    "2.68",
+    "gpa1: 3.20",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
