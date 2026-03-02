@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.39",
+    "gpa3: 3.19",
+    "Unknown Subject (gpa2: 705272 { gpa5: ref)",
+    "gpa4: 3.38",
+    "gpa3: 3.24",
+    "Unknown Subject (gpa2: 705273 { gpa5: ref)",
+    "gpa4: 3.33",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 705277 { gpa5: ref)",
+    "gpa4: 3.29",
+    "gpa3: 3.49",
+    "gpa2:\n2.82",
+    "gpa1: 3.14",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
