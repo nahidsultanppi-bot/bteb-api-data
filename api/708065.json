@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.92",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 708072 { gpa5: ref)",
+    "gpa4: 2.99",
+    "gpa3: 2.65",
+    "Unknown Subject (gpa2: 708073 { gpa5: ref)",
+    "gpa4: 3.40",
+    "gpa3: 2.98",
+    "Unknown Subject (gpa2: 708074 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.80",
+    "gpa2:\nref",
+    "gpa1: 3.43",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Mathematics-III (25931(T))",
+    "2.83",
+    "gpa1: 3.07",
+    "Advanced Welding-I (ref_sub: 27053(T))",
+    "Fundamental of Hybride & Electric Vehicle (27151(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
