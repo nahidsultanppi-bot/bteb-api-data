@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.88",
+    "Unknown Subject (ref_sub: 834628 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.74",
+    "Unknown Subject (ref_sub: 834640 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.95",
+    "Unknown Subject (ref_sub: 834648 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.15",
+    "Electrical Circuits-I (ref_sub:\n26721(T))",
+    "Electrical Appliances (26732(T))",
+    "Basic Electronics (26811(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
