@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.04",
+    "Unknown Subject (gpa2: 603821 { gpa5: 3.15)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 603879 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 603928 { gpa5: ref)",
+    "gpa4: 3.62",
+    "gpa3: 3.06",
+    "gpa2:\n2.89",
+    "gpa1: 3.71",
+    "Surveying-II (ref_sub: 26444(T))",
+    "Surveying-III (26453(T))",
+    "2.76",
+    "gpa1: 3.07",
+    "Electrical Circuits-II (ref_sub: 26731(T))",
+    "Digital Electronics (26845(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
