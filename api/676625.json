@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.94",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "AC Machine-I (26761(T))",
+    "Transmission and Distribution of ElectricalPower (26764(T))",
+    "Digital Electronics-I (26831(T))",
+    "Digital Electronics-II (26841(T))",
+    "Networks, Filters and Transmission lines (26843(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
