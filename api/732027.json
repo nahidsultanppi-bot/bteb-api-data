@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.88",
+    "Unknown Subject (gpa2: 732030 { gpa5: ref)",
+    "gpa4: 3.74",
+    "gpa3: 3.30",
+    "Unknown Subject (gpa2: 732032 { gpa5: ref)",
+    "gpa4: 3.30",
+    "gpa3: 3.02",
+    "Unknown Subject (gpa2: 732034 { gpa5: ref)",
+    "gpa4: 3.13",
+    "gpa3: 2.78",
+    "gpa2:\n2.84",
+    "gpa1: 2.95",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Mechanical Estimating & Costing (27052(T))",
+    "3.10",
+    "gpa1: 3.29",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
