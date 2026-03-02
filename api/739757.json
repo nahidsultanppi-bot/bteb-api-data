@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.38",
+    "Unknown Subject (gpa2: 739783 { gpa5: ref)",
+    "gpa4: 2.46",
+    "gpa3: 2.38",
+    "Unknown Subject (gpa2: 739785 { gpa5: 2.76)",
+    "gpa4: 2.49",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 739789 { gpa5: 3.21)",
+    "gpa4: ref",
+    "gpa3: 2.45",
+    "gpa2:\n2.63",
+    "gpa1: 3.14",
+    "Accounting (ref_sub: 25841(T))",
+    "Marine Boiler & Steam Engineering (27952(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
