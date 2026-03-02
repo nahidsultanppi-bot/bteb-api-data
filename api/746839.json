@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 3.00",
+    "gpa4: ref",
+    "gpa3: 3.10",
+    "Unknown Subject (gpa2: 746856 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (746859 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.58",
+    "Unknown Subject (gpa2: 746867 { gpa5: ref)",
+    "gpa4: 2.79",
+    "gpa3: ref",
+    "gpa2:\n3.20",
+    "gpa1: 3.22",
+    "Geotechnical Engineering (ref_sub: 26445(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
