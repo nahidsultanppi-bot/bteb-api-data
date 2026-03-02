@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.30",
+    "gpa1: 3.58",
+    "Unknown Subject (886110 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 4.00",
+    "Unknown Subject (ref_sub: 886112 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 4.00",
+    "Unknown Subject (ref_sub: 886113 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 4.00",
+    "IT Support Services (ref_sub:\nref_sub: 28533(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
