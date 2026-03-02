@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.44",
+    "gpa3: 3.42",
+    "Unknown Subject (gpa2: 741216 { gpa5: ref)",
+    "gpa4: 3.83",
+    "gpa3: 3.74",
+    "Unknown Subject (gpa2: 741227 { gpa5: ref)",
+    "gpa4: 3.46",
+    "gpa3: 3.55",
+    "gpa2:\n3.34",
+    "gpa1: 3.23",
+    "Surveying-III (ref_sub: 26453(T))",
+    "Theory of Structure (26454(T))",
+    "3.65",
+    "gpa1: 3.15",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "3.40",
+    "gpa1: 3.45",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
