@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 767053 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.93",
+    "Unknown Subject (gpa2: 767066 { gpa5: ref)",
+    "gpa4: 3.25",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 767067 { gpa5: ref)",
+    "gpa4: 3.06",
+    "gpa3: ref",
+    "gpa2:\n2.83",
+    "gpa1: 2.78",
+    "Accounting (ref_sub: 25841(T))",
+    "Physics-II (25922(T))",
+    "3.19",
+    "gpa1: 2.75",
+    "Data Structure & Algorithm (ref_sub: 28542(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
