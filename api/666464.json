@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: 3.06",
+    "Unknown Subject (gpa3: 666469 { gpa6: ref)",
+    "gpa5: ref",
+    "gpa4: 3.07",
+    "Unknown Subject (gpa3: 666474 { gpa6: ref)",
+    "gpa5: ref",
+    "gpa4: 3.23",
+    "gpa3:\n3.12",
+    "gpa2: 2.80",
+    "gpa1: 3.31",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "3.07",
+    "gpa2: 2.78",
+    "gpa1: 3.67",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "3.06",
+    "gpa2: 2.93",
+    "gpa1: 3.17",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
