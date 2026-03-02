@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 752512 { gpa5: 3.10)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 752515 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (752516 { gpa5: 3.18)",
+    "gpa4: ref",
+    "gpa3: 2.80",
+    "gpa2:\n2.75",
+    "gpa1: 2.67",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.67",
+    "gpa1: 2.85",
+    "Chemistry (ref_sub: 25913(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
