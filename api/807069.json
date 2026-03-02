@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.80",
+    "Unknown Subject (ref_sub: 807075 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.77",
+    "Unknown Subject (ref_sub: 807081 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 807082 { gpa3: 3.34)",
+    "gpa2: ref",
+    "gpa1: 3.31",
+    "Chemistry (25913(T))",
+    "Physics-II (25922(T))",
+    "Electronic Devices and Circuits (26821(T))",
+    "Digital Electronics-I (26831(T))",
+    "Mathematics-II (25921(T))",
+    "Physics-II (25922(T))",
+    "Electrical Circuits-II (26731(T))",
+    "Electronic Devices and Circuits (26821(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
