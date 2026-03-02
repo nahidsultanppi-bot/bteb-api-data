@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.92",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 718700 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (718701 { gpa5: ref)",
+    "gpa4: 2.96",
+    "gpa3: 2.97",
+    "Unknown Subject (gpa2: 718703 { gpa5: ref)",
+    "gpa4: 2.68",
+    "gpa3: 2.66",
+    "gpa2:\n2.36",
+    "gpa1: 2.60",
+    "Heating Ventilation & Air Conditioning (HVAC) (ref_sub: 27251(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
