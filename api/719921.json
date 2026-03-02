@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.42",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 719934 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.79",
+    "Unknown Subject (gpa2: 719937 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n2.91",
+    "gpa1: 3.53",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "2.71",
+    "gpa1: 3.05",
+    "Accounting (ref_sub: 25841(T))",
+    "Structural Mechanics (26431(T))",
+    "2.62",
+    "gpa1: ref",
+    "Business Communication (ref_sub: 25831(T))",
+    "Accounting (25841(T))",
+    "Advanced Welding-I (27053(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
