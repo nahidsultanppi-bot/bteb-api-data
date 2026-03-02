@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.09",
+    "gpa1: 3.38",
+    "Unknown Subject (843509 { gpa3: ref)",
+    "gpa2: 2.73",
+    "gpa1: 3.23",
+    "Unknown Subject (843685 { gpa3: ref)",
+    "gpa2: 3.28",
+    "gpa1: 3.42",
+    "Unknown Subject (843819 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.16",
+    "Mathematics-III (ref_sub:\nref_sub: 25931(T))",
+    "RAC Cycles and Components (27231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
