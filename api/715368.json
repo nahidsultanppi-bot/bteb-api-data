@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.21",
+    "Unknown Subject (gpa2: 715375 { gpa5: 2.96)",
+    "gpa4: ref",
+    "gpa3: 2.75",
+    "Unknown Subject (gpa2: 715379 { gpa5: ref)",
+    "gpa4: 3.26",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 715380 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.93",
+    "gpa2:\n3.05",
+    "gpa1: 2.71",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Engineering Mechanics (27041(T))",
+    "ref",
+    "gpa1: 3.19",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Environmental Studies (29041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
