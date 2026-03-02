@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.95",
+    "gpa3: 2.82",
+    "Unknown Subject (gpa2: 715016 { gpa5: ref)",
+    "gpa4: 2.82",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 715018 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 715024 { gpa5: ref)",
+    "gpa4: 3.00",
+    "gpa3: 3.08",
+    "gpa2:\n2.86",
+    "gpa1: 3.39",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Foundry & Pattern Making (27054(T))",
+    "2.71",
+    "gpa1: 3.30",
+    "Foundry & Pattern Making (ref_sub: 27054(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
