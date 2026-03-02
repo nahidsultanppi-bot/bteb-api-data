@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 764442 { gpa5: ref)",
+    "gpa4: 3.04",
+    "gpa3: 3.06",
+    "Unknown Subject (gpa2: 764443 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.98",
+    "Unknown Subject (gpa2: 764444 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.26",
+    "gpa2:\n3.06",
+    "gpa1: 2.99",
+    "Physics-II (ref_sub: 25922(T))",
+    "Geotechnical Engineering (26445(T))",
+    "3.10",
+    "gpa1: 2.97",
+    "Surveying-III (ref_sub: 26453(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester",
+  "Name": "Md. Farhad Rayhan",
+  "Department": "Electrical Technology"
+}
