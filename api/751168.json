@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.43",
+    "Unknown Subject (gpa2: 751169 { gpa5: ref)",
+    "gpa4: 3.02",
+    "gpa3: 3.29",
+    "Unknown Subject (gpa2: 751180 { gpa5: ref)",
+    "gpa4: 3.25",
+    "gpa3: 3.58",
+    "Unknown Subject (gpa2: 751181 { gpa5: ref)",
+    "gpa4: 3.01",
+    "gpa3: 3.43",
+    "gpa2:\n3.17",
+    "gpa1: 3.05",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "DC Machine (26742(T))",
+    "2.80",
+    "gpa1: 3.05",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
