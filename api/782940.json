@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.52",
+    "Unknown Subject (gpa2: 782941 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.58",
+    "Unknown Subject (gpa2: 782942 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.10",
+    "Unknown Subject (gpa2: 782944 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "2.68",
+    "gpa1: 3.36",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
