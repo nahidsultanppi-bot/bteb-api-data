@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 747956 { gpa4: ref)",
+    "gpa3: 2.95",
+    "gpa2: 2.98",
+    "Unknown Subject (gpa1: 793458 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1:\n2.73",
+    "Chemistry (ref_sub: 25913(T))",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "2.86",
+    "Suspension, Brake, Steering & Transmission System of Vehicle (ref_sub: 26262(T))",
+    "Engineering Mechanics (27041(T))",
+    "Metallurgy2 (27043(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
