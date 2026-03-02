@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.77",
+    "Unknown Subject (gpa2: 714341 { gpa5: ref)",
+    "gpa4: 3.40",
+    "gpa3: 3.55",
+    "Unknown Subject (gpa2: 714345 { gpa5: ref)",
+    "gpa4: 2.81",
+    "gpa3: 3.02",
+    "Unknown Subject (gpa2: 714348 { gpa5: ref)",
+    "gpa4: 2.90",
+    "gpa3: 2.98",
+    "gpa2:\n2.78",
+    "gpa1: 3.01",
+    "Geotechnical Engineering (ref_sub: 26445(T))",
+    "Civil CAD-II (26452(T))",
+    "3.41",
+    "gpa1: 3.48",
+    "Theory of Structure (ref_sub: 26454(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
