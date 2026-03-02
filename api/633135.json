@@ -1,0 +1,17 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: 3.12",
+    "gpa3:\n3.06",
+    "gpa2: 3.08",
+    "gpa1: 3.45",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))",
+    "Electrical & Electronic Measurements-II (26763(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
