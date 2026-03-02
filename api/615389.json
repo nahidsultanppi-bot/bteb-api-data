@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 714261 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 714415 { gpa4: ref)",
+    "gpa3: 2.33",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 714438 { gpa4: ref)",
+    "gpa3: 2.42",
+    "gpa2: 2.38",
+    "gpa1:\n2.74",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Industrial Electronics (26833(T))",
+    "Digital Electronics (26845(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
