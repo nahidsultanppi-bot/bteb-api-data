@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.31",
+    "Unknown Subject (gpa2: 786211 { gpa5: ref)",
+    "gpa4: 3.00",
+    "gpa3: 2.46",
+    "Unknown Subject (gpa2: 786212 { gpa5: ref)",
+    "gpa4: 3.04",
+    "gpa3: 2.80",
+    "Unknown Subject (gpa2: 786217 { gpa5: ref)",
+    "gpa4: 2.62",
+    "gpa3: ref",
+    "gpa2:\n2.39",
+    "gpa1: 2.64",
+    "Business Communication (ref_sub: 25831(T))",
+    "Engineering Mechanics (27041(T))",
+    "2.86",
+    "gpa1: 2.64",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Advanced Welding-I (27053(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
