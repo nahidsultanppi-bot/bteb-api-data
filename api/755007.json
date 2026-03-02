@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 755023 { gpa5: ref)",
+    "gpa4: 2.38",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 755024 { gpa5: ref)",
+    "gpa4: 2.57",
+    "gpa3: 2.95",
+    "Unknown Subject (gpa2: 755026 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.80",
+    "gpa2:\n2.50",
+    "gpa1: 3.17",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Automobile Air- Conditioning (26251(T))",
+    "2.57",
+    "gpa1: 2.82",
+    "Automobile Air- Conditioning (ref_sub: 26251(T))",
+    "Basic Electronics (26811(T))",
+    "2.63",
+    "gpa1: 3.20",
+    "Automobile Air- Conditioning (ref_sub: 26251(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
