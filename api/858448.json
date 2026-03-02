@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.18",
+    "Unknown Subject (ref_sub: 858449 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 858451 { gpa3: ref)",
+    "gpa2: 3.38",
+    "gpa1: 3.63",
+    "Unknown Subject (858454 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.55",
+    "Bangla -II (ref_sub:\n25721(T))",
+    "Mathematics-II (25921(T))",
+    "Structural Mechanics (26431(T))",
+    "Surveying-I (26432(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
