@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.85",
+    "Unknown Subject (ref_sub: 823899 { gpa3: ref)",
+    "gpa2: 2.47",
+    "gpa1: 3.00",
+    "Unknown Subject (823905 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.40",
+    "Unknown Subject (ref_sub: 823907 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.68",
+    "Physics-II (ref_sub:\n25922(T))",
+    "Machine Shop Practice-I (27012(T))",
+    "Engineering Mechanics (27041(T)",
+    "P)",
+    "Marine IC Engine-I (27931(P))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
