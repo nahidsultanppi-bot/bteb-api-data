@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.02",
+    "Unknown Subject (gpa2: 730427 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.12",
+    "Unknown Subject (gpa2: 730453 { gpa5: ref)",
+    "gpa4: 3.18",
+    "gpa3: 3.40",
+    "Unknown Subject (gpa2: 730459 { gpa5: 3.76)",
+    "gpa4: 3.52",
+    "gpa3: 3.55",
+    "3.01",
+    "gpa1: 3.20",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "ref",
+    "gpa1: 3.21",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Mathematics-II (25921(T))",
+    "3.46",
+    "gpa1: 3.50",
+    "Computer Architecture & Microprocessor (ref_sub: 28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
