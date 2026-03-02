@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.70",
+    "gpa3: 2.90",
+    "Unknown Subject (gpa2: 775781 { gpa5: ref)",
+    "gpa4: 2.51",
+    "gpa3: 2.65",
+    "Unknown Subject (gpa2: 775783 { gpa5: ref)",
+    "gpa4: 2.51",
+    "gpa3: 2.54",
+    "Unknown Subject (gpa2: 775790 { gpa5: ref)",
+    "gpa4: 3.13",
+    "gpa3: 2.89",
+    "gpa2:\n2.63",
+    "gpa1: 3.04",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Electrical & Electronic Measurements-I (26752(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
