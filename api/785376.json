@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.87",
+    "Unknown Subject (gpa2: 785378 { gpa5: ref)",
+    "gpa4: 2.50",
+    "gpa3: 2.61",
+    "Unknown Subject (gpa2: 785380 { gpa5: ref)",
+    "gpa4: 2.45",
+    "gpa3: 2.81",
+    "Unknown Subject (gpa2: 785383 { gpa5: ref)",
+    "gpa4: 3.20",
+    "gpa3: 2.80",
+    "gpa2:\n2.46",
+    "gpa1: 2.95",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Estimating & Costing-I (26442(T))",
+    "2.75",
+    "gpa1: 2.87",
+    "Surveying-III (ref_sub: 26453(T))",
+    "Theory of Structure (26454(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
