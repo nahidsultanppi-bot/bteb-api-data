@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: 2.88",
+    "gpa4: 2.88",
+    "Unknown Subject (gpa3: 631815 { gpa6: ref)",
+    "gpa5: ref",
+    "gpa4: 2.85",
+    "Unknown Subject (gpa3: 631826 { gpa6: ref)",
+    "gpa5: 2.73",
+    "gpa4: 2.73",
+    "Unknown Subject (gpa3: 631856 { gpa6: ref)",
+    "gpa5: 2.70",
+    "gpa4: 3.13",
+    "gpa3:\n3.07",
+    "gpa2: 2.68",
+    "gpa1: 3.69",
+    "AC Machine-I (ref_sub: 26761(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
