@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.05",
+    "gpa3: 2.64",
+    "Unknown Subject (gpa2: 707415 { gpa5: ref)",
+    "gpa4: 2.95",
+    "gpa3: 3.30",
+    "Unknown Subject (gpa2: 707420 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (707423 { gpa5: ref)",
+    "gpa4: 2.81",
+    "gpa3: 2.90",
+    "gpa2:\n2.67",
+    "gpa1: 3.33",
+    "Electronic Appliancs (ref_sub: 26852(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
