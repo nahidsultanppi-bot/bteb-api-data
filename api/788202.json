@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.04",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 788214 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.43",
+    "Unknown Subject (gpa2: 788215 { gpa5: ref)",
+    "gpa4: 2.51",
+    "gpa3: 2.82",
+    "Unknown Subject (gpa2: 788218 { gpa5: ref)",
+    "gpa4: 2.64",
+    "gpa3: 3.18",
+    "gpa2:\nref",
+    "gpa1: 3.20",
+    "Basic Electricity (ref_sub: 26711(T))",
+    "Machine Shop Practice-II (27032(T))",
+    "2.64",
+    "gpa1: 2.55",
+    "Digital Electronics-II (ref_sub: 26841(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "2.69",
+    "gpa1: 2.68",
+    "Data Communication (ref_sub: 28554(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
