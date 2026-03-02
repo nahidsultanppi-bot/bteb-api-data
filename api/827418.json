@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.36",
+    "Unknown Subject (ref_sub: 827420 { gpa3: ref)",
+    "gpa2: 2.93",
+    "gpa1: 3.10",
+    "Unknown Subject (827421 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.79",
+    "Unknown Subject (ref_sub: 827427 { gpa3: ref)",
+    "gpa2: 2.93",
+    "gpa1: 3.05",
+    "Mathematics-II (25921(T))",
+    "Engineering Thermodynamics (27131(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
