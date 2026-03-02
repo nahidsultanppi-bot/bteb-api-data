@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.27",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 736281 { gpa5: ref)",
+    "gpa4: 2.99",
+    "gpa3: 3.15",
+    "Unknown Subject (gpa2: 736284 { gpa5: ref)",
+    "gpa4: 2.94",
+    "gpa3: 3.08",
+    "Unknown Subject (gpa2: 736312 { gpa5: ref)",
+    "gpa4: 2.98",
+    "gpa3: 3.20",
+    "gpa2:\n2.83",
+    "gpa1: 3.14",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Engineering Thermodynamics (27131(T))",
+    "3.02",
+    "gpa1: 3.23",
+    "Application Development Using Java (ref_sub: 28551(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
