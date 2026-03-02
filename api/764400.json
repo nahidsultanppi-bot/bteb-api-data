@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.27",
+    "gpa3: 3.32",
+    "Unknown Subject (gpa2: 764401 { gpa5: ref)",
+    "gpa4: 3.19",
+    "gpa3: 3.23",
+    "Unknown Subject (gpa2: 764404 { gpa5: ref)",
+    "gpa4: 3.46",
+    "gpa3: 3.31",
+    "Unknown Subject (gpa2: 764407 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.06",
+    "gpa2:\n3.20",
+    "gpa1: 3.07",
+    "Hydraulics (ref_sub: 26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester",
+  "Name": "Tanvir Akonda",
+  "Department": "Civil Technology"
+}
