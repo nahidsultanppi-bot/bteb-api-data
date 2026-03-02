@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.59",
+    "gpa3: 2.98",
+    "Unknown Subject (gpa2: 794622 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.08",
+    "Unknown Subject (gpa2: 794624 { gpa5: ref)",
+    "gpa4: 2.75",
+    "gpa3: 2.98",
+    "gpa2:\nref",
+    "gpa1: 3.75",
+    "Electrical Circuits-I (ref_sub: 26721(T))",
+    "Electronic Devices and Circuits (26821(T))",
+    "2.00",
+    "gpa1: 3.75",
+    "Electrical Installation,Planning and Estimating (ref_sub: 26741(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.00",
+    "gpa1: 3.75",
+    "Television Engineering (ref_sub: 26851(T))",
+    "Bio-Medical Instruments (28654(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
