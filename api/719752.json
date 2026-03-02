@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.35",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 719757 { gpa5: ref)",
+    "gpa4: 2.65",
+    "gpa3: 2.38",
+    "Unknown Subject (gpa2: 719760 { gpa5: ref)",
+    "gpa4: 2.82",
+    "gpa3: 2.36",
+    "Unknown Subject (gpa2: 719767 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "2.52",
+    "gpa1: 3.24",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))",
+    "Industrial Electronics (26833(T))",
+    "2.69",
+    "gpa1: 3.60",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Generation of Electrical Power (26751(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
