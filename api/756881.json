@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.36",
+    "gpa3: 2.61",
+    "Unknown Subject (gpa2: 756885 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.80",
+    "Unknown Subject (gpa2: 756888 { gpa5: ref)",
+    "gpa4: 2.45",
+    "gpa3: 2.65",
+    "Unknown Subject (gpa2: 756914 { gpa5: ref)",
+    "gpa4: 3.44",
+    "gpa3: 2.90",
+    "gpa2:\n2.72",
+    "gpa1: 2.58",
+    "Electronic Appliancs (ref_sub: 26852(P))",
+    "Progamming in C (28567(T))",
+    "2.70",
+    "gpa1: 2.90",
+    "DC Machine (ref_sub: 26742(T))",
+    "Progamming in C (28567(T))",
+    "2.48",
+    "gpa1: 2.60",
+    "Progamming in C (ref_sub: 28567(T))",
+    "Bio-Medical Instruments (28654(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
