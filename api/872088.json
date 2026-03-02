@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.93",
+    "gpa1: 2.56",
+    "Unknown Subject (872859 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.50",
+    "Unknown Subject (ref_sub: 872943 { gpa3: 3.39)",
+    "gpa2: ref",
+    "gpa1: 3.15",
+    "Unknown Subject (873054 { gpa3: ref)",
+    "gpa2: 3.33",
+    "gpa1: 3.12",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Machine Shop Practice-I (27012(T))",
+    "Engineering Thermodynamics (27131(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
