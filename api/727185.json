@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: 2.24",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 727223 { gpa4: ref)",
+    "gpa3: 2.48",
+    "gpa2: 2.40",
+    "Unknown Subject (gpa1: 727259 { gpa4: ref)",
+    "gpa3: 2.64",
+    "gpa2: 2.81",
+    "gpa1:\n2.47",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Surveying-II (26444(T))",
+    "Geotechnical Engineering (26445(T))",
+    "2.26",
+    "Estimating & Costing-I (ref_sub: 26442(T))",
+    "Surveying-II (26444(T))",
+    "Geotechnical Engineering (26445(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
