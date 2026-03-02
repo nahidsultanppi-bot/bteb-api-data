@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: 2.56",
+    "Unknown Subject (gpa1: 783424 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: 2.17",
+    "Unknown Subject (gpa1: 783585 { gpa4: ref)",
+    "gpa3: 2.45",
+    "gpa2: 2.54",
+    "Unknown Subject (gpa1: 794525 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1:\n2.63",
+    "Digital Electronics-I (ref_sub: 26831(T))",
+    "Java Programming (28541(T))",
+    "Computer Peripherals & Interfacing (28543(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
