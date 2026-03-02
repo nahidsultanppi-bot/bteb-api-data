@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.24",
+    "Unknown Subject (ref_sub: 807187 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.09",
+    "Unknown Subject (ref_sub: 807188 { gpa3: 2.67)",
+    "gpa2: ref",
+    "gpa1: 2.93",
+    "Unknown Subject (807200 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.16",
+    "Chemistry (ref_sub:\n25913(T))",
+    "Basic Electricity (26711(T))",
+    "Mechanical Engineering Materials (27031(T))",
+    "Machine Shop Practice-II (27032(T))",
+    "Business Communication (25831(T))",
+    "Chemistry (25913(T))",
+    "Mathematics-III (25931(T))",
+    "RAC Cycles and Components (27231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
