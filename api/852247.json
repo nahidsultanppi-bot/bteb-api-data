@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.93",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 852252 { gpa3: ref)",
+    "gpa2: 2.69",
+    "gpa1: 3.19",
+    "Unknown Subject (852255 { gpa3: ref)",
+    "gpa2: 3.31",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 852256 { gpa3: ref)",
+    "gpa2: 3.02",
+    "gpa1: ref",
+    "Mathematics -I (ref_sub:\n25911(T))",
+    "Engineering Thermodynamics (27131(T))",
+    "RAC Cycles and Components (27231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
