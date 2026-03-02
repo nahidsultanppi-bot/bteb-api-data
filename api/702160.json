@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.01",
+    "gpa3: 3.19",
+    "Unknown Subject (gpa2: 702162 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 702163 { gpa5: ref)",
+    "gpa4: 3.57",
+    "gpa3: 3.73",
+    "Unknown Subject (gpa2: 702165 { gpa5: ref)",
+    "gpa4: 3.37",
+    "gpa3: 3.50",
+    "gpa2:\n3.07",
+    "gpa1: 3.24",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.98",
+    "gpa1: 3.10",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Mathematics-III (25931(T))",
+    "3.59",
+    "gpa1: 3.74",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
