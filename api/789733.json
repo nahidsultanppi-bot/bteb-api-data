@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.53",
+    "gpa3: 2.40",
+    "Unknown Subject (gpa2: 789749 { gpa5: ref)",
+    "gpa4: 2.64",
+    "gpa3: 2.46",
+    "Unknown Subject (gpa2: 789755 { gpa5: ref)",
+    "gpa4: 2.82",
+    "gpa3: 2.93",
+    "Unknown Subject (gpa2: 789756 { gpa5: ref)",
+    "gpa4: 2.64",
+    "gpa3: ref",
+    "gpa2:\n2.59",
+    "gpa1: 2.89",
+    "Mechanical Estimating & Costing (ref_sub: 27052(T))",
+    "Heating Ventilation & Air Conditioning (HVAC) (27251(T))",
+    "2.74",
+    "gpa1: 2.99",
+    "Mechanical Estimating & Costing (ref_sub: 27052(T))",
+    "Heating Ventilation & Air Conditioning (HVAC) (27251(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
