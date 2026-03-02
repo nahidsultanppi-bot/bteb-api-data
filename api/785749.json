@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (785756 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (785758 { gpa5: ref)",
+    "gpa4: 2.63",
+    "gpa3: 2.73",
+    "Unknown Subject (gpa2: 785769 { gpa5: ref)",
+    "gpa4: 2.73",
+    "gpa3: 2.79",
+    "gpa2:\ngpa1: 2.50",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "gpa1: 2.48",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Electrical Circuits-II (26731(T))",
+    "2.71",
+    "gpa1: 2.81",
+    "Electronic Appliancs (ref_sub: 26852(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
