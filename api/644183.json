@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.28",
+    "gpa3: 2.63",
+    "Unknown Subject (gpa2: 689748 { gpa5: ref)",
+    "gpa4: 2.54",
+    "gpa3: 2.63",
+    "Unknown Subject (gpa2: 734353 { gpa5: ref)",
+    "gpa4: 3.10",
+    "gpa3: 2.88",
+    "Unknown Subject (gpa2: 740636 { gpa5: ref)",
+    "gpa4: 2.54",
+    "gpa3: 2.98",
+    "gpa2:\n2.66",
+    "gpa1: 2.81",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "Electrical & Electronic Measurements-II (26763(T))",
+    "2.90",
+    "gpa1: 2.95",
+    "Application Development Using Java (ref_sub: 28551(T))",
+    "Data Communication (28554(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
