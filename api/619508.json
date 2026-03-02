@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.06",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 619510 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (719348 { gpa5: ref)",
+    "gpa4: 3.46",
+    "gpa3: ref",
+    "gpa2:\n3.14",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Chemistry (25913(T))",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Mathematics-II (25921(T))",
+    "Physics-II (25922(T))",
+    "3.33",
+    "gpa1: 3.17",
+    "Chemistry (ref_sub: 25913(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
