@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.22",
+    "gpa1: 3.79",
+    "Unknown Subject (821761 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.98",
+    "Unknown Subject (ref_sub: 821765 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.75",
+    "Unknown Subject (ref_sub: 821770 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.85",
+    "Electrical Circuits-II (ref_sub:\nref_sub: 26731(T))",
+    "Power Electronics (26832(T))",
+    "Computer Office Application (28511(P))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
