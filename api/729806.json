@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.96",
+    "gpa3: 2.77",
+    "Unknown Subject (gpa2: 730953 { gpa5: ref)",
+    "gpa4: 2.61",
+    "gpa3: 2.48",
+    "Unknown Subject (gpa2: 731296 { gpa5: ref)",
+    "gpa4: 2.96",
+    "gpa3: 3.10",
+    "Unknown Subject (gpa2: 731681 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n3.49",
+    "gpa1: 3.45",
+    "Computer Architecture & Microprocessor (ref_sub: 28553(T))",
+    "Data Communication (28554(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
