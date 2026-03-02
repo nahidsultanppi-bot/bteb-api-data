@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 3.28",
+    "gpa4: ref",
+    "gpa3: 2.74",
+    "Unknown Subject (gpa2: 764628 { gpa5: ref)",
+    "gpa4: 2.51",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 764629 { gpa5: 2.95)",
+    "gpa4: ref",
+    "gpa3: 2.29",
+    "Unknown Subject (gpa2: 764636 { gpa5: ref)",
+    "gpa4: 3.02",
+    "gpa3: 3.22",
+    "gpa2:\n2.77",
+    "gpa1: 3.60",
+    "DC Machine (ref_sub: 26742(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
