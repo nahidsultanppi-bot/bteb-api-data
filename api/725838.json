@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.63",
+    "Unknown Subject (gpa2: 725841 { gpa5: ref)",
+    "gpa4: 2.44",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 725844 { gpa5: ref)",
+    "gpa4: 3.01",
+    "gpa3: 3.06",
+    "Unknown Subject (gpa2: 725848 { gpa5: ref)",
+    "gpa4: 2.92",
+    "gpa3: 3.24",
+    "gpa2:\nref",
+    "gpa1: 2.92",
+    "Physics-II (ref_sub: 25922(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "2.58",
+    "gpa1: 2.87",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.75",
+    "gpa1: 3.12",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
