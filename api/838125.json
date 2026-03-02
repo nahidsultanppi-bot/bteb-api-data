@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.15",
+    "Unknown Subject (ref_sub: 838135 { gpa3: ref)",
+    "gpa2: 3.00",
+    "gpa1: 3.24",
+    "Unknown Subject (838142 { gpa3: ref)",
+    "gpa2: 3.10",
+    "gpa1: 3.45",
+    "Unknown Subject (838145 { gpa3: ref)",
+    "gpa2: 2.82",
+    "gpa1: ref",
+    "Chemistry (ref_sub:\n25913(T))",
+    "Electrical Circuits-I (26721(T))",
+    "Industrial Electronics (26833(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
