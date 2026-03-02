@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 735479 { gpa5: ref)",
+    "gpa4: 2.86",
+    "gpa3: 2.80",
+    "Unknown Subject (gpa2: 735490 { gpa5: ref)",
+    "gpa4: 2.91",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 735491 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n2.85",
+    "gpa1: 2.64",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Electrical Circuits-II (26731(T))",
+    "ref",
+    "gpa1: 2.83",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Electronic Devices and Circuits (26821(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
