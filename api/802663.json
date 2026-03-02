@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.31",
+    "gpa1: 3.45",
+    "Unknown Subject (802665 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.33",
+    "Unknown Subject (ref_sub: 802668 { gpa3: ref)",
+    "gpa2: 2.96",
+    "gpa1: 3.26",
+    "Unknown Subject (802669 { gpa3: ref)",
+    "gpa2: 2.86",
+    "gpa1: 3.07",
+    "Engineering Thermodynamics (ref_sub: 27131(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
