@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.40",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Physics-II (25922(T))",
+    "Mathematics-III (25931(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "Computer Peripherals & Interfacing (28543(T))",
+    "Computer Architecture & Microprocessor (28553(T))",
+    "Data Communication (28554(T))",
+    "Operating System (28555(T))",
+    "Copmputer Networking (28562(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
