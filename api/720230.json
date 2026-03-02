@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.21",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 720233 { gpa5: ref)",
+    "gpa4: 2.88",
+    "gpa3: 3.42",
+    "Unknown Subject (gpa2: 720248 { gpa5: ref)",
+    "gpa4: 2.90",
+    "gpa3: 3.11",
+    "Unknown Subject (gpa2: 720251 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "ref",
+    "gpa1: 3.12",
+    "Physics -I (ref_sub: 25912(T))",
+    "Mathematics-II (25921(T))",
+    "3.04",
+    "gpa1: 2.91",
+    "Foundation Engineering (ref_sub: 26451(T))",
+    "Surveying-III (26453(T))",
+    "2.95",
+    "gpa1: 3.18",
+    "Hydraulics (ref_sub: 26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
