@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.04",
+    "Unknown Subject (ref_sub: 858305 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 858307 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 858308 { gpa3: ref)",
+    "gpa2: 3.14",
+    "gpa1: ref",
+    "Physics-II (ref_sub:\n25922(T))",
+    "Automotive Engine System-II (26231(T))",
+    "Basic Electronics (26811(T))",
+    "Mechanical Engineering Materials (27031(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
