@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.31",
+    "Unknown Subject (gpa2: 664017 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.35",
+    "Unknown Subject (gpa2: 664018 { gpa5: ref)",
+    "gpa4: 2.51",
+    "gpa3: 2.54",
+    "Unknown Subject (gpa2: 664022 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "2.77",
+    "gpa1: 2.98",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.73",
+    "gpa1: 3.04",
+    "Electrical Installation,Planning and Estimating (ref_sub: 26741(T))",
+    "Networks, Filters and Transmission lines (26843(T))",
+    "3.01",
+    "gpa1: 3.24",
+    "Television Engineering (ref_sub: 26851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
