@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.56",
+    "gpa3: 2.70",
+    "Unknown Subject (gpa2: 782483 { gpa5: ref)",
+    "gpa4: 2.98",
+    "gpa3: 2.67",
+    "Unknown Subject (gpa2: 782484 { gpa5: ref)",
+    "gpa4: 2.98",
+    "gpa3: 2.73",
+    "Unknown Subject (gpa2: 782486 { gpa5: ref)",
+    "gpa4: 2.54",
+    "gpa3: 2.63",
+    "gpa2:\n2.63",
+    "gpa1: 2.86",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Testing and Maintannance of Electrical Equipments (26753(T))",
+    "2.59",
+    "gpa1: 2.65",
+    "Testing and Maintannance of Electrical Equipments (ref_sub: 26753(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
