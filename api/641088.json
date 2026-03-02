@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (641140 { gpa5: ref)",
+    "gpa4: 2.89",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 641157 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.26",
+    "Unknown Subject (gpa2: 641242 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.32",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Estimating & Costing-I (26442(T))",
+    "2.92",
+    "gpa1: 3.31",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
