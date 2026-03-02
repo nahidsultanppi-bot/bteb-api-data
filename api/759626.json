@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.18",
+    "Unknown Subject (gpa2: 759644 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.08",
+    "Unknown Subject (gpa2: 759657 { gpa5: ref)",
+    "gpa4: 3.01",
+    "gpa3: 3.35",
+    "Unknown Subject (gpa2: 759685 { gpa5: 3.35)",
+    "gpa4: 3.38",
+    "gpa3: 2.95",
+    "ref",
+    "gpa1: 2.90",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "DC Machine (26742(T))",
+    "ref",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Mathematics-II (25921(T))",
+    "2.83",
+    "gpa1: 3.08",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Mechanical Estimating & Costing (27052(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
