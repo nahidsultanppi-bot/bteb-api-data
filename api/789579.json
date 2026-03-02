@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (789594 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.02",
+    "Unknown Subject (gpa2: 789595 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.82",
+    "Unknown Subject (gpa2: 789605 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.81",
+    "gpa2:\ngpa1: 2.83",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Basic Electronics (26811(T))",
+    "2.89",
+    "gpa1: 2.86",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Food Industrial Instrumentation & Process Control (26955(T))",
+    "2.81",
+    "gpa1: 2.82",
+    "Food Industrial Instrumentation & Process Control (ref_sub: 26955(T))",
+    "Engineering Mechanics (27041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
