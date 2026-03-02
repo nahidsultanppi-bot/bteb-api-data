@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.79",
+    "Unknown Subject (gpa2: 790073 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.58",
+    "Unknown Subject (gpa2: 794523 { gpa5: ref)",
+    "gpa4: 2.81",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 794529 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.61",
+    "gpa2:\n2.63",
+    "gpa1: 3.10",
+    "Java Programming (ref_sub: 28541(T))",
+    "Computer Peripherals & Interfacing (28543(T))",
+    "3.00",
+    "gpa1: 2.76",
+    "Structural Mechanics (ref_sub: 26431(T))",
+    "Basic Estimating & Costing (26447(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
