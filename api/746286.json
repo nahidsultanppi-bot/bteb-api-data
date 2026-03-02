@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.42",
+    "gpa3: 3.39",
+    "Unknown Subject (gpa2: 746290 { gpa5: ref)",
+    "gpa4: 2.19",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 746292 { gpa5: ref)",
+    "gpa4: 2.51",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 746293 { gpa5: ref)",
+    "gpa4: 2.63",
+    "gpa3: 2.83",
+    "gpa2:\n3.33",
+    "gpa1: 3.24",
+    "Food Biotechnology (ref_sub: 26953(T))",
+    "Food Industrial Instrumentation & Process Control (26955(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
