@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.58",
+    "Unknown Subject (gpa2: 789222 { gpa5: ref)",
+    "gpa4: 3.21",
+    "gpa3: 3.01",
+    "Unknown Subject (gpa2: 789225 { gpa5: 3.04)",
+    "gpa4: ref",
+    "gpa3: 2.45",
+    "Unknown Subject (gpa2: 789227 { gpa5: 2.46)",
+    "gpa4: 2.43",
+    "gpa3: ref",
+    "gpa2:\n2.75",
+    "gpa1: 2.72",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Estimating & Costing-I (26442(T))",
+    "3.09",
+    "gpa1: 3.23",
+    "Civil CAD-II (ref_sub: 26452(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
