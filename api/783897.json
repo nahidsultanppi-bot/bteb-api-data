@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: 2.76",
+    "gpa2: 2.58",
+    "Unknown Subject (gpa1: 783912 { gpa4: ref)",
+    "gpa3: 2.73",
+    "gpa2: 2.85",
+    "Unknown Subject (gpa1: 783960 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: 2.90",
+    "gpa1:\n3.00",
+    "Digital Electronics-II (ref_sub: 26841(T))",
+    "Java Programming (28541(T))",
+    "Data Structure & Algorithm (28542(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
