@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.68",
+    "Unknown Subject (gpa2: 726781 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.87",
+    "Unknown Subject (gpa2: 726789 { gpa5: 3.14)",
+    "gpa4: ref",
+    "gpa3: 2.98",
+    "Unknown Subject (gpa2: 726804 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.92",
+    "gpa2:\n2.52",
+    "gpa1: 2.88",
+    "Data Structure & Algorithm (ref_sub: 28542(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
