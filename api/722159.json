@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.03",
+    "gpa3: 2.99",
+    "Unknown Subject (gpa2: 722176 { gpa5: ref)",
+    "gpa4: 3.08",
+    "gpa3: 2.67",
+    "Unknown Subject (gpa2: 722177 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.32",
+    "Unknown Subject (gpa2: 722180 { gpa5: ref)",
+    "gpa4: 3.46",
+    "gpa3: 3.05",
+    "gpa2:\n2.94",
+    "gpa1: 3.14",
+    "Food Biotechnology (ref_sub: 26953(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
