@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.44",
+    "Unknown Subject (gpa2: 747313 { gpa5: ref)",
+    "gpa4: 2.79",
+    "gpa3: 3.38",
+    "Unknown Subject (gpa2: 747320 { gpa5: ref)",
+    "gpa4: 2.51",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 747325 { gpa5: ref)",
+    "gpa4: 2.63",
+    "gpa3: 2.92",
+    "gpa2:\n3.28",
+    "gpa1: 3.51",
+    "DC Machine (ref_sub: 26742(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
