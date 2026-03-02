@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (781060 { gpa5: 3.26)",
+    "gpa4: 2.36",
+    "gpa3: 2.59",
+    "Unknown Subject (781063 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 781066 { gpa5: ref)",
+    "gpa4: 2.41",
+    "gpa3: ref",
+    "gpa2:\ngpa1: 2.74",
+    "Physics-II (ref_sub: 25922(T))",
+    "Electrical Circuits-I (26721(T))",
+    "gpa2: ref",
+    "gpa1: 2.49",
+    "Electrical Circuits-I (ref_sub: 26721(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
