@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: 2.46",
+    "gpa2: 2.38",
+    "Unknown Subject (gpa1: 785890 { gpa4: ref)",
+    "gpa3: 2.65",
+    "gpa2: 2.59",
+    "Unknown Subject (gpa1: 785967 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 786047 { gpa4: ref)",
+    "gpa3: 2.51",
+    "gpa2: ref",
+    "gpa1:\nref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Basic Electronics (26811(T))",
+    "Engineering Mechanics (27041(T))",
+    "ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Engineering Mechanics (27041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
