@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 778647 { gpa5: ref)",
+    "gpa4: 3.81",
+    "gpa3: 3.80",
+    "Unknown Subject (gpa2: 778650 { gpa5: ref)",
+    "gpa4: 3.26",
+    "gpa3: 2.98",
+    "Unknown Subject (gpa2: 778652 { gpa5: ref)",
+    "gpa4: 3.11",
+    "gpa3: 3.07",
+    "gpa2:\n2.68",
+    "gpa1: 2.99",
+    "Electrical Circuits-II (ref_sub: 26731(T))",
+    "DC Machine (26742(T))",
+    "3.43",
+    "gpa1: 3.69",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
