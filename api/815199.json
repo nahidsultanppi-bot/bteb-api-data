@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.89",
+    "gpa1: 3.82",
+    "Unknown Subject (815211 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.09",
+    "Unknown Subject (ref_sub: 815214 { gpa3: ref)",
+    "gpa2: 2.63",
+    "gpa1: 3.51",
+    "Unknown Subject (815215 { gpa3: ref)",
+    "gpa2: 2.77",
+    "gpa1: 3.36",
+    "Mechanical Engineering Materials (ref_sub: 27031(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
