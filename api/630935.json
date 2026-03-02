@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.12",
+    "Unknown Subject (gpa2: 630937 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.30",
+    "Unknown Subject (gpa2: 730920 { gpa5: ref)",
+    "gpa4: 3.07",
+    "gpa3: 3.19",
+    "Unknown Subject (gpa2: 730928 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.21",
+    "gpa2:\n3.16",
+    "gpa1: 3.25",
+    "Estimating & Costing-I (ref_sub: 26442(T))",
+    "Civil CAD-I (26443(T))",
+    "3.04",
+    "gpa1: 3.40",
+    "Construction Process-II (ref_sub: 26441(T))",
+    "Hydrology (26446(T))",
+    "3.45",
+    "gpa1: 3.20",
+    "Hydraulics (ref_sub: 26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
