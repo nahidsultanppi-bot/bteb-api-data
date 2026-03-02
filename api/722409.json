@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 722410 { gpa5: ref)",
+    "gpa4: 3.23",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 722411 { gpa5: ref)",
+    "gpa4: 3.54",
+    "gpa3: 3.23",
+    "Unknown Subject (gpa2: 722412 { gpa5: ref)",
+    "gpa4: 3.11",
+    "gpa3: ref",
+    "gpa2:\n2.67",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Mathematics-III (25931(T))",
+    "2.62",
+    "gpa1: 2.72",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Advanced GIS (27851(T))",
+    "2.85",
+    "gpa1: 2.97",
+    "Python Programming (ref_sub: 28521(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
