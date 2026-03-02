@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.73",
+    "gpa3: 2.80",
+    "Unknown Subject (gpa2: 750879 { gpa5: ref)",
+    "gpa4: 2.83",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 750888 { gpa5: ref)",
+    "gpa4: 3.13",
+    "gpa3: 3.33",
+    "Unknown Subject (gpa2: 750889 { gpa5: ref)",
+    "gpa4: 2.83",
+    "gpa3: 2.92",
+    "gpa2:\n2.57",
+    "gpa1: 3.08",
+    "Accounting (ref_sub: 25841(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
