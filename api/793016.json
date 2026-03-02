@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.93",
+    "Unknown Subject (gpa2: 793019 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.92",
+    "Unknown Subject (gpa2: 793022 { gpa5: ref)",
+    "gpa4: 3.39",
+    "gpa3: 3.21",
+    "Unknown Subject (gpa2: 793027 { gpa5: ref)",
+    "gpa4: 2.82",
+    "gpa3: 3.32",
+    "gpa2:\n2.38",
+    "gpa1: 2.75",
+    "Estimating & Costing-I (ref_sub: 26442(T))",
+    "Surveying-II (26444(T))",
+    "3.07",
+    "gpa1: 3.88",
+    "DC Machine (ref_sub: 26742(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "3.11",
+    "gpa1: 3.88",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
