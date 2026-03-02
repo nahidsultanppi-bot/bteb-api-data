@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.17",
+    "Unknown Subject (gpa2: 705107 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.05",
+    "Unknown Subject (gpa2: 705109 { gpa5: ref)",
+    "gpa4: 3.25",
+    "gpa3: 3.05",
+    "Unknown Subject (gpa2: 705114 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.12",
+    "gpa2:\n3.21",
+    "gpa1: 3.20",
+    "Hydrology (ref_sub: 26446(T))",
+    "Surveying-III (26453(T))",
+    "3.15",
+    "gpa1: 3.15",
+    "Geotechnical Engineering (ref_sub: 26445(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
