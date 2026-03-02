@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.78",
+    "Unknown Subject (gpa2: 783169 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.65",
+    "Unknown Subject (gpa2: 783170 { gpa5: ref)",
+    "gpa4: 3.23",
+    "gpa3: 3.39",
+    "Unknown Subject (gpa2: 783173 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.93",
+    "gpa2:\n2.89",
+    "gpa1: 2.70",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Advanced Welding-I (27053(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
