@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.75",
+    "gpa4: ref",
+    "gpa3: 2.51",
+    "Unknown Subject (gpa2: 726673 { gpa5: 2.85)",
+    "gpa4: ref",
+    "gpa3: 2.85",
+    "Unknown Subject (gpa2: 726675 { gpa5: 2.70)",
+    "gpa4: ref",
+    "gpa3: 2.77",
+    "Unknown Subject (gpa2: 726681 { gpa5: ref)",
+    "gpa4: 2.76",
+    "gpa3: 2.85",
+    "gpa2:\n2.38",
+    "gpa1: 2.68",
+    "Data Structure & Algorithm (ref_sub: 28542(T))",
+    "Computer Peripherals & Interfacing (28543(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
