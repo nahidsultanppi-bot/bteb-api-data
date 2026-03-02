@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (726730 { gpa5: 3.49)",
+    "gpa4: 3.10",
+    "gpa3: 2.85",
+    "Unknown Subject (726733 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.12",
+    "Unknown Subject (gpa2: 726736 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\ngpa1: 2.80",
+    "Chemistry (ref_sub: 25913(T))",
+    "IT Support Services (28533(T))",
+    "gpa2: ref",
+    "gpa1: 3.00",
+    "Mathematics-II (ref_sub: 25921(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
