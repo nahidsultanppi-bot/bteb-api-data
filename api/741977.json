@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 741978 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.26",
+    "Unknown Subject (gpa2: 741982 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.12",
+    "Unknown Subject (gpa2: 741987 { gpa5: 2.92)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n3.23",
+    "gpa1: 3.48",
+    "Physics-II (ref_sub: 25922(T))",
+    "Structural Mechanics (26431(T))",
+    "3.26",
+    "gpa1: 3.14",
+    "Structural Mechanics (ref_sub: 26431(T))",
+    "Basic Estimating & Costing (26447(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
