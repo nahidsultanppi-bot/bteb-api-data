@@ -1,0 +1,16 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Chemistry (ref_sub:\n25913(T))",
+    "Electrical Engineering Materials (26712(T))",
+    "Electrical Circuits-II (26731(T))",
+    "Industrial Electronics (26833(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
