@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.70",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 707616 { gpa5: 3.17)",
+    "gpa4: 3.23",
+    "gpa3: 2.94",
+    "Unknown Subject (707619 { gpa5: ref)",
+    "gpa4: 2.96",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 707620 { gpa5: ref)",
+    "gpa4: 3.00",
+    "gpa3: 2.85",
+    "gpa2:\n2.57",
+    "gpa1: 2.77",
+    "Digital Electronics-I (ref_sub: 26831(T))",
+    "Digital Electronics-II (26841(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
