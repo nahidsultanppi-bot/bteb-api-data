@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.05",
+    "gpa3: 3.18",
+    "Unknown Subject (gpa2: 785985 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.81",
+    "Unknown Subject (gpa2: 785986 { gpa5: ref)",
+    "gpa4: 2.94",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 785993 { gpa5: ref)",
+    "gpa4: 2.40",
+    "gpa3: 2.89",
+    "gpa2:\n3.14",
+    "gpa1: 3.24",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
