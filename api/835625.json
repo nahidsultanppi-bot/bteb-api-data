@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 835629 { gpa3: ref)",
+    "gpa2: 3.32",
+    "gpa1: 2.88",
+    "Unknown Subject (835636 { gpa3: ref)",
+    "gpa2: 3.07",
+    "gpa1: 2.88",
+    "Unknown Subject (835639 { gpa3: ref)",
+    "gpa2: 3.16",
+    "gpa1: 2.88",
+    "Chemistry (25913(T))",
+    "Mathematics-II (25921(T))",
+    "Automotive Engine System-II (26231(T))",
+    "Basic Electricity (26711(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
