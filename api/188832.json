@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 188837 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 191186 { gpa5: 2.96)",
+    "gpa4: ref",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 668290 { gpa5: 2.79)",
+    "gpa4: ref",
+    "gpa3: 3.01",
+    "gpa2:\n3.38",
+    "gpa1: 3.10",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Structural Mechanics (26431(T))",
+    "2.21",
+    "gpa1: 2.75",
+    "Accounting (ref_sub: 25841(T))",
+    "Principles of Marketing (25851(T))",
+    "3.50",
+    "gpa1: 2.25",
+    "Digital Electronics (ref_sub: 26845(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
