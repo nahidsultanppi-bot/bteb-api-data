@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.75",
+    "gpa3: 3.14",
+    "Unknown Subject (gpa2: 783373 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.73",
+    "Unknown Subject (gpa2: 783374 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 783377 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n3.17",
+    "gpa1: 3.19",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Automotive Body Building (26241(T))",
+    "2.74",
+    "gpa1: 2.82",
+    "Fundamental of Hybride & Electric Vehicle (ref_sub: 27151(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
