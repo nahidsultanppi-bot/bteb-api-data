@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.60",
+    "gpa4: 3.00",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 741026 { gpa5: ref)",
+    "gpa4: 3.32",
+    "gpa3: 2.85",
+    "Unknown Subject (gpa2: 741031 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.11",
+    "Unknown Subject (gpa2: 741032 { gpa5: ref)",
+    "gpa4: 3.01",
+    "gpa3: 2.78",
+    "gpa2:\nref",
+    "gpa1: 2.73",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "RAC Cycles and Components (27231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
