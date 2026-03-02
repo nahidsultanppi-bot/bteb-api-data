@@ -1,0 +1,16 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: 3.19",
+    "gpa2: 3.13",
+    "gpa1:\n3.36",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Engineering Mechanics (27041(T))",
+    "Engineering Thermodynamics (27131(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
