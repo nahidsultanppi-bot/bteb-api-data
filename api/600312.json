@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 600323 { gpa4: ref)",
+    "gpa3: 2.70",
+    "gpa2: 2.31",
+    "Unknown Subject (gpa1: 601060 { gpa4: ref)",
+    "gpa3: 2.43",
+    "gpa2: 3.02",
+    "Unknown Subject (gpa1: 700069 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "2.99",
+    "Physics -I (ref_sub: 25912(T))",
+    "Physics-II (25922(T))",
+    "Food Microbiology-I (26941(T))",
+    "3.04",
+    "Dairy Products (ref_sub: 26945(T))",
+    "Engineering Mechanics (27041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
