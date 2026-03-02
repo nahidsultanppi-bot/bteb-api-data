@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 706567 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: 2.63",
+    "gpa1:\n2.79",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Mathematics-III (25931(T))",
+    "DC Machine (26742(T))",
+    "2.40",
+    "Chemistry (ref_sub: 25913(T))",
+    "DC Machine (26742(T))",
+    "Digital Electronics (26845(T))",
+    "Digital Electronics (26845(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
