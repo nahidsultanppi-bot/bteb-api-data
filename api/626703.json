@@ -1,0 +1,21 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3:\n3.07",
+    "gpa2: 2.83",
+    "gpa1: 3.50",
+    "Automobile Fundamentals (ref_sub: 26211(T))",
+    "Basic Electronics (26811(T))",
+    "Foundry & Pattern Making (27054(T))",
+    "Manufacturing Process (27055(T))",
+    "CAD & CAM (27063(T))",
+    "Advanced Welding-II (27064(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
