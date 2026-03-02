@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.90",
+    "Unknown Subject (gpa2: 708059 { gpa5: ref)",
+    "gpa4: 3.06",
+    "gpa3: 2.92",
+    "Unknown Subject (gpa2: 708062 { gpa5: ref)",
+    "gpa4: 2.29",
+    "gpa3: 2.81",
+    "Unknown Subject (gpa2: 708064 { gpa5: ref)",
+    "gpa4: 2.81",
+    "gpa3: ref",
+    "gpa2:\n2.82",
+    "gpa1: 3.10",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Advanced Welding-I (27053(T))",
+    "2.83",
+    "gpa1: 3.19",
+    "Advanced Welding-I (ref_sub: 27053(T))",
+    "Fundamental of Hybride & Electric Vehicle (27151(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
