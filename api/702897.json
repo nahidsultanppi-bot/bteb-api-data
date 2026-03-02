@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (790092 { gpa4: ref)",
+    "gpa3: 2.80",
+    "gpa2: ref",
+    "Business Communication (gpa1:\nref_sub: 25831(T))",
+    "Mathematics-II (25921(T))",
+    "Basic Electricity (26711(T))",
+    "Basic Electronics (26811(T))",
+    "2.80",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Engineering Mechanics (27041(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
