@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.90",
+    "Unknown Subject (gpa2: 743512 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.89",
+    "Unknown Subject (gpa2: 743518 { gpa5: ref)",
+    "gpa4: 2.63",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 743521 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n3.27",
+    "gpa1: 3.31",
+    "Automotive Body Building (ref_sub: 26241(T))",
+    "Fundamental of Hybride & Electric Vehicle (27151(T))",
+    "3.00",
+    "gpa1: 3.24",
+    "Fundamental of Hybride & Electric Vehicle (ref_sub: 27151(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
