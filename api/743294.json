@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.64",
+    "gpa3: 2.69",
+    "Unknown Subject (gpa2: 743302 { gpa5: ref)",
+    "gpa4: 3.06",
+    "gpa3: 3.15",
+    "Unknown Subject (gpa2: 743303 { gpa5: ref)",
+    "gpa4: 2.64",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 743311 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "2.46",
+    "gpa1: 3.01",
+    "Mechanical Estimating & Costing (ref_sub: 27052(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
