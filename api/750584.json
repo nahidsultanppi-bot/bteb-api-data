@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.59",
+    "Unknown Subject (gpa2: 750589 { gpa5: 2.88)",
+    "gpa4: ref",
+    "gpa3: 2.74",
+    "Unknown Subject (gpa2: 750593 { gpa5: ref)",
+    "gpa4: 2.73",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 750594 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.01",
+    "gpa2:\nref",
+    "gpa1: 2.93",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "DC Machine (26742(T))",
+    "ref",
+    "gpa1: 2.87",
+    "DC Machine (ref_sub: 26742(T))",
+    "Electronic Devices and Circuits (26821(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
