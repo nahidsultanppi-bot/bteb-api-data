@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.39",
+    "Unknown Subject (gpa2: 756649 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 756652 { gpa5: ref)",
+    "gpa4: 2.96",
+    "gpa3: 2.93",
+    "Unknown Subject (gpa2: 756660 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.77",
+    "gpa2:\nref",
+    "gpa1: 2.95",
+    "Physics-II (ref_sub: 25922(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.44",
+    "gpa1: 2.79",
+    "Industrial Electronics (ref_sub: 26833(T))",
+    "Microprocessor & Microcontroller (26853(T))",
+    "2.93",
+    "gpa1: 2.93",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
