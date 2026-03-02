@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: 3.03",
+    "gpa4: 3.02",
+    "Unknown Subject (gpa3: 673330 { gpa6: ref)",
+    "gpa5: 2.94",
+    "gpa4: 2.79",
+    "gpa3:\n3.05",
+    "gpa2: 3.01",
+    "gpa1: 3.14",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "2.89",
+    "gpa2: 2.80",
+    "gpa1: 3.43",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "Electrical & Electronic Measurements-II (26763(T))",
+    "Communication Engineering (26842(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
