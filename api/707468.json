@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.56",
+    "Unknown Subject (gpa2: 707469 { gpa5: ref)",
+    "gpa4: 3.48",
+    "gpa3: 3.26",
+    "Unknown Subject (gpa2: 707484 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.69",
+    "Unknown Subject (gpa2: 707489 { gpa5: ref)",
+    "gpa4: 3.16",
+    "gpa3: 2.79",
+    "gpa2:\nref",
+    "gpa1: 2.92",
+    "Electronic Devices and Circuits (ref_sub: 26821(T))",
+    "Networks, Filters and Transmission lines (26843(T))",
+    "3.11",
+    "gpa1: 3.67",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
