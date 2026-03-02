@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 774116 { gpa5: ref)",
+    "gpa4: 2.84",
+    "gpa3: 2.49",
+    "Unknown Subject (gpa2: 774117 { gpa5: ref)",
+    "gpa4: 2.85",
+    "gpa3: 2.64",
+    "Unknown Subject (gpa2: 774118 { gpa5: ref)",
+    "gpa4: 3.06",
+    "gpa3: 2.98",
+    "gpa2:\n2.55",
+    "gpa1: 2.85",
+    "Refrigeration & Cold Storage (ref_sub: 26355(T))",
+    "Food Industrial Chemistry (26932(T))",
+    "2.49",
+    "gpa1: 2.86",
+    "Food Industrial Instrumentation & Process Control (ref_sub: 26955(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
