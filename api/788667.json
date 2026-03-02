@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.51",
+    "gpa3: 3.55",
+    "Unknown Subject (gpa2: 788669 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (788671 { gpa5: ref)",
+    "gpa4: 3.31",
+    "gpa3: 3.26",
+    "Unknown Subject (gpa2: 788672 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.64",
+    "gpa2:\n3.45",
+    "gpa1: 3.58",
+    "Data Communication (ref_sub: 28554(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
