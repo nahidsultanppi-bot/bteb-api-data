@@ -1,0 +1,19 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: 2.92",
+    "gpa3:\n2.86",
+    "gpa2: ref",
+    "gpa1: 3.17",
+    "Electrical Circuits-I (ref_sub: 26721(T))",
+    "Generation of Electrical Power (26751(T))",
+    "Communication Engineering (26842(P))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
