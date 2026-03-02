@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.00",
+    "gpa3: 3.26",
+    "Unknown Subject (gpa2: 748793 { gpa5: ref)",
+    "gpa4: 3.29",
+    "gpa3: 3.43",
+    "Unknown Subject (gpa2: 748799 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.19",
+    "Unknown Subject (gpa2: 748815 { gpa5: ref)",
+    "gpa4: 3.27",
+    "gpa3: 3.14",
+    "gpa2:\n2.71",
+    "gpa1: 2.73",
+    "Accounting (ref_sub: 25841(T))",
+    "Web Design & Development-II (28552(T))",
+    "3.04",
+    "gpa1: 3.25",
+    "Application Development Using Java (ref_sub: 28551(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
