@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.33",
+    "Unknown Subject (ref_sub: 852668 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 852670 { gpa3: ref)",
+    "gpa2: 2.70",
+    "gpa1: 2.69",
+    "Unknown Subject (852671 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Physics -I (ref_sub:\n25912(T))",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Working Drawing-I (26133(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
