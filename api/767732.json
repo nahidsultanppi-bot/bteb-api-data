@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.95",
+    "Unknown Subject (gpa2: 767734 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (767736 { gpa5: ref)",
+    "gpa4: 3.42",
+    "gpa3: 3.21",
+    "Unknown Subject (gpa2: 767738 { gpa5: ref)",
+    "gpa4: 3.15",
+    "gpa3: 3.05",
+    "gpa2:\n2.90",
+    "gpa1: 3.12",
+    "Electrical Installation,Planning and Estimating (ref_sub: 26741(T))",
+    "Generation of Electrical Power (26751(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
