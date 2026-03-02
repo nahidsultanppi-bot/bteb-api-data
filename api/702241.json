@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.88",
+    "Unknown Subject (gpa2: 702246 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (702247 { gpa5: ref)",
+    "gpa4: 3.21",
+    "gpa3: 3.18",
+    "Unknown Subject (gpa2: 702248 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.08",
+    "gpa2:\n3.24",
+    "gpa1: 3.40",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
