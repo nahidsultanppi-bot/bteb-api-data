@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 764612 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.61",
+    "Unknown Subject (gpa2: 764615 { gpa5: ref)",
+    "gpa4: 3.01",
+    "gpa3: 2.75",
+    "Unknown Subject (gpa2: 764616 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.74",
+    "gpa2:\n2.39",
+    "gpa1: 3.12",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Chemistry (25913(T))",
+    "2.72",
+    "gpa1: 3.29",
+    "DC Machine (ref_sub: 26742(T))",
+    "Generation of Electrical Power (26751(T))",
+    "3.08",
+    "gpa1: 3.26",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
