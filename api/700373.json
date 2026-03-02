@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.94",
+    "gpa4: 2.68",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 700378 { gpa5: ref)",
+    "gpa4: 3.13",
+    "gpa3: 3.02",
+    "Unknown Subject (gpa2: 700380 { gpa5: ref)",
+    "gpa4: 3.28",
+    "gpa3: 3.21",
+    "Unknown Subject (gpa2: 700383 { gpa5: 2.95)",
+    "gpa4: 2.64",
+    "gpa3: ref",
+    "gpa2:\n2.34",
+    "gpa1: 2.50",
+    "Food Industrial Chemistry (ref_sub: 26932(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
