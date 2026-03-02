@@ -1,0 +1,19 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: 2.16",
+    "gpa4: 2.32",
+    "gpa3:\n2.10",
+    "gpa2: ref",
+    "gpa1: 2.80",
+    "Chemistry (ref_sub: 25913(T))",
+    "Database Management System (28561(T))",
+    "Copmputer Networking (28562(T))",
+    "Microcontroller Based System Design & Development (28564(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
