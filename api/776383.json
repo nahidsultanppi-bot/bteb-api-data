@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.99",
+    "gpa3: 2.95",
+    "Unknown Subject (gpa2: 776384 { gpa5: ref)",
+    "gpa4: 2.96",
+    "gpa3: 2.70",
+    "Unknown Subject (gpa2: 776385 { gpa5: ref)",
+    "gpa4: 2.86",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 776392 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n2.85",
+    "gpa1: 2.80",
+    "Application Development Using Java (ref_sub: 28551(T))",
+    "Operating System (28555(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
