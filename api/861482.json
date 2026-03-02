@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.35",
+    "Unknown Subject (ref_sub: 861498 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.00",
+    "Unknown Subject (ref_sub: 861499 { gpa3: ref)",
+    "gpa2: 3.26",
+    "gpa1: 3.45",
+    "Unknown Subject (861503 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.20",
+    "Chemistry (ref_sub:\n25913(T))",
+    "Physics-II (25922(T))",
+    "Digital Electronics-I (26831(T))",
+    "Python Programming (28521(T))",
+    "Chemistry (25913(T))",
+    "Mathematics-III (25931(T))",
+    "Python Programming (28521(T))",
+    "Application Development Using Python (28531(T))",
+    "IT Support Services (ref_sub: 28533(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
