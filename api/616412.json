@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.06",
+    "gpa3: 3.42",
+    "Unknown Subject (gpa2: 616414 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.13",
+    "Unknown Subject (gpa2: 790121 { gpa5: ref)",
+    "gpa4: 2.94",
+    "gpa3: 3.40",
+    "gpa2:\n3.05",
+    "gpa1: 3.07",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Generation of Electrical Power (26751(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
