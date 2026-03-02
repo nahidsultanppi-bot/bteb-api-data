@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (776562 { gpa5: ref)",
+    "gpa4: 3.12",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 776564 { gpa5: ref)",
+    "gpa4: 3.50",
+    "gpa3: 3.35",
+    "Unknown Subject (gpa2: 776569 { gpa5: ref)",
+    "gpa4: 2.79",
+    "gpa3: 3.04",
+    "gpa2:\ngpa1: 2.88",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Python Programming (28521(T))",
+    "3.02",
+    "gpa1: 2.98",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
