@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.15",
+    "Unknown Subject (gpa2: 757679 { gpa5: ref)",
+    "gpa4: 3.45",
+    "gpa3: 3.33",
+    "Unknown Subject (gpa2: 757681 { gpa5: ref)",
+    "gpa4: 3.06",
+    "gpa3: 2.88",
+    "Unknown Subject (gpa2: 757684 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.96",
+    "gpa2:\n3.36",
+    "gpa1: 3.67",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Mechanical Estimating & Costing (27052(T))",
+    "2.84",
+    "gpa1: 3.08",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "2.93",
+    "gpa1: 3.36",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
