@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (762308 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.21",
+    "Unknown Subject (gpa2: 762309 { gpa5: ref)",
+    "gpa4: 3.08",
+    "gpa3: 3.17",
+    "Unknown Subject (gpa2: 762311 { gpa5: ref)",
+    "gpa4: 3.40",
+    "gpa3: 3.25",
+    "gpa2:\ngpa1: 3.45",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Basic Electronics (26811(T))",
+    "2.87",
+    "gpa1: 3.54",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "3.12",
+    "gpa1: 3.57",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
