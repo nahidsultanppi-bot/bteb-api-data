@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.00",
+    "gpa1: 3.48",
+    "Unknown Subject (802079 { gpa3: ref)",
+    "gpa2: 3.17",
+    "gpa1: 2.99",
+    "Unknown Subject (802080 { gpa3: ref)",
+    "gpa2: 3.33",
+    "gpa1: 3.43",
+    "Unknown Subject (802082 { gpa3: ref)",
+    "gpa2: 3.40",
+    "gpa1: 3.52",
+    "Machine Shop Practice-I (ref_sub: 27012(T))",
+    "Engineering Thermodynamics (27131(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
