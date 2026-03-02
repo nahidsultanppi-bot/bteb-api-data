@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 604517 { gpa5: ref)",
+    "gpa4: 3.15",
+    "gpa3: 3.23",
+    "Unknown Subject (gpa2: 705063 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 705066 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.89",
+    "gpa2:\n2.89",
+    "gpa1: 3.23",
+    "Digital Electronics-I (ref_sub: 26831(T))",
+    "Application Development Using Python (28531(T))",
+    "3.25",
+    "gpa1: 3.43",
+    "Application Development Using Java (ref_sub: 28551(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
