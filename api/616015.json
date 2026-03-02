@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 616016 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (616084 { gpa5: ref)",
+    "gpa4: 2.63",
+    "gpa3: 2.83",
+    "Unknown Subject (gpa2: 616159 { gpa5: ref)",
+    "gpa4: 2.54",
+    "gpa3: ref",
+    "gpa2:\n2.74",
+    "gpa1: 3.37",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Basic Electronics (26811(T))",
+    "gpa1: 3.37",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Chemistry (25913(T))",
+    "3.21",
+    "gpa1: 3.31",
+    "Fundamental of Hybride & Electric Vehicle (ref_sub: 27151(T))",
+    "Power Plant Enginnering (27152(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
