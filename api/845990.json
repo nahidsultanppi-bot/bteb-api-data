@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.03",
+    "gpa1: 3.38",
+    "Unknown Subject (845994 { gpa3: 3.21)",
+    "gpa2: ref",
+    "gpa1: 3.05",
+    "Unknown Subject (845997 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.95",
+    "Unknown Subject (ref_sub: 846007 { gpa3: ref)",
+    "gpa2: 3.00",
+    "gpa1: 3.10",
+    "Medical transducer and Sensors (ref_sub: 28631(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
