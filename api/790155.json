@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.80",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 793482 { gpa5: ref)",
+    "gpa4: 3.02",
+    "gpa3: 3.18",
+    "gpa2:\n3.05",
+    "gpa1: 3.33",
+    "Physics-II (ref_sub: 25922(T))",
+    "Digital Electronics-I (26831(T))",
+    "ref",
+    "gpa1: 3.71",
+    "Mechanical Engineering Drawing (ref_sub: 27021(T))",
+    "Mechanical Estimating & Costing (27052(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
