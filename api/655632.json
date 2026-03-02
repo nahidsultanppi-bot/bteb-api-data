@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: 2.83",
+    "gpa1: 3.24",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "DC Machine (26742(T))",
+    "Generation of Electrical Power (26751(T))",
+    "AC Machine-I (26761(T))",
+    "Microprocessor & Microcontroller (26853(T))",
+    "Progamming in C (28567(T))",
+    "Environmental Studies (29041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
