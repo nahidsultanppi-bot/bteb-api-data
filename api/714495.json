@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.27",
+    "Unknown Subject (gpa2: 714510 { gpa5: 2.88)",
+    "gpa4: ref",
+    "gpa3: 2.89",
+    "Unknown Subject (gpa2: 714517 { gpa5: ref)",
+    "gpa4: 2.80",
+    "gpa3: 2.51",
+    "Unknown Subject (gpa2: 714518 { gpa5: ref)",
+    "gpa4: 2.65",
+    "gpa3: ref",
+    "gpa2:\nref",
+    "gpa1: 2.76",
+    "Physics-II (ref_sub: 25922(T))",
+    "DC Machine (26742(T))",
+    "2.91",
+    "gpa1: 3.39",
+    "DC Machine (ref_sub: 26742(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
