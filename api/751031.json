@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.98",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 751033 { gpa5: ref)",
+    "gpa4: 2.98",
+    "gpa3: 2.82",
+    "Unknown Subject (gpa2: 751035 { gpa5: ref)",
+    "gpa4: 2.51",
+    "gpa3: 2.81",
+    "Unknown Subject (gpa2: 751038 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n2.74",
+    "gpa1: 2.95",
+    "Electrical & Electronic Measurements-II (ref_sub: 26763(T))",
+    "Progamming in C (28567(T))",
+    "ref",
+    "gpa1: 2.71",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Physiotherapy and Rehabilitation Devices (28653(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
