@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.50",
+    "gpa4: ref",
+    "gpa3: 2.43",
+    "Unknown Subject (gpa2: 784163 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.33",
+    "Unknown Subject (gpa2: 784171 { gpa5: 2.73)",
+    "gpa4: ref",
+    "gpa3: 2.67",
+    "Unknown Subject (gpa2: 784172 { gpa5: 2.40)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\nref",
+    "gpa1: 3.10",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Radio and TV Engineering (29441(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
