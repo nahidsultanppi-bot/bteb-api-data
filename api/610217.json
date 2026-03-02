@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.73",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 610235 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 690196 { gpa5: ref)",
+    "gpa4: 2.89",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 690208 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "ref",
+    "gpa1: 3.40",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Mathematics-III (25931(T))",
+    "3.05",
+    "gpa1: 3.20",
+    "Digital Electronics-I (ref_sub: 26831(T))",
+    "Computer Peripherals & Interfacing (28543(T))",
+    "3.63",
+    "gpa1: 3.55",
+    "Surveying-III (ref_sub: 26453(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
