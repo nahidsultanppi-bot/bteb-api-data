@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 719050 { gpa5: ref)",
+    "gpa4: 3.10",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 719057 { gpa5: ref)",
+    "gpa4: 2.87",
+    "gpa3: 2.38",
+    "Unknown Subject (gpa2: 719065 { gpa5: 2.44)",
+    "gpa4: ref",
+    "gpa3: 2.65",
+    "gpa2:\n2.87",
+    "gpa1: 2.88",
+    "Digital Electronics-I (ref_sub: 26831(T))",
+    "Java Programming (28541(T))",
+    "ref",
+    "gpa1: 2.80",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Data Communication (28554(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
