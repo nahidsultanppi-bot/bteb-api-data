@@ -1,0 +1,20 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3:\n3.01",
+    "gpa2: ref",
+    "gpa1: 3.10",
+    "Physics-II (ref_sub: 25922(T))",
+    "Generation of Electrical Power (26751(T))",
+    "AC Machine-I (26761(T))",
+    "Digital Electronics (26845(T))",
+    "Environmental Studies (29041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
