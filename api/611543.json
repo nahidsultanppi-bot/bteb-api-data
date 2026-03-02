@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.18",
+    "gpa3: 2.64",
+    "Unknown Subject (gpa2: 611560 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.61",
+    "Unknown Subject (gpa2: 611566 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.56",
+    "Unknown Subject (gpa2: 611571 { gpa5: 2.68)",
+    "gpa4: 2.48",
+    "gpa3: ref",
+    "gpa2:\n2.67",
+    "gpa1: 3.02",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
