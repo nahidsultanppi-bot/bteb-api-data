@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.78",
+    "Unknown Subject (gpa2: 771803 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 771806 { gpa5: ref)",
+    "gpa4: 2.81",
+    "gpa3: 2.84",
+    "Unknown Subject (gpa2: 771822 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.95",
+    "gpa2:\n2.83",
+    "gpa1: 2.69",
+    "Accounting (ref_sub: 25841(T))",
+    "Digital Electronics-II (26841(T))",
+    "3.15",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Communication Engineering (26842(T))",
+    "2.93",
+    "gpa1: 2.64",
+    "Television Engineering (ref_sub: 26851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
