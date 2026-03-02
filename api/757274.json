@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 757277 { gpa5: ref)",
+    "gpa4: 2.41",
+    "gpa3: 2.74",
+    "Unknown Subject (gpa2: 757283 { gpa5: ref)",
+    "gpa4: 2.59",
+    "gpa3: 2.52",
+    "Unknown Subject (gpa2: 757287 { gpa5: ref)",
+    "gpa4: 2.31",
+    "gpa3: ref",
+    "gpa2:\n2.41",
+    "gpa1: ref",
+    "Chemistry (ref_sub: 25913(T))",
+    "Physics-II (25922(T))",
+    "ref",
+    "gpa1: 3.00",
+    "Refrigeration & Cold Storage (ref_sub: 26355(T))",
+    "Basic Electricity (26711(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
