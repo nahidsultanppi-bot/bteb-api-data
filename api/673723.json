@@ -1,0 +1,19 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: 2.60",
+    "gpa3:\n2.75",
+    "gpa2: 2.59",
+    "gpa1: 3.32",
+    "Automobile Fundamentals (ref_sub: 26211(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "Strength of Materials (27061(T))",
+    "CAD & CAM (27063(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
