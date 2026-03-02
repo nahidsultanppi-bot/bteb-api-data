@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.36",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 848928 { gpa3: ref)",
+    "gpa2: 2.63",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 848932 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 848949 { gpa3: ref)",
+    "gpa2: 3.18",
+    "gpa1: 3.10",
+    "Mathematics -I (25911(T))",
+    "Chemistry (25913(T))",
+    "Physics-II (25922(T))",
+    "Architectural Design-II (26131(T))",
+    "Mathematics -I (25911(T))",
+    "Physics-II (25922(T))",
+    "Architectural Graphics (26132(T))",
+    "Basic Electricity (26711(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
