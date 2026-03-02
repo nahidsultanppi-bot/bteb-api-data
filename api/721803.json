@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (721805 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (721811 { gpa5: 2.60)",
+    "gpa4: ref",
+    "gpa3: 2.60",
+    "Unknown Subject (gpa2: 721815 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.62",
+    "gpa2:\ngpa1: 3.08",
+    "Chemistry (ref_sub: 25913(T))",
+    "Mathematics-II (25921(T))",
+    "gpa1: 2.99",
+    "Chemistry (ref_sub: 25913(T))",
+    "Mathematics-II (25921(T))",
+    "2.46",
+    "gpa1: 2.78",
+    "Engineering Thermodynamics (ref_sub: 27131(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
