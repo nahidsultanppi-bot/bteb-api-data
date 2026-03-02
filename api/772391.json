@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.79",
+    "Unknown Subject (gpa2: 772393 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.74",
+    "Unknown Subject (gpa2: 772396 { gpa5: 2.43)",
+    "gpa4: ref",
+    "gpa3: 2.74",
+    "gpa2:\n2.82",
+    "gpa1: 2.67",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Metallurgy2 (27043(T))",
+    "3.06",
+    "gpa1: 3.02",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Fundamental of Hybride & Electric Vehicle (27151(T))",
+    "2.95",
+    "gpa1: 2.83",
+    "Metallurgy2 (ref_sub: 27043(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
