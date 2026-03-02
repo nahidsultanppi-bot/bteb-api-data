@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (767488 { gpa5: ref)",
+    "gpa4: 3.06",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 767490 { gpa5: ref)",
+    "gpa4: 3.37",
+    "gpa3: 3.06",
+    "Unknown Subject (gpa2: 767494 { gpa5: ref)",
+    "gpa4: 3.82",
+    "gpa3: 3.54",
+    "gpa2:\ngpa1: 2.86",
+    "Chemistry (ref_sub: 25913(T))",
+    "Physics-II (25922(T))",
+    "ref",
+    "gpa1: 2.86",
+    "Chemistry (ref_sub: 25913(T))",
+    "Physics-II (25922(T))",
+    "2.78",
+    "gpa1: 2.83",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
