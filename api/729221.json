@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.74",
+    "gpa3: 3.00",
+    "Unknown Subject (gpa2: 729222 { gpa5: ref)",
+    "gpa4: 2.52",
+    "gpa3: 2.85",
+    "Unknown Subject (gpa2: 729223 { gpa5: ref)",
+    "gpa4: 2.44",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 729225 { gpa5: ref)",
+    "gpa4: 2.64",
+    "gpa3: 2.86",
+    "gpa2:\n3.00",
+    "gpa1: 3.08",
+    "Foundry & Pattern Making (ref_sub: 27054(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
