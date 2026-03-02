@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (607008 { gpa6: ref)",
+    "gpa5: 2.52",
+    "gpa4: ref",
+    "gpa3:\ngpa2: 2.98",
+    "gpa1: 3.26",
+    "Electrical Circuits-II (ref_sub: 26731(T))",
+    "2.68",
+    "gpa2: 2.87",
+    "gpa1: 3.29",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "AC Machine-I (26761(T))",
+    "Transmission and Distribution of ElectricalPower (26764(T))",
+    "Digital Electronics-II (26841(T))",
+    "Communication Engineering (26842(T))",
+    "Strength of Materials (27061(T))",
+    "IC Engine Details (27141(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
