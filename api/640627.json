@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.92",
+    "Unknown Subject (gpa2: 640643 { gpa5: ref)",
+    "gpa4: 2.99",
+    "gpa3: 3.18",
+    "Unknown Subject (gpa2: 640655 { gpa5: ref)",
+    "gpa4: 3.15",
+    "gpa3: 3.25",
+    "Unknown Subject (gpa2: 640662 { gpa5: ref)",
+    "gpa4: 3.36",
+    "gpa3: 3.09",
+    "gpa2:\n3.20",
+    "gpa1: ref",
+    "Chemistry (ref_sub: 25913(T))",
+    "Estimating & Costing-I (26442(T))",
+    "ref",
+    "gpa1: ref",
+    "Chemistry (ref_sub: 25913(T))",
+    "Mathematics-II (25921(T))",
+    "3.35",
+    "gpa1: 3.52",
+    "Surveying-III (ref_sub: 26453(T))",
+    "Theory of Structure (26454(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
