@@ -1,0 +1,27 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 822657 { gpa3: ref)",
+    "gpa2: 2.70",
+    "gpa1: 3.02",
+    "Unknown Subject (822661 { gpa3: ref)",
+    "gpa2: 2.94",
+    "gpa1: 3.01",
+    "Unknown Subject (822664 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.95",
+    "Mathematics-III (ref_sub:\n25931(T))",
+    "Structural Mechanics (26431(T))",
+    "Surveying-I (26432(T))",
+    "Basic Electricity (26711(T))",
+    "Structural Mechanics (ref_sub: 26431(T))",
+    "Surveying-I (26432(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
