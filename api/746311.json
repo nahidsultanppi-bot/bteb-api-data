@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (746313 { gpa5: ref)",
+    "gpa4: 2.63",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 746317 { gpa5: ref)",
+    "gpa4: 2.82",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 746318 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\ngpa1: 2.85",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Food Industrial Chemistry (26932(T))",
+    "2.92",
+    "gpa1: 3.02",
+    "Food Industrial Instrumentation & Process Control (ref_sub: 26955(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
