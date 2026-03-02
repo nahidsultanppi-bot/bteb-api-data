@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 700956 { gpa5: ref)",
+    "gpa4: 2.65",
+    "gpa3: 2.79",
+    "Unknown Subject (gpa2: 700957 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.60",
+    "Unknown Subject (gpa2: 700958 { gpa5: ref)",
+    "gpa4: 2.89",
+    "gpa3: 3.09",
+    "gpa2:\n2.64",
+    "gpa1: 2.75",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Electronic Devices and Circuits (26821(T))",
+    "2.99",
+    "gpa1: 2.79",
+    "Digital Electronics (ref_sub: 26845(T))",
+    "Fluid Mechanics & Machineries (27051(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
