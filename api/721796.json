@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.05",
+    "Unknown Subject (ref_sub: 781976 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.76",
+    "Unknown Subject (ref_sub: 811624 { gpa3: ref)",
+    "gpa2: 3.56",
+    "gpa1: 3.14",
+    "Unknown Subject (811804 { gpa3: 3.31)",
+    "gpa2: ref",
+    "gpa1: 3.07",
+    "Social Science (25811(T))",
+    "Mathematics-II (25921(T))",
+    "Electronic Devices and Circuits (26821(T))",
+    "Basic Mechatronics (29232(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
