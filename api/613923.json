@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.05",
+    "gpa3: 3.08",
+    "Unknown Subject (gpa2: 613934 { gpa5: ref)",
+    "gpa4: 2.62",
+    "gpa3: 2.70",
+    "Unknown Subject (gpa2: 613949 { gpa5: ref)",
+    "gpa4: 2.49",
+    "gpa3: 2.52",
+    "gpa2:\n2.82",
+    "gpa1: 2.87",
+    "Mechanical Estimating & Costing (ref_sub: 27052(T))",
+    "Foundry & Pattern Making (27054(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
