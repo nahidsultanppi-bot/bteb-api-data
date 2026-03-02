@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.14",
+    "Unknown Subject (gpa2: 765842 { gpa5: 2.93)",
+    "gpa4: 2.82",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 765865 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.56",
+    "Unknown Subject (gpa2: 765866 { gpa5: ref)",
+    "gpa4: 2.65",
+    "gpa3: 2.95",
+    "gpa2:\n2.90",
+    "gpa1: 2.83",
+    "Geotechnical Engineering (ref_sub: 26445(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
