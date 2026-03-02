@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "Data telecommunication & Networking Basics (gpa3: 684118 { gpa6: ref)",
+    "gpa5: ref",
+    "gpa4: 2.74",
+    "Unknown Subject (gpa3: 684124 { gpa6: ref)",
+    "gpa5: ref",
+    "gpa4: 2.80",
+    "gpa3:\n2.87",
+    "gpa2: 2.66",
+    "gpa1: 3.05",
+    "DC Machine (ref_sub: 26742(T))",
+    "2.85",
+    "gpa2: 2.59",
+    "gpa1: 3.01",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "2.79",
+    "gpa2: 3.03",
+    "gpa1: 3.10",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "AC Machine-I (26761(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
