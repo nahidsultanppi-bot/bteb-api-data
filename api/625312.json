@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.45",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 625316 { gpa5: 2.63)",
+    "gpa4: ref",
+    "gpa3: 2.29",
+    "Unknown Subject (gpa2: 625323 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.25",
+    "Unknown Subject (gpa2: 625371 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n2.26",
+    "gpa1: 3.12",
+    "RAC Cycles and Components (ref_sub: 27231(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
