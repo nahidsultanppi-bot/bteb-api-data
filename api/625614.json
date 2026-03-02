@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 625615 { gpa5: ref)",
+    "gpa4: 2.39",
+    "gpa3: 2.61",
+    "Unknown Subject (gpa2: 625620 { gpa5: ref)",
+    "gpa4: 2.28",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 625623 { gpa5: ref)",
+    "gpa4: 2.92",
+    "gpa3: 2.77",
+    "gpa2:\n2.67",
+    "gpa1: 3.13",
+    "Physics-II (ref_sub: 25922(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "2.84",
+    "gpa1: 3.01",
+    "Heating Ventilation & Air Conditioning (HVAC) (ref_sub: 27251(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
