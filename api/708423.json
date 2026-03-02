@@ -1,0 +1,27 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.32",
+    "gpa3: 2.85",
+    "Unknown Subject (gpa2: 708425 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (708426 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (708427 { gpa5: ref)",
+    "gpa4: 3.49",
+    "gpa3: 3.27",
+    "gpa2:\n2.31",
+    "gpa1: 2.93",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "Physiotherapy and Rehabilitation Devices (28653(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
