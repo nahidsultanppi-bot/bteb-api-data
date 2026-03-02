@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.57",
+    "Unknown Subject (gpa2: 188210 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.45",
+    "Unknown Subject (gpa2: 191188 { gpa5: ref)",
+    "gpa4: 2.62",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 611074 { gpa5: ref)",
+    "gpa4: 3.18",
+    "gpa3: 3.37",
+    "gpa2:\n2.88",
+    "gpa1: 2.95",
+    "Estimating & Costing-I (ref_sub: 26442(T))",
+    "Civil CAD-II (26452(T))",
+    "2.94",
+    "gpa1: 2.70",
+    "Estimating & Costing-I (ref_sub: 26442(T))",
+    "Geotechnical Engineering (26445(T))",
+    "2.25",
+    "gpa1: 3.25",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "RAC Cycles and Components (27231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
