@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.07",
+    "gpa3: 3.11",
+    "Unknown Subject (gpa2: 708411 { gpa5: ref)",
+    "gpa4: 2.89",
+    "gpa3: 2.76",
+    "Unknown Subject (gpa2: 708414 { gpa5: ref)",
+    "gpa4: 2.97",
+    "gpa3: 2.93",
+    "Unknown Subject (gpa2: 708422 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.70",
+    "gpa2:\n3.55",
+    "gpa1: 3.53",
+    "Accounting (ref_sub: 25841(T))",
+    "Application Development Using Java (28551(T))",
+    "2.58",
+    "gpa1: 3.19",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "Physiotherapy and Rehabilitation Devices (28653(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
