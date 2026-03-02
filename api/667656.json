@@ -1,0 +1,21 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: 2.45",
+    "gpa3:\nref",
+    "gpa2: 2.73",
+    "gpa1: 2.80",
+    "Physics-II (ref_sub: 25922(T))",
+    "Foundation Engineering (26451(T))",
+    "Hydraulics (26456(T))",
+    "Advance Surveying (26462(T))",
+    "Transportation Engineering-I (26463(T))",
+    "Environmental Studies (29041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
