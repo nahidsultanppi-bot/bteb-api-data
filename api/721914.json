@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.78",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 721915 { gpa5: ref)",
+    "gpa4: 3.29",
+    "gpa3: 2.54",
+    "Unknown Subject (gpa2: 721917 { gpa5: 2.73)",
+    "gpa4: ref",
+    "gpa3: 2.54",
+    "Unknown Subject (gpa2: 721918 { gpa5: ref)",
+    "gpa4: 2.71",
+    "gpa3: 2.96",
+    "gpa2:\n3.07",
+    "gpa1: 2.85",
+    "Python Programming (ref_sub: 28521(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
