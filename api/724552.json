@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.10",
+    "Unknown Subject (gpa2: 794773 { gpa5: ref)",
+    "gpa4: 3.14",
+    "gpa3: 3.25",
+    "gpa2:\n2.91",
+    "gpa1: 3.39",
+    "Mechanical Estimating & Costing (ref_sub: 27052(T))",
+    "Engineering Thermodynamics (27131(T))",
+    "3.44",
+    "gpa1: 3.40",
+    "Hydraulics (ref_sub: 26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
