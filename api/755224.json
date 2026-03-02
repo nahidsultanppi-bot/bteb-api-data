@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.60",
+    "Unknown Subject (ref_sub: 755255 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.88",
+    "Unknown Subject (ref_sub: 755279 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.63",
+    "Unknown Subject (ref_sub: 755339 { gpa3: ref)",
+    "gpa2: 2.58",
+    "gpa1: 2.70",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Basic Electricity (26711(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
