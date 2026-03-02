@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.90",
+    "Unknown Subject (gpa2: 773289 { gpa5: ref)",
+    "gpa4: 3.54",
+    "gpa3: 3.35",
+    "Unknown Subject (gpa2: 773290 { gpa5: ref)",
+    "gpa4: 2.93",
+    "gpa3: 3.31",
+    "Unknown Subject (gpa2: 773291 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.11",
+    "gpa2:\n2.67",
+    "gpa1: 3.05",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Metallurgy2 (27043(T))",
+    "3.39",
+    "gpa1: 3.66",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
