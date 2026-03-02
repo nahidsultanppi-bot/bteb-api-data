@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.57",
+    "Unknown Subject (gpa2: 793509 { gpa5: ref)",
+    "gpa4: 2.73",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 793512 { gpa5: ref)",
+    "gpa4: 2.95",
+    "gpa3: 2.82",
+    "Unknown Subject (gpa2: 793513 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.67",
+    "gpa2:\n3.56",
+    "gpa1: 2.85",
+    "Construction Process-II (ref_sub: 26441(T))",
+    "Surveying-III (26453(T))",
+    "3.38",
+    "gpa1: 2.60",
+    "Surveying-III (ref_sub: 26453(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
