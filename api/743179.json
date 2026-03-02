@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.96",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 743180 { gpa5: ref)",
+    "gpa4: 3.13",
+    "gpa3: 3.35",
+    "Unknown Subject (gpa2: 743183 { gpa5: ref)",
+    "gpa4: 2.86",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 743184 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "ref",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Mathematics-III (25931(T))",
+    "3.09",
+    "gpa1: 3.23",
+    "Bio-Medical Instruments (ref_sub: 28654(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
