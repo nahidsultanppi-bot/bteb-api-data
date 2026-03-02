@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (731452 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.02",
+    "Unknown Subject (gpa2: 731463 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.21",
+    "gpa2:\ngpa1: ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Chemistry (25913(T))",
+    "Electrical Circuits-I (26721(T))",
+    "2.99",
+    "gpa1: 3.28",
+    "Digital Electronics-II (ref_sub: 26841(T))",
+    "Computer Peripherals & Interfacing (28543(T))",
+    "3.17",
+    "gpa1: 3.30",
+    "Digital Electronics-II (ref_sub: 26841(T))",
+    "Application Development Using Java (28551(T))",
+    "Microprocessor & Microcontroller (26853(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
