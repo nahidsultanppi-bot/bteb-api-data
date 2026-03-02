@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.26",
+    "gpa3: 3.02",
+    "Unknown Subject (gpa2: 720785 { gpa5: ref)",
+    "gpa4: 3.62",
+    "gpa3: 3.57",
+    "Unknown Subject (gpa2: 720794 { gpa5: ref)",
+    "gpa4: 2.86",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 720796 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.65",
+    "gpa2:\n2.99",
+    "gpa1: 3.12",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
