@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 766845 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (766849 { gpa5: ref)",
+    "gpa4: 3.23",
+    "gpa3: 2.70",
+    "Unknown Subject (gpa2: 766851 { gpa5: ref)",
+    "gpa4: 3.04",
+    "gpa3: 2.76",
+    "gpa2:\n3.15",
+    "gpa1: 3.36",
+    "Physics-II (ref_sub: 25922(T))",
+    "Geotechnical Engineering (26445(T))",
+    "gpa1: 2.87",
+    "Physics-II (ref_sub: 25922(T))",
+    "Electrical Circuits-II (26731(T))",
+    "3.03",
+    "gpa1: 3.12",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
