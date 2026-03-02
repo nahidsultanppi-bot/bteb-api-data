@@ -1,0 +1,20 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: 2.98",
+    "gpa4: 3.23",
+    "gpa3:\nref",
+    "gpa2: ref",
+    "gpa1: 3.29",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Physics-II (25922(T))",
+    "Mathematics-III (25931(T))",
+    "AC Machine-I (26761(T))",
+    "Communication Engineering (26842(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
