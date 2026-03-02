@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.85",
+    "Unknown Subject (gpa2: 781228 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.31",
+    "Unknown Subject (gpa2: 781229 { gpa5: ref)",
+    "gpa4: 2.68",
+    "gpa3: 2.95",
+    "Unknown Subject (gpa2: 781237 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.51",
+    "gpa2:\n2.63",
+    "gpa1: 3.10",
+    "Computer Peripherals & Interfacing (ref_sub: 28543(T))",
+    "Application Development Using Java (28551(T))",
+    "2.92",
+    "gpa1: 3.35",
+    "Data Structure & Algorithm (ref_sub: 28542(T))",
+    "Application Development Using Java (28551(T))",
+    "2.71",
+    "gpa1: 2.90",
+    "Application Development Using Java (ref_sub: 28551(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
