@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.85",
+    "Unknown Subject (gpa2: 709012 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.87",
+    "Unknown Subject (gpa2: 709016 { gpa5: ref)",
+    "gpa4: 2.73",
+    "gpa3: 2.95",
+    "Unknown Subject (gpa2: 709019 { gpa5: 2.89)",
+    "gpa4: 2.77",
+    "gpa3: ref",
+    "gpa2:\n2.70",
+    "gpa1: 2.64",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.81",
+    "gpa1: 2.86",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
