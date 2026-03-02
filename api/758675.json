@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 758691 { gpa3: ref)",
+    "gpa2: 2.71",
+    "gpa1: 2.40",
+    "Unknown Subject (758767 { gpa3: 2.20)",
+    "gpa2: ref",
+    "gpa1: 2.41",
+    "Unknown Subject (758768 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.37",
+    "Chemistry (ref_sub:\n25913(T))",
+    "Mathematics-III (25931(T))",
+    "Surveying-I (26432(T))",
+    "Construction Process-I (26433(T))",
+    "Civil Engineering Metarials (ref_sub: 26411(T))",
+    "Surveying-I (26432(T))",
+    "Construction Process-I (26433(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
