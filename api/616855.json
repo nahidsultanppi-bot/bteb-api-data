@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.76",
+    "gpa3: 3.10",
+    "Unknown Subject (gpa2: 715983 { gpa5: ref)",
+    "gpa4: 3.06",
+    "gpa3: 3.26",
+    "Unknown Subject (gpa2: 715988 { gpa5: ref)",
+    "gpa4: 3.32",
+    "gpa3: 3.45",
+    "Unknown Subject (gpa2: 715991 { gpa5: ref)",
+    "gpa4: 3.30",
+    "gpa3: 3.42",
+    "gpa2:\nref",
+    "gpa1: 3.55",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Python Programming (28521(T))",
+    "3.14",
+    "gpa1: 3.01",
+    "Surveying-III (ref_sub: 26453(T))",
+    "Theory of Structure (26454(T))",
+    "3.19",
+    "gpa1: 2.99",
+    "Foundation Engineering (ref_sub: 26451(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
