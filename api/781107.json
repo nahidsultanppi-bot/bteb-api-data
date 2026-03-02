@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 781111 { gpa5: ref)",
+    "gpa4: 2.94",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 781114 { gpa5: ref)",
+    "gpa4: 2.24",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 781117 { gpa5: ref)",
+    "gpa4: 2.23",
+    "gpa3: ref",
+    "gpa2:\n2.39",
+    "gpa1: 2.65",
+    "DC Machine (ref_sub: 26742(T))",
+    "Power Electronics (26832(T))",
+    "2.55",
+    "gpa1: 2.69",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
