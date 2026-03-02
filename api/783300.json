@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.30",
+    "gpa3: 3.17",
+    "Unknown Subject (gpa2: 783303 { gpa5: ref)",
+    "gpa4: 2.63",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 783304 { gpa5: ref)",
+    "gpa4: 3.23",
+    "gpa3: 3.12",
+    "Unknown Subject (gpa2: 783305 { gpa5: ref)",
+    "gpa4: 2.99",
+    "gpa3: 2.94",
+    "gpa2:\n3.42",
+    "gpa1: 3.24",
+    "Mechanical Estimating & Costing (ref_sub: 27052(T))",
+    "Foundry & Pattern Making (27054(T))",
+    "2.79",
+    "gpa1: 3.26",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Fundamental of Hybride & Electric Vehicle (27151(T))",
+    "3.17",
+    "gpa1: 2.96",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Fundamental of Hybride & Electric Vehicle (27151(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
