@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 752360 { gpa5: ref)",
+    "gpa4: 2.30",
+    "gpa3: 2.33",
+    "Unknown Subject (gpa2: 752363 { gpa5: ref)",
+    "gpa4: 2.36",
+    "gpa3: 2.36",
+    "Unknown Subject (gpa2: 752364 { gpa5: ref)",
+    "gpa4: 2.39",
+    "gpa3: 2.31",
+    "gpa2:\n2.43",
+    "gpa1: ref",
+    "Accounting (ref_sub: 25841(T))",
+    "Architectural Graphics (26132(T))",
+    "2.44",
+    "gpa1: 2.54",
+    "Structural Mechanics (ref_sub: 26431(T))",
+    "Water Supply and Sanitary Engineering (26457(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
