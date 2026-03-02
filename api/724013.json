@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.12",
+    "gpa3: 2.62",
+    "Unknown Subject (gpa2: 724020 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.82",
+    "Unknown Subject (gpa2: 724022 { gpa5: ref)",
+    "gpa4: 3.47",
+    "gpa3: 2.84",
+    "Unknown Subject (gpa2: 724024 { gpa5: ref)",
+    "gpa4: 2.79",
+    "gpa3: 2.68",
+    "gpa2:\n2.80",
+    "gpa1: 2.70",
+    "Mechanical Estimating & Costing (ref_sub: 27052(T))",
+    "Heating Ventilation & Air Conditioning (HVAC) (27251(T))",
+    "2.69",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Engineering Mechanics (27041(T))",
+    "2.92",
+    "gpa1: 2.78",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Heating Ventilation & Air Conditioning (HVAC) (27251(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
