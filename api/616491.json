@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.96",
+    "gpa4: 3.10",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 616502 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.00",
+    "Unknown Subject (gpa2: 616531 { gpa5: ref)",
+    "gpa4: 3.42",
+    "gpa3: 3.62",
+    "Unknown Subject (gpa2: 616535 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "3.01",
+    "gpa1: 3.00",
+    "Mathematics-III (ref_sub: 25931(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
