@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.64",
+    "gpa3: 2.61",
+    "Unknown Subject (gpa2: 728024 { gpa5: 2.75)",
+    "gpa4: 2.96",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 728029 { gpa5: ref)",
+    "gpa4: 3.37",
+    "gpa3: 3.38",
+    "Unknown Subject (gpa2: 728032 { gpa5: ref)",
+    "gpa4: 3.52",
+    "gpa3: 3.61",
+    "gpa2:\n2.90",
+    "gpa1: 3.07",
+    "Civil CAD-II (ref_sub: 26452(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
