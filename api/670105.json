@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 3.55",
+    "gpa4:\nref",
+    "gpa3: 2.60",
+    "gpa2: 2.96",
+    "gpa1: ref",
+    "Innovation & Entrepreneurship (ref_sub:\n25853(T))",
+    "Physics -I (25912(T))",
+    "Basic Electricity (26711(T))",
+    "Digital Electronics-II (26841(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "Microcontroller Based System Design & Development (28564(T))",
+    "Network Administration & Services (28572(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
