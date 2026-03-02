@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.89",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 778960 { gpa5: ref)",
+    "gpa4: 2.87",
+    "gpa3: 2.96",
+    "Unknown Subject (gpa2: 778974 { gpa5: ref)",
+    "gpa4: 3.23",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 778979 { gpa5: ref)",
+    "gpa4: 3.13",
+    "gpa3: 3.48",
+    "gpa2:\n2.76",
+    "gpa1: 2.62",
+    "Theory of Structure (ref_sub: 26454(T))",
+    "Water Supply Engineering (26455(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
