@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.87",
+    "gpa3: 2.85",
+    "Unknown Subject (gpa2: 706883 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (706884 { gpa5: ref)",
+    "gpa4: 2.82",
+    "gpa3: 2.90",
+    "Unknown Subject (gpa2: 706894 { gpa5: ref)",
+    "gpa4: 3.10",
+    "gpa3: 3.38",
+    "gpa2:\n2.64",
+    "gpa1: 2.83",
+    "Computer Architecture & Microprocessor (ref_sub: 28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
