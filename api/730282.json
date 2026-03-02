@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.20",
+    "Unknown Subject (gpa2: 730288 { gpa5: ref)",
+    "gpa4: 3.02",
+    "gpa3: ref",
+    "gpa2:\nref",
+    "gpa1: 3.40",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Java Programming (28541(T))",
+    "3.31",
+    "gpa1: 3.18",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Application Development Using Java (28551(T))",
+    "Application Development Using Java (28551(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
