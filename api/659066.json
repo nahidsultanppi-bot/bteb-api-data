@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Mathematics-1 (gpa2: 659112 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Physics-1 (gpa2: 659124 { gpa5: ref)",
+    "gpa4: 2.55",
+    "gpa3: 2.30",
+    "Unknown Subject (gpa2: 659261 { gpa5: ref)",
+    "gpa4: 2.87",
+    "gpa3: 2.60",
+    "gpa2:\n2.45",
+    "gpa1: 2.74",
+    "Accounting (ref_sub: 25841(T))",
+    "Structural Mechanics (26431(T))",
+    "2.55",
+    "gpa1: 2.76",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Surveying-II (26444(T))",
+    "2.85",
+    "gpa1: 3.68",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
