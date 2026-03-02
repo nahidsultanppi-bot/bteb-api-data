@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 3.00",
+    "gpa4: ref",
+    "gpa3: 3.20",
+    "Unknown Subject (gpa2: 731054 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.00",
+    "Unknown Subject (gpa2: 731056 { gpa5: ref)",
+    "gpa4: 3.07",
+    "gpa3: 3.11",
+    "Unknown Subject (gpa2: 731057 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.90",
+    "gpa2:\n2.75",
+    "gpa1: 2.76",
+    "Applied Mechanics (ref_sub: 27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
