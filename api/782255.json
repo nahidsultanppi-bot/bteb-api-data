@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.60",
+    "gpa3: 3.06",
+    "Unknown Subject (gpa2: 782258 { gpa5: ref)",
+    "gpa4: 2.80",
+    "gpa3: 2.99",
+    "Unknown Subject (gpa2: 782259 { gpa5: ref)",
+    "gpa4: 2.48",
+    "gpa3: 3.09",
+    "Unknown Subject (gpa2: 782264 { gpa5: ref)",
+    "gpa4: 2.74",
+    "gpa3: 3.06",
+    "gpa2:\n2.65",
+    "gpa1: 2.85",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.63",
+    "gpa1: 2.98",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
