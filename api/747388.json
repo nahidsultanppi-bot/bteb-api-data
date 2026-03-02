@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 747771 { gpa5: ref)",
+    "gpa4: 3.00",
+    "gpa3: 3.03",
+    "Unknown Subject (gpa2: 747852 { gpa5: ref)",
+    "gpa4: 2.90",
+    "gpa3: 3.03",
+    "Unknown Subject (gpa2: 748100 { gpa5: 2.90)",
+    "gpa4: ref",
+    "gpa3: 3.14",
+    "gpa2:\n2.93",
+    "gpa1: 3.12",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "3.05",
+    "gpa1: 3.11",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
