@@ -1,0 +1,18 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.19",
+    "gpa1: 3.13",
+    "Unknown Subject (836560 { gpa3: ref)",
+    "gpa2: 3.76",
+    "gpa1: 3.58",
+    "Digital Electronics-I (ref_sub: 26831(T))",
+    "Application Development Using Python (28531(T))",
+    "IT Support Services (28533(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
