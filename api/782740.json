@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.10",
+    "Unknown Subject (gpa2: 782742 { gpa5: ref)",
+    "gpa4: 2.49",
+    "gpa3: 2.70",
+    "Unknown Subject (gpa2: 782743 { gpa5: ref)",
+    "gpa4: 3.06",
+    "gpa3: 2.96",
+    "Unknown Subject (gpa2: 782747 { gpa5: ref)",
+    "gpa4: 3.17",
+    "gpa3: 3.15",
+    "gpa2:\n2.66",
+    "gpa1: 3.11",
+    "Construction Process-II (ref_sub: 26441(T))",
+    "Foundation Engineering (26451(T))",
+    "2.76",
+    "gpa1: 2.67",
+    "Theory of Structure (ref_sub: 26454(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
