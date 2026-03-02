@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.14",
+    "Unknown Subject (gpa2: 745063 { gpa5: ref)",
+    "gpa4: 2.79",
+    "gpa3: 2.90",
+    "Unknown Subject (gpa2: 745074 { gpa5: ref)",
+    "gpa4: 3.54",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 745075 { gpa5: ref)",
+    "gpa4: 3.14",
+    "gpa3: 2.86",
+    "gpa2:\n2.63",
+    "gpa1: 2.83",
+    "DC Machine (ref_sub: 26742(T))",
+    "Television Engineering (26851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
