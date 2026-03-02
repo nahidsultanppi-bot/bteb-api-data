@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.02",
+    "gpa3: 3.24",
+    "Unknown Subject (gpa2: 726120 { gpa5: ref)",
+    "gpa4: 3.14",
+    "gpa3: 3.46",
+    "Unknown Subject (gpa2: 726122 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.22",
+    "Unknown Subject (gpa2: 726125 { gpa5: ref)",
+    "gpa4: 3.38",
+    "gpa3: 3.43",
+    "gpa2:\n2.97",
+    "gpa1: 3.45",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
