@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.08",
+    "gpa4: 2.18",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 752056 { gpa5: ref)",
+    "gpa4: 2.38",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 752057 { gpa5: 2.13)",
+    "gpa4: 2.20",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 752059 { gpa5: 2.07)",
+    "gpa4: 2.38",
+    "gpa3: ref",
+    "gpa2:\n2.43",
+    "gpa1: 2.46",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Graphic Materials (29531(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
