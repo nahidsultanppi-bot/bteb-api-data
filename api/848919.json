@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.80",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 848920 { gpa3: 2.92)",
+    "gpa2: 2.99",
+    "gpa1: ref",
+    "Unknown Subject (848924 { gpa3: ref)",
+    "gpa2: 3.48",
+    "gpa1: 3.26",
+    "Unknown Subject (848926 { gpa3: ref)",
+    "gpa2: 3.35",
+    "gpa1: 3.00",
+    "Mathematics -I (25911(T))",
+    "Architectural Graphics (26132(T))",
+    "Basic Electricity (26711(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
