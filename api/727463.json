@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.14",
+    "gpa3: 3.29",
+    "Unknown Subject (gpa2: 727465 { gpa5: ref)",
+    "gpa4: 2.43",
+    "gpa3: 2.56",
+    "Unknown Subject (gpa2: 727469 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.43",
+    "Unknown Subject (gpa2: 731618 { gpa5: ref)",
+    "gpa4: 2.63",
+    "gpa3: 2.73",
+    "gpa2:\n3.38",
+    "gpa1: 3.03",
+    "Water and Waste Water Engineering (ref_sub: 29051(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
