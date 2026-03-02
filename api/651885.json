@@ -1,0 +1,27 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 651992 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "2.56",
+    "Accounting (ref_sub: 25841(T))",
+    "Physics -I (25912(T))",
+    "Physics-II (25922(T))",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Ceramic Test and Calculation (27641(T))",
+    "Mathematics-III (25931(T))",
+    "Ceramic Engineering Chemistry (27642(T))",
+    "Ceramic Body Preparation (27645(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
