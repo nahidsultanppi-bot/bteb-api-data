@@ -1,0 +1,19 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: 3.23",
+    "gpa4: ref",
+    "gpa3:\n2.96",
+    "gpa2: 3.11",
+    "gpa1: 3.10",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "Applied Mechanics (27044(T))",
+    "Progamming in C (28567(T))",
+    "Environmental Studies (29041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
