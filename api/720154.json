@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "Accounting (25841(T))",
+    "Physics -I (25912(T))",
+    "Physics-II (25922(T))",
+    "Unknown Subject (720155 { 25911(T))",
+    "Physics -I (25912(T))",
+    "Physics-II (25922(T))",
+    "Unknown Subject (720158 { 25913(T))",
+    "Computer Peripherals & Interfacing (28543(T))",
+    "Application Development Using Java (28551(T))",
+    "Unknown Subject (720161 { 25841(T))",
+    "Chemistry (25913(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "Digital Electronics-I (26831(T))",
+    "Digital Electronics-II (26841(T))",
+    "Python Programming (28521(T))",
+    "Application Development Using Python (28531(T))",
+    "Application Development Using Java (28551(T))",
+    "Computer Architecture & Microprocessor (28553(T))",
+    "Data Communication (28554(T))",
+    "Operating System (28555(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
