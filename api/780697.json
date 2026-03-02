@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.21",
+    "gpa3: 3.08",
+    "Unknown Subject (gpa2: 780698 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.76",
+    "Unknown Subject (gpa2: 780699 { gpa5: ref)",
+    "gpa4: 3.16",
+    "gpa3: 3.11",
+    "Unknown Subject (gpa2: 780700 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.89",
+    "gpa2:\n3.06",
+    "gpa1: 2.92",
+    "Advanced GIS (ref_sub: 27851(T))",
+    "Python Programming (28521(T))",
+    "2.51",
+    "gpa1: 2.90",
+    "Basic Estimating & Costing (ref_sub: 26447(T))",
+    "Python Programming (28521(T))",
+    "3.15",
+    "gpa1: 2.88",
+    "Advanced GIS (ref_sub: 27851(T))",
+    "Python Programming (28521(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
