@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.43",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 700960 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 700961 { gpa5: 2.36)",
+    "gpa4: 2.67",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 700962 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.62",
+    "gpa2:\nref",
+    "gpa1: 2.85",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Electronic Devices and Circuits (26821(T))",
+    "2.69",
+    "gpa1: 2.85",
+    "Electronic Devices and Circuits (ref_sub: 26821(T))",
+    "Engineering Mechanics (27041(T))",
+    "2.55",
+    "gpa1: 2.93",
+    "Electronic Devices and Circuits (ref_sub: 26821(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
