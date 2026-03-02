@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.86",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 707498 { gpa5: ref)",
+    "gpa4: 2.81",
+    "gpa3: 2.93",
+    "Unknown Subject (gpa2: 707499 { gpa5: ref)",
+    "gpa4: 3.43",
+    "gpa3: 3.23",
+    "Unknown Subject (gpa2: 707502 { gpa5: ref)",
+    "gpa4: 3.13",
+    "gpa3: 2.91",
+    "gpa2:\nref",
+    "gpa1: 3.04",
+    "Physics-II (ref_sub: 25922(T))",
+    "Electrical Circuits-I (26721(T))",
+    "2.72",
+    "gpa1: 3.14",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
