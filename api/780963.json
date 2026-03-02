@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.89",
+    "gpa3: 2.75",
+    "Unknown Subject (gpa2: 780967 { gpa5: ref)",
+    "gpa4: 2.60",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 780970 { gpa5: ref)",
+    "gpa4: 2.62",
+    "gpa3: 2.89",
+    "Unknown Subject (gpa2: 780975 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n2.99",
+    "gpa1: 2.89",
+    "Water Supply Engineering (ref_sub: 26455(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
