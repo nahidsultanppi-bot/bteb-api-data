@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 719206 { gpa5: ref)",
+    "gpa4: 2.57",
+    "gpa3: 2.97",
+    "Unknown Subject (gpa2: 719218 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.79",
+    "Unknown Subject (gpa2: 719221 { gpa5: 2.95)",
+    "gpa4: ref",
+    "gpa3: 2.89",
+    "gpa2:\n2.94",
+    "gpa1: 2.85",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Engineering Mechanics (27041(T))",
+    "2.94",
+    "gpa1: 2.83",
+    "Industrial Management (ref_sub: 25852(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
