@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.57",
+    "gpa3: 2.90",
+    "Unknown Subject (gpa2: 789506 { gpa5: 3.31)",
+    "gpa4: 3.40",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 789508 { gpa5: ref)",
+    "gpa4: 2.79",
+    "gpa3: 3.00",
+    "Unknown Subject (gpa2: 789511 { gpa5: ref)",
+    "gpa4: 3.00",
+    "gpa3: 3.02",
+    "gpa2:\n2.68",
+    "gpa1: 2.81",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Industrial Management (25852(T))",
+    "3.00",
+    "gpa1: 3.17",
+    "Chemistry (ref_sub: 25913(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
