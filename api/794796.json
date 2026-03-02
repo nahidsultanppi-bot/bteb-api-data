@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.64",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 795282 { gpa5: ref)",
+    "gpa4: 3.77",
+    "gpa3: 3.75",
+    "gpa2:\n3.40",
+    "gpa1: 4.00",
+    "Physics-II (ref_sub: 25922(T))",
+    "Computer Architecture & Microprocessor (28553(T))",
+    "ref",
+    "gpa1: 3.75",
+    "Python Programming (ref_sub: 28521(T))",
+    "Application Development Using Java (28551(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
