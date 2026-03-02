@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.68",
+    "gpa3: 2.88",
+    "Unknown Subject (gpa2: 719230 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.97",
+    "Unknown Subject (gpa2: 719233 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.95",
+    "Unknown Subject (gpa2: 719235 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.83",
+    "gpa2:\nref",
+    "gpa1: 2.46",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Fluid Mechanics & Machineries (27051(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
