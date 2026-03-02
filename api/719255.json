@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.79",
+    "Unknown Subject (gpa2: 719261 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 719269 { gpa5: 2.35)",
+    "gpa4: ref",
+    "gpa3: 2.72",
+    "Unknown Subject (gpa2: 719271 { gpa5: 3.01)",
+    "gpa4: ref",
+    "gpa3: 2.51",
+    "gpa2:\n2.68",
+    "gpa1: 2.60",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Digital Electronics (26845(T))",
+    "2.50",
+    "gpa1: 2.65",
+    "Digital Electronics (ref_sub: 26845(T))",
+    "Engineering Mechanics (27041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
