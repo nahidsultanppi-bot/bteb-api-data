@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.56",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 733537 { gpa5: ref)",
+    "gpa4: 3.39",
+    "gpa3: 3.07",
+    "Unknown Subject (gpa2: 733541 { gpa5: ref)",
+    "gpa4: 3.31",
+    "gpa3: 2.83",
+    "Unknown Subject (gpa2: 733545 { gpa5: 3.04)",
+    "gpa4: ref",
+    "gpa3: 2.51",
+    "gpa2:\nref",
+    "gpa1: 3.12",
+    "Electrical Circuits-I (ref_sub: 26721(T))",
+    "DC Machine (26742(T))",
+    "3.01",
+    "gpa1: 3.26",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
