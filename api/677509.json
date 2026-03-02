@@ -1,0 +1,21 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: 2.86",
+    "gpa1: 2.83",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "Electrical & Electronic Measurements-II (26763(T))",
+    "Industrial Electronics (26833(T))",
+    "Digital Electronics (26845(T))",
+    "Microprocessor & Microcontroller (26853(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
