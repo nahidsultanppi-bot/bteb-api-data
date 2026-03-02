@@ -1,0 +1,18 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.02",
+    "gpa3: ref",
+    "gpa2:\n3.11",
+    "gpa1: ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Application Development Using Python (28531(T))",
+    "Application Development Using Java (28551(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
