@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.51",
+    "Unknown Subject (gpa2: 606952 { gpa5: ref)",
+    "gpa4: 2.51",
+    "gpa3: 2.57",
+    "Unknown Subject (gpa2: 607046 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (607047 { gpa5: ref)",
+    "gpa4: 2.71",
+    "gpa3: 2.83",
+    "gpa2:\n2.37",
+    "gpa1: 3.37",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Engineering Mechanics (27041(T))",
+    "ref",
+    "gpa1: 3.78",
+    "Basic Electricity (ref_sub: 26711(T))",
+    "Foundry & Pattern Making (27054(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
