@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.65",
+    "Unknown Subject (gpa2: 742627 { gpa5: ref)",
+    "gpa4: 2.81",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 742631 { gpa5: ref)",
+    "gpa4: 2.99",
+    "gpa3: 3.33",
+    "Unknown Subject (gpa2: 742648 { gpa5: ref)",
+    "gpa4: 2.98",
+    "gpa3: 2.94",
+    "gpa2:\n2.51",
+    "gpa1: 2.90",
+    "Surveying-II (ref_sub: 26444(T))",
+    "Civil CAD-II (26452(T))",
+    "3.16",
+    "gpa1: 3.17",
+    "Theory of Structure (ref_sub: 26454(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
