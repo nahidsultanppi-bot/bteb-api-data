@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.11",
+    "Unknown Subject (gpa2: 787524 { gpa5: ref)",
+    "gpa4: 2.39",
+    "gpa3: 2.80",
+    "Unknown Subject (gpa2: 787530 { gpa5: ref)",
+    "gpa4: 3.38",
+    "gpa3: 2.95",
+    "Unknown Subject (gpa2: 787534 { gpa5: ref)",
+    "gpa4: 2.37",
+    "gpa3: 2.93",
+    "gpa2:\n3.08",
+    "gpa1: 3.26",
+    "History of Architecture-II (ref_sub: 26152(T))",
+    "Structural Mechanics (26431(T))",
+    "2.44",
+    "gpa1: 2.69",
+    "Advanced Welding-I (ref_sub: 27053(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
