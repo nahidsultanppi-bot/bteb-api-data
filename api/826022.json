@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.59",
+    "gpa1: 2.87",
+    "Unknown Subject (826023 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 826033 { gpa3: ref)",
+    "gpa2: 2.61",
+    "gpa1: 2.89",
+    "Unknown Subject (826043 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Physics-II (ref_sub:\nref_sub: 25922(T))",
+    "Civil Engineering Metarials (26411(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
