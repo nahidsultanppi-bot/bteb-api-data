@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.74",
+    "Unknown Subject (gpa2: 724130 { gpa5: ref)",
+    "gpa4: 3.17",
+    "gpa3: 3.07",
+    "Unknown Subject (gpa2: 724131 { gpa5: ref)",
+    "gpa4: 3.32",
+    "gpa3: 3.23",
+    "Unknown Subject (gpa2: 724132 { gpa5: ref)",
+    "gpa4: 3.37",
+    "gpa3: 3.04",
+    "gpa2:\n2.62",
+    "gpa1: 2.95",
+    "Accounting (ref_sub: 25841(T))",
+    "Digital Electronics-II (26841(T))",
+    "2.51",
+    "gpa1: 2.83",
+    "Data Communication (ref_sub: 28554(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
