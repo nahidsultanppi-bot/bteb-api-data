@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.54",
+    "Unknown Subject (gpa2: 780392 { gpa5: ref)",
+    "gpa4: 3.11",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 780396 { gpa5: 3.34)",
+    "gpa4: 3.27",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 780397 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n3.21",
+    "gpa1: 3.24",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "3.23",
+    "gpa1: 3.39",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "RAC Cycles and Components (27231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
