@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.62",
+    "Unknown Subject (gpa2: 711568 { gpa5: ref)",
+    "gpa4: 2.67",
+    "gpa3: 2.51",
+    "Unknown Subject (gpa2: 711570 { gpa5: ref)",
+    "gpa4: 2.33",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 711573 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.77",
+    "gpa2:\n2.75",
+    "gpa1: 2.76",
+    "DC Machine (ref_sub: 26742(T))",
+    "Digital Electronics (26845(T))",
+    "2.72",
+    "gpa1: 2.70",
+    "Generation of Electrical Power (ref_sub: 26751(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
