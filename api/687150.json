@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 2.41",
+    "Unknown Subject (gpa4: 687151 { gpa7: ref)",
+    "gpa6: ref",
+    "gpa5: 2.65",
+    "Unknown Subject (gpa4: 687153 { gpa7: ref)",
+    "gpa6: 2.46",
+    "gpa5: ref",
+    "gpa4:\n2.31",
+    "gpa3: 2.26",
+    "gpa2: 2.26",
+    "gpa1: 2.57",
+    "ref_sub: 2.37",
+    "gpa3: 2.85",
+    "gpa2: 2.69",
+    "gpa1: 2.70",
+    "ref_sub: 2.30",
+    "gpa3: 2.35",
+    "gpa2: 2.61",
+    "gpa1: 2.75",
+    "Design of Structure-I (ref_sub:\n26464(T))",
+    "Design of Structure-II (26474(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
