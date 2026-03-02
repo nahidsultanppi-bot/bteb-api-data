@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.49",
+    "gpa3: 3.24",
+    "Unknown Subject (gpa2: 718583 { gpa5: ref)",
+    "gpa4: 2.91",
+    "gpa3: 2.14",
+    "Unknown Subject (gpa2: 718594 { gpa5: ref)",
+    "gpa4: 3.07",
+    "gpa3: 2.96",
+    "Unknown Subject (gpa2: 718595 { gpa5: ref)",
+    "gpa4: 3.24",
+    "gpa3: ref",
+    "gpa2:\n3.19",
+    "gpa1: 2.53",
+    "Metallurgy2 (ref_sub: 27043(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
