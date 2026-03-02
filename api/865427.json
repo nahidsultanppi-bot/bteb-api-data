@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.93",
+    "Unknown Subject (ref_sub: 865428 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.12",
+    "Unknown Subject (ref_sub: 865434 { gpa3: 2.98)",
+    "gpa2: ref",
+    "gpa1: 3.04",
+    "Unknown Subject (865436 { gpa3: ref)",
+    "gpa2: 3.05",
+    "gpa1: 2.94",
+    "Chemistry (25913(T))",
+    "Physics-II (25922(T))",
+    "Telecom Workshop and Outside Plant (29431(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
