@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 639759 { gpa5: ref)",
+    "gpa4: 2.36",
+    "gpa3: 2.81",
+    "Unknown Subject (gpa2: 639767 { gpa5: 2.54)",
+    "gpa4: ref",
+    "gpa3: 3.04",
+    "Unknown Subject (gpa2: 639804 { gpa5: ref)",
+    "gpa4: 2.85",
+    "gpa3: 2.68",
+    "gpa2:\nref",
+    "gpa1: 2.67",
+    "Accounting (ref_sub: 25841(T))",
+    "Electrical Circuits-I (26721(T))",
+    "2.41",
+    "gpa1: 2.48",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "ref",
+    "gpa1: 2.93",
+    "Electrical Circuits-I (ref_sub: 26721(T))",
+    "DC Machine (26742(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
