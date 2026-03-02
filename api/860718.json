@@ -1,0 +1,27 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.75",
+    "Unknown Subject (ref_sub: 860723 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.93",
+    "Unknown Subject (ref_sub: 860728 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.95",
+    "Unknown Subject (ref_sub: 860730 { gpa3: ref)",
+    "gpa2: 2.82",
+    "gpa1: ref",
+    "Chemistry (ref_sub:\n25913(T))",
+    "Physics-II (25922(T))",
+    "Digital Electronics-I (26831(T))",
+    "Python Programming (28521(T))",
+    "Chemistry (25913(T))",
+    "Physics-II (25922(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
