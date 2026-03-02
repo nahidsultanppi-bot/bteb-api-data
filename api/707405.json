@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.80",
+    "gpa3: 2.84",
+    "Unknown Subject (gpa2: 707410 { gpa5: ref)",
+    "gpa4: 3.11",
+    "gpa3: 2.99",
+    "Unknown Subject (gpa2: 707411 { gpa5: ref)",
+    "gpa4: 3.20",
+    "gpa3: 2.85",
+    "Unknown Subject (gpa2: 707412 { gpa5: ref)",
+    "gpa4: 3.00",
+    "gpa3: 2.71",
+    "gpa2:\n2.85",
+    "gpa1: 2.88",
+    "Television Engineering (ref_sub: 26851(T))",
+    "Bio-Medical Instruments (28654(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
