@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 740743 { gpa5: ref)",
+    "gpa4: 2.96",
+    "gpa3: 3.05",
+    "Unknown Subject (gpa2: 740755 { gpa5: ref)",
+    "gpa4: 2.70",
+    "gpa3: 3.27",
+    "Unknown Subject (gpa2: 740758 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.27",
+    "gpa2:\n2.88",
+    "gpa1: 2.52",
+    "Electrical Appliances (ref_sub: 26732(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "3.18",
+    "gpa1: 3.31",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
