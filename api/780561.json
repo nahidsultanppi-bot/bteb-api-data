@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 780563 { gpa5: ref)",
+    "gpa4: 3.01",
+    "gpa3: 2.53",
+    "Unknown Subject (gpa2: 780564 { gpa5: ref)",
+    "gpa4: 3.31",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 780567 { gpa5: ref)",
+    "gpa4: 3.10",
+    "gpa3: 2.71",
+    "gpa2:\n2.63",
+    "gpa1: 2.74",
+    "Chemistry (ref_sub: 25913(T))",
+    "Structural Mechanics (26431(T))",
+    "2.54",
+    "gpa1: 2.63",
+    "Advanced GIS (ref_sub: 27851(T))",
+    "Advanced Surveying-II (27853(T))",
+    "2.80",
+    "gpa1: 2.76",
+    "Python Programming (ref_sub: 28521(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
