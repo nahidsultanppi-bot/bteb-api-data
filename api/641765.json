@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: 2.95",
+    "gpa2: 2.92",
+    "Unknown Subject (gpa1: 742205 { gpa4: ref)",
+    "gpa3: 3.32",
+    "gpa2: 3.17",
+    "gpa1:\nref",
+    "Basic Electricity (ref_sub: 26711(T))",
+    "Engineering Mechanics (27041(T))",
+    "Metallurgy2 (27043(T))",
+    "3.32",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Engineering Mechanics (27041(T))",
+    "Engineering Thermodynamics (27131(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
