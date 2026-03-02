@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.54",
+    "Unknown Subject (gpa2: 707426 { gpa5: 3.13)",
+    "gpa4: ref",
+    "gpa3: 2.59",
+    "Unknown Subject (gpa2: 707431 { gpa5: 3.08)",
+    "gpa4: ref",
+    "gpa3: 2.65",
+    "Unknown Subject (gpa2: 707432 { gpa5: 2.85)",
+    "gpa4: ref",
+    "gpa3: 2.40",
+    "gpa2:\nref",
+    "gpa1: 2.86",
+    "Accounting (ref_sub: 25841(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "ref",
+    "gpa1: 3.21",
+    "Electrical Circuits-I (ref_sub: 26721(T))",
+    "DC Machine (26742(T))",
+    "2.83",
+    "gpa1: 3.07",
+    "Networks, Filters and Transmission lines (ref_sub: 26843(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
