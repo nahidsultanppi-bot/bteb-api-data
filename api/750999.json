@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.85",
+    "Unknown Subject (gpa2: 751006 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.90",
+    "Unknown Subject (gpa2: 751015 { gpa5: ref)",
+    "gpa4: 2.67",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 751016 { gpa5: ref)",
+    "gpa4: 3.22",
+    "gpa3: 3.21",
+    "gpa2:\nref",
+    "gpa1: 2.69",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Electrical & Electronic Measurements-II (26763(T))",
+    "ref",
+    "gpa1: 2.83",
+    "Accounting (ref_sub: 25841(T))",
+    "Mathematics-II (25921(T))",
+    "2.84",
+    "gpa1: 3.05",
+    "Radiology and Imaging Equipment (ref_sub: 28651(T))",
+    "Physiotherapy and Rehabilitation Devices (28653(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
