@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.55",
+    "gpa3: 2.52",
+    "Unknown Subject (gpa2: 793840 { gpa5: ref)",
+    "gpa4: 3.02",
+    "gpa3: 3.15",
+    "Unknown Subject (gpa2: 793842 { gpa5: ref)",
+    "gpa4: 2.98",
+    "gpa3: 3.32",
+    "Unknown Subject (gpa2: 793843 { gpa5: ref)",
+    "gpa4: 2.86",
+    "gpa3: 3.10",
+    "gpa2:\n2.60",
+    "gpa1: 3.05",
+    "Water Treatment Technology (ref_sub: 26353(T))",
+    "Industrial Instrumentation & Process Control (26354(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
