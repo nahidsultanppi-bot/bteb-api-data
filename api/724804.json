@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.57",
+    "Unknown Subject (gpa2: 724806 { gpa5: ref)",
+    "gpa4: 3.35",
+    "gpa3: 3.27",
+    "Unknown Subject (gpa2: 724808 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.39",
+    "gpa2:\n3.02",
+    "gpa1: 3.48",
+    "Java Programming (ref_sub: 28541(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
