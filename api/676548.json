@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 776639 { gpa5: ref)",
+    "gpa4: 3.21",
+    "gpa3: 3.26",
+    "Unknown Subject (gpa2: 776640 { gpa5: ref)",
+    "gpa4: 3.31",
+    "gpa3: 3.69",
+    "Unknown Subject (gpa2: 776645 { gpa5: ref)",
+    "gpa4: 3.23",
+    "gpa3: 3.42",
+    "gpa2:\n2.58",
+    "gpa1: 3.08",
+    "Physics-II (ref_sub: 25922(T))",
+    "Digital Electronics-II (26841(T))",
+    "3.11",
+    "gpa1: 3.26",
+    "Hydraulics (ref_sub: 26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
