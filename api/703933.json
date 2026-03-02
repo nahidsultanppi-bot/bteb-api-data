@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (703947 { gpa5: ref)",
+    "gpa4: 3.58",
+    "gpa3: 3.58",
+    "Unknown Subject (gpa2: 703952 { gpa5: ref)",
+    "gpa4: 3.19",
+    "gpa3: 3.11",
+    "Unknown Subject (gpa2: 703954 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\ngpa1: 3.17",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Electrical Circuits-I (26721(T))",
+    "3.14",
+    "gpa1: 3.18",
+    "Principles of Marketing (ref_sub: 25851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
