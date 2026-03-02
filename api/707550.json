@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.19",
+    "gpa3: 2.93",
+    "Unknown Subject (gpa2: 707553 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.73",
+    "Unknown Subject (gpa2: 707555 { gpa5: ref)",
+    "gpa4: 3.00",
+    "gpa3: 3.14",
+    "gpa2:\nref",
+    "gpa1: 2.77",
+    "Electronic Devices and Circuits (ref_sub: 26821(T))",
+    "Television Engineering (26851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
