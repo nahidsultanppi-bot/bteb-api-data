@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.99",
+    "Unknown Subject (gpa2: 766441 { gpa5: 2.99)",
+    "gpa4: 2.98",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 766446 { gpa5: 2.80)",
+    "gpa4: 2.81",
+    "gpa3: 2.86",
+    "Unknown Subject (766453 { gpa5: ref)",
+    "gpa4: 3.31",
+    "gpa3: 3.20",
+    "gpa2:\n2.94",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "ref",
+    "gpa1: 3.05",
+    "Chemistry (ref_sub: 25913(T))",
+    "Mathematics-II (25921(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
