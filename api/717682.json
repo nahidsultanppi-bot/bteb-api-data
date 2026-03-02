@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.48",
+    "gpa3: 3.20",
+    "Unknown Subject (gpa2: 717693 { gpa5: ref)",
+    "gpa4: 3.41",
+    "gpa3: 2.98",
+    "Unknown Subject (gpa2: 717711 { gpa5: ref)",
+    "gpa4: 3.03",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 717712 { gpa5: ref)",
+    "gpa4: 3.11",
+    "gpa3: 2.87",
+    "gpa2:\n3.10",
+    "gpa1: 3.28",
+    "Construction Process-II (ref_sub: 26441(T))",
+    "Water and Waste Water Engineering (29051(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
