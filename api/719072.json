@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.96",
+    "gpa4: ref",
+    "gpa3: 2.75",
+    "Unknown Subject (gpa2: 719075 { gpa5: 2.48)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 719081 { gpa5: 2.55)",
+    "gpa4: ref",
+    "gpa3: 2.63",
+    "Unknown Subject (gpa2: 719089 { gpa5: ref)",
+    "gpa4: 2.68",
+    "gpa3: 2.76",
+    "gpa2:\nref",
+    "gpa1: 2.84",
+    "Physics-II (ref_sub: 25922(T))",
+    "Engineering Mechanics (27041(T))",
+    "2.74",
+    "gpa1: 2.85",
+    "Chemistry (ref_sub: 25913(T))",
+    "Electronic Devices and Circuits (26821(T))",
+    "2.73",
+    "gpa1: 2.89",
+    "Engineering Thermodynamics (ref_sub: 27131(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
