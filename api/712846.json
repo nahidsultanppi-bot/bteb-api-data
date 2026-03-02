@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.44",
+    "gpa3: 3.67",
+    "Unknown Subject (gpa2: 712848 { gpa5: ref)",
+    "gpa4: 3.29",
+    "gpa3: 3.48",
+    "Unknown Subject (gpa2: 712850 { gpa5: ref)",
+    "gpa4: 3.38",
+    "gpa3: 3.64",
+    "Unknown Subject (gpa2: 712859 { gpa5: ref)",
+    "gpa4: 3.23",
+    "gpa3: 3.42",
+    "gpa2:\n3.56",
+    "gpa1: 3.39",
+    "Foundation Engineering (ref_sub: 26451(T))",
+    "Surveying-III (26453(T))",
+    "3.41",
+    "gpa1: ref",
+    "Foundation Engineering (ref_sub: 26451(T))",
+    "Basic Electricity (26711(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
