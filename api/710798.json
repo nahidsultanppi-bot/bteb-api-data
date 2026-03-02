@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.79",
+    "gpa3: 2.83",
+    "Unknown Subject (gpa2: 710799 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.58",
+    "Unknown Subject (gpa2: 710822 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 710837 { gpa5: 3.25)",
+    "gpa4: 3.38",
+    "gpa3: ref",
+    "gpa2:\nref",
+    "gpa1: 3.03",
+    "Hydraulics (ref_sub: 26456(T))",
+    "Basic Electronics (26811(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
