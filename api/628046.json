@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.24",
+    "Unknown Subject (gpa2: 628050 { gpa5: ref)",
+    "gpa4: 2.31",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 628054 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (628062 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.55",
+    "gpa2:\n2.98",
+    "gpa1: 3.27",
+    "Digital Electronics-II (ref_sub: 26841(T))",
+    "Bio-Medical Instruments (28654(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
