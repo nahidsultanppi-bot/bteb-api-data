@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 771704 { gpa5: ref)",
+    "gpa4: 2.44",
+    "gpa3: 2.65",
+    "Unknown Subject (gpa2: 771706 { gpa5: ref)",
+    "gpa4: 3.33",
+    "gpa3: 2.79",
+    "Unknown Subject (gpa2: 771707 { gpa5: ref)",
+    "gpa4: 3.00",
+    "gpa3: 2.75",
+    "gpa2:\n2.48",
+    "gpa1: 2.80",
+    "Electrical Installation,Planning and Estimating (ref_sub: 26741(T))",
+    "DC Machine (26742(T))",
+    "2.65",
+    "gpa1: 2.68",
+    "Television Engineering (ref_sub: 26851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
