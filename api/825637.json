@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.30",
+    "Unknown Subject (ref_sub: 825638 { gpa3: ref)",
+    "gpa2: 2.95",
+    "gpa1: 2.39",
+    "Unknown Subject (825641 { gpa3: ref)",
+    "gpa2: 3.00",
+    "gpa1: 3.33",
+    "Unknown Subject (825645 { gpa3: ref)",
+    "gpa2: 2.96",
+    "gpa1: 3.35",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Basic Electronics (26811(T))",
+    "Engineering Thermodynamics (27131(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
