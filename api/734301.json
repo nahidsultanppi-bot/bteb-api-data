@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 735422 { gpa5: ref)",
+    "gpa4: 3.35",
+    "gpa3: 3.21",
+    "Unknown Subject (gpa2: 735498 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.89",
+    "Unknown Subject (gpa2: 740351 { gpa5: ref)",
+    "gpa4: 2.99",
+    "gpa3: ref",
+    "gpa2:\n2.67",
+    "gpa1: 2.90",
+    "Suspension, Brake, Steering & Transmission System of Vehicle (ref_sub: 26262(T))",
+    "Engineering Mechanics (27041(T))",
+    "2.94",
+    "gpa1: 3.21",
+    "Hydraulics (ref_sub: 26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
