@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 861068 { gpa3: 3.08)",
+    "gpa2: ref",
+    "gpa1: 3.12",
+    "Unknown Subject (861100 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.15",
+    "Unknown Subject (ref_sub: 861123 { gpa3: ref)",
+    "gpa2: 3.05",
+    "gpa1: 3.35",
+    "Physics -I (25912(T))",
+    "Mathematics-II (25921(T))",
+    "Mechanical Engineering Materials (27031(T))",
+    "Machine Shop Practice-II (27032(T))",
+    "Chemistry (ref_sub: 25913(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
