@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.18",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Physics-II (25922(T))",
+    "Structural Mechanics (26431(T))",
+    "Construction Process-II (26441(T))",
+    "Estimating & Costing-I (26442(T))",
+    "Surveying-II (26444(T))",
+    "Theory of Structure (26454(T))",
+    "Hydraulics (26456(T))",
+    "Advance Surveying (26462(T))",
+    "Design of Structure-I (26464(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
