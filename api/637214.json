@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: 2.50",
+    "Unknown Subject (gpa1: 637286 { gpa4: ref)",
+    "gpa3: 2.82",
+    "gpa2: 2.69",
+    "Unknown Subject (gpa1: 736661 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 736820 { gpa4: ref)",
+    "gpa3: 2.51",
+    "gpa2: 2.69",
+    "gpa1:\nref",
+    "Accounting (ref_sub: 25841(T))",
+    "Mathematics -I (25911(T))",
+    "Physics -I (25912(T))",
+    "3.00",
+    "Java Programming (ref_sub: 28541(T))",
+    "Computer Peripherals & Interfacing (28543(T))",
+    "Web Design & Development-I (28544(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
