@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: 2.28",
+    "Unknown Subject (gpa1: 640177 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 740611 { gpa4: ref)",
+    "gpa3: 2.98",
+    "gpa2: 2.74",
+    "Unknown Subject (gpa1: 740682 { gpa4: ref)",
+    "gpa3: 3.04",
+    "gpa2: 2.93",
+    "gpa1:\n2.81",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "Digital Electronics (26845(T))",
+    "3.29",
+    "Accounting (ref_sub: 25841(T))",
+    "Chemistry (25913(T))",
+    "Physics-II (25922(T))",
+    "ref",
+    "Accounting (ref_sub: 25841(T))",
+    "Geotechnical Engineering (26445(T))",
+    "Basic Electricity (26711(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
