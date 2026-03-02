@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.04",
+    "Unknown Subject (gpa2: 781530 { gpa5: ref)",
+    "gpa4: 3.26",
+    "gpa3: 3.29",
+    "Unknown Subject (gpa2: 781532 { gpa5: ref)",
+    "gpa4: 3.37",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 781546 { gpa5: ref)",
+    "gpa4: 3.08",
+    "gpa3: 3.14",
+    "gpa2:\n3.16",
+    "gpa1: 3.02",
+    "Estimating & Costing-I (ref_sub: 26442(T))",
+    "Civil CAD-I (26443(T))",
+    "3.36",
+    "gpa1: 3.11",
+    "Foundation Engineering (ref_sub: 26451(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
