@@ -1,0 +1,19 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.83",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Digital Electronics-I (26831(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "Application Development Using Java (28551(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
