@@ -1,0 +1,19 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: 3.04",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 767362 { gpa4: ref)",
+    "gpa3: 3.04",
+    "gpa2: 3.14",
+    "gpa1:\n2.98",
+    "Electrical Circuits-I (ref_sub: 26721(T))",
+    "DC Machine (26742(T))",
+    "Digital Electronics (26845(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
