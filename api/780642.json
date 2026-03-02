@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.24",
+    "gpa3: 2.87",
+    "Unknown Subject (gpa2: 780643 { gpa5: ref)",
+    "gpa4: 3.55",
+    "gpa3: 3.49",
+    "Unknown Subject (gpa2: 780644 { gpa5: ref)",
+    "gpa4: 3.39",
+    "gpa3: 2.97",
+    "Unknown Subject (gpa2: 780645 { gpa5: ref)",
+    "gpa4: 3.46",
+    "gpa3: 3.23",
+    "gpa2:\n2.94",
+    "gpa1: 2.82",
+    "Theory of Structure (ref_sub: 26454(T))",
+    "Advanced GIS (27851(T))",
+    "3.01",
+    "gpa1: 2.75",
+    "Python Programming (ref_sub: 28521(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
