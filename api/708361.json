@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Digital Electronics-I (26831(T))",
+    "Unknown Subject (708455 { 26761(T))",
+    "Progamming in C (28567(T))",
+    "Radiology and Imaging Equipment (28651(T))",
+    "Unknown Subject (708457 { 25911(T))",
+    "Physics -I (25912(T))",
+    "Electrical Circuits-II (26731(T))",
+    "Unknown Subject (708479 { 25852(T))",
+    "Mathematics -I (25911(T))",
+    "Electrical Circuits-I (26721(T))",
+    "Python Programming (28521(T))",
+    "Application Development Using Java (28551(T))",
+    "Web Design & Development-II (28552(T))",
+    "Computer Architecture & Microprocessor (28553(T))",
+    "Physiotherapy and Rehabilitation Devices (28653(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
