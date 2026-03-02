@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.29",
+    "gpa3: 3.31",
+    "Unknown Subject (gpa2: 603291 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 603297 { gpa5: ref)",
+    "gpa4: 3.25",
+    "gpa3: 3.11",
+    "Unknown Subject (gpa2: 603317 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.06",
+    "gpa2:\n3.44",
+    "gpa1: 3.55",
+    "Foundation Engineering (ref_sub: 26451(T))",
+    "Theory of Structure (26454(T))",
+    "3.23",
+    "gpa1: 3.15",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Estimating & Costing-I (26442(T))",
+    "3.11",
+    "gpa1: 3.53",
+    "Theory of Structure (ref_sub: 26454(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
