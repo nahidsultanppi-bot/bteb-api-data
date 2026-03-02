@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.25",
+    "gpa3: 3.38",
+    "Unknown Subject (gpa2: 712152 { gpa5: ref)",
+    "gpa4: 3.29",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 712154 { gpa5: ref)",
+    "gpa4: 3.50",
+    "gpa3: 3.55",
+    "Unknown Subject (gpa2: 712159 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.31",
+    "gpa2:\n3.25",
+    "gpa1: 3.42",
+    "Foundation Engineering (ref_sub: 26451(T))",
+    "Theory of Structure (26454(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
