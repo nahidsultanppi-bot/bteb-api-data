@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "Industrial Management (25852(T))",
+    "Physics-II (25922(T))",
+    "Basic Electricity (26711(T))",
+    "Unknown Subject (727626 { 26711(T))",
+    "Mechanical Engineering Materials (27031(T))",
+    "Engineering Mechanics (27041(T))",
+    "Unknown Subject (727659 { 25841(T))",
+    "Mathematics-II (25921(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "Unknown Subject (727661 { 25841(T))",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Electrical Circuits-I (26721(T))",
+    "Generation of Electrical Power (26751(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "Microprocessor & Microcontroller (26853(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "Advanced Welding-I (27053(T))",
+    "Foundry & Pattern Making (27054(T))",
+    "RAC Cycles and Components (27231(T))",
+    "Application Development Using Java (28551(T))",
+    "Computer Architecture & Microprocessor (28553(T))",
+    "Operating System (28555(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
