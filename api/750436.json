@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 750479 { gpa5: ref)",
+    "gpa4: 2.90",
+    "gpa3: 3.13",
+    "Unknown Subject (gpa2: 768095 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (770233 { gpa5: ref)",
+    "gpa4: 3.10",
+    "gpa3: 3.07",
+    "gpa2:\n2.63",
+    "gpa1: 2.95",
+    "DC Machine (ref_sub: 26742(T))",
+    "Testing and Maintannance of Electrical Equipments (26753(T))",
+    "3.16",
+    "gpa1: 3.29",
+    "Generation of Electrical Power (ref_sub: 26751(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
