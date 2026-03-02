@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 860470 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 860471 { gpa3: ref)",
+    "gpa2: 3.04",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 860472 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Business Communication (ref_sub:\n25831(T))",
+    "Mathematics -I (25911(T))",
+    "Civil Engineering Drawing (26421(T))",
+    "Surveying-I (26432(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
