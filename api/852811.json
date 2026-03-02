@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.69",
+    "gpa1: 2.79",
+    "Unknown Subject (852817 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.98",
+    "Unknown Subject (ref_sub: 852818 { gpa3: ref)",
+    "gpa2: 2.60",
+    "gpa1: 2.85",
+    "Unknown Subject (852819 { gpa3: ref)",
+    "gpa2: 2.61",
+    "gpa1: ref",
+    "Industrial Chemistry (ref_sub:\nref_sub: 26332(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
