@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.29",
+    "Unknown Subject (gpa2: 706260 { gpa5: ref)",
+    "gpa4: 3.24",
+    "gpa3: 3.36",
+    "Unknown Subject (gpa2: 706280 { gpa5: ref)",
+    "gpa4: 3.50",
+    "gpa3: 3.68",
+    "Unknown Subject (gpa2: 706282 { gpa5: ref)",
+    "gpa4: 3.62",
+    "gpa3: 3.54",
+    "gpa2:\n3.15",
+    "gpa1: 3.33",
+    "Data Structure & Algorithm (ref_sub: 28542(T))",
+    "Application Development Using Java (28551(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
