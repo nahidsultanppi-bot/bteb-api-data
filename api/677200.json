@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.64",
+    "Unknown Subject (gpa2: 677227 { gpa5: ref)",
+    "gpa4: 2.45",
+    "gpa3: 2.54",
+    "Preparation of Glass Raw Materials (gpa2: 677335 { gpa5: ref)",
+    "gpa4: 2.40",
+    "gpa3: 2.37",
+    "Preparation of Glass Raw Materials (gpa2: 677339 { gpa5: ref)",
+    "gpa4: 2.81",
+    "gpa3: 2.64",
+    "gpa2:\n2.11",
+    "gpa1: 2.33",
+    "Electrical Installation,Planning and Estimating (ref_sub: 26741(T))",
+    "Television Engineering (26851(T))",
+    "2.26",
+    "gpa1: 2.64",
+    "Television Engineering (ref_sub: 26851(T))",
+    "Electronic Appliancs (26852(T))",
+    "2.83",
+    "gpa1: 2.78",
+    "Application Development Using Java (ref_sub: 28551(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
