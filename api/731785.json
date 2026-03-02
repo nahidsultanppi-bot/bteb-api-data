@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 731787 { gpa5: ref)",
+    "gpa4: 3.63",
+    "gpa3: 3.26",
+    "Unknown Subject (gpa2: 731788 { gpa5: ref)",
+    "gpa4: 3.61",
+    "gpa3: 2.95",
+    "Unknown Subject (gpa2: 731790 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.79",
+    "gpa2:\n3.09",
+    "gpa1: 3.17",
+    "Electrical Circuits-II (ref_sub: 26731(T))",
+    "DC Machine (26742(T))",
+    "3.28",
+    "gpa1: 3.17",
+    "Television Engineering (ref_sub: 26851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
