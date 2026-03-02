@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: 2.35",
+    "gpa2: 2.26",
+    "Unknown Subject (gpa1: 780965 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: 2.40",
+    "Unknown Subject (gpa1: 781019 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: 2.38",
+    "Unknown Subject (gpa1: 781164 { gpa4: ref)",
+    "gpa3: 2.14",
+    "gpa2: 3.31",
+    "gpa1:\n3.18",
+    "Java Programming (ref_sub: 28541(T))",
+    "Web Design & Development-I (28544(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
