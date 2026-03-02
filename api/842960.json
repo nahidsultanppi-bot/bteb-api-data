@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.29",
+    "Unknown Subject (ref_sub: 842989 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.04",
+    "Unknown Subject (ref_sub: 843209 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.10",
+    "Unknown Subject (ref_sub: 843759 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.95",
+    "Chemistry (ref_sub:\n25913(T))",
+    "Mathematics-II (25921(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
