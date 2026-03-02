@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.23",
+    "gpa1: 3.55",
+    "Unknown Subject (817831 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.20",
+    "Unknown Subject (ref_sub: 817837 { gpa3: ref)",
+    "gpa2: 3.23",
+    "gpa1: 3.45",
+    "Unknown Subject (817843 { gpa3: ref)",
+    "gpa2: 3.50",
+    "gpa1: 3.70",
+    "Application Development Using Python (ref_sub: 28531(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
