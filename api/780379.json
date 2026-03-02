@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.10",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 780383 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 780385 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.40",
+    "Unknown Subject (gpa2: 780390 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.46",
+    "gpa2:\n3.01",
+    "gpa1: 3.04",
+    "Manufacturing Process (ref_sub: 27055(T))",
+    "RAC Cycles and Components (27231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
