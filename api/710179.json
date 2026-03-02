@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.18",
+    "Unknown Subject (gpa2: 710183 { gpa5: ref)",
+    "gpa4: 3.38",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 710184 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (710187 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n3.15",
+    "gpa1: 3.21",
+    "Foundry & Pattern Making (ref_sub: 27054(T))",
+    "Engineering Thermodynamics (27131(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
