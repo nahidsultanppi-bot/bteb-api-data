@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.82",
+    "Unknown Subject (ref_sub: 860706 { gpa3: ref)",
+    "gpa2: 2.92",
+    "gpa1: 3.12",
+    "Unknown Subject (860710 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.00",
+    "Unknown Subject (ref_sub: 860712 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.89",
+    "Bangla -II (ref_sub:\n25721(T))",
+    "Business Communication (25831(T))",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Business Communication (ref_sub: 25831(T))",
+    "Mathematics-III (25931(T))",
+    "RAC Cycles and Components (27231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
