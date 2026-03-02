@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.55",
+    "Unknown Subject (gpa2: 717428 { gpa5: ref)",
+    "gpa4: 2.93",
+    "gpa3: 3.07",
+    "Unknown Subject (gpa2: 717442 { gpa5: ref)",
+    "gpa4: 3.61",
+    "gpa3: 3.08",
+    "Unknown Subject (gpa2: 717447 { gpa5: ref)",
+    "gpa4: 2.77",
+    "gpa3: 2.43",
+    "gpa2:\nref",
+    "gpa1: 2.95",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Digital Electronics-II (26841(T))",
+    "2.62",
+    "gpa1: 3.03",
+    "Application Development Using Java (ref_sub: 28551(T))",
+    "Data Communication (28554(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
