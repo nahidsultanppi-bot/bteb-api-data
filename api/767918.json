@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 3.29",
+    "gpa4: ref",
+    "gpa3: 3.06",
+    "Unknown Subject (gpa2: 767919 { gpa5: 3.20)",
+    "gpa4: ref",
+    "gpa3: 3.25",
+    "Unknown Subject (gpa2: 767922 { gpa5: ref)",
+    "gpa4: 3.06",
+    "gpa3: 3.31",
+    "Unknown Subject (gpa2: 791240 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "2.98",
+    "gpa1: 3.24",
+    "DC Machine (ref_sub: 26742(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
