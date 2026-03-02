@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.90",
+    "gpa3: 2.75",
+    "Unknown Subject (gpa2: 772787 { gpa5: ref)",
+    "gpa4: 2.78",
+    "gpa3: 2.60",
+    "Unknown Subject (gpa2: 772796 { gpa5: ref)",
+    "gpa4: 2.72",
+    "gpa3: 2.77",
+    "Unknown Subject (gpa2: 772819 { gpa5: ref)",
+    "gpa4: 2.85",
+    "gpa3: 2.54",
+    "gpa2:\n2.63",
+    "gpa1: 2.83",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "Radiology and Imaging Equipment (28651(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
