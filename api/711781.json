@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.04",
+    "Unknown Subject (gpa2: 711784 { gpa5: ref)",
+    "gpa4: 2.94",
+    "gpa3: 3.23",
+    "Unknown Subject (gpa2: 711862 { gpa5: ref)",
+    "gpa4: 3.27",
+    "gpa3: 3.18",
+    "Unknown Subject (gpa2: 711916 { gpa5: ref)",
+    "gpa4: 3.60",
+    "gpa3: 3.32",
+    "gpa2:\n2.96",
+    "gpa1: 2.85",
+    "Data Structure & Algorithm (ref_sub: 28542(T))",
+    "Data Communication (28554(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
