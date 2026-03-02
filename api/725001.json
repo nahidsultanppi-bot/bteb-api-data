@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.52",
+    "Unknown Subject (gpa2: 725005 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.55",
+    "Unknown Subject (gpa2: 725089 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.23",
+    "Unknown Subject (gpa2: 725108 { gpa5: ref)",
+    "gpa4: 3.05",
+    "gpa3: 3.39",
+    "gpa2:\nref",
+    "gpa1: ref",
+    "Accounting (ref_sub: 25841(T))",
+    "Mathematics -I (25911(T))",
+    "3.33",
+    "gpa1: 3.41",
+    "Estimating & Costing-I (ref_sub: 26442(T))",
+    "Surveying-III (26453(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
