@@ -1,0 +1,19 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: 3.24",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 788661 { gpa4: ref)",
+    "gpa3: 2.58",
+    "gpa2: ref",
+    "gpa1:\n2.92",
+    "Accounting (ref_sub: 25841(T))",
+    "Basic Electronics (26811(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
