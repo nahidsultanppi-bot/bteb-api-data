@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.05",
+    "gpa3: 3.11",
+    "Unknown Subject (gpa2: 754247 { gpa5: ref)",
+    "gpa4: 3.42",
+    "gpa3: 3.33",
+    "Unknown Subject (gpa2: 754249 { gpa5: ref)",
+    "gpa4: 3.38",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 754255 { gpa5: 3.19)",
+    "gpa4: 3.43",
+    "gpa3: ref",
+    "gpa2:\n2.87",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Marine Boiler & Steam Engineering (27952(T))",
+    "2.85",
+    "gpa1: 3.04",
+    "Marine Boiler & Steam Engineering (ref_sub: 27952(T))",
+    "Marine IC Engine Operation & Maintenance (27954(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
