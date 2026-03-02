@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.73",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 777828 { gpa5: ref)",
+    "gpa4: 3.21",
+    "gpa3: 2.92",
+    "Unknown Subject (gpa2: 777832 { gpa5: ref)",
+    "gpa4: 2.92",
+    "gpa3: 2.55",
+    "Unknown Subject (gpa2: 777834 { gpa5: ref)",
+    "gpa4: 2.74",
+    "gpa3: 2.95",
+    "gpa2:\n2.31",
+    "gpa1: 2.79",
+    "Business Communication (ref_sub: 25831(T))",
+    "Surveying-III (26453(T))",
+    "3.16",
+    "gpa1: 2.88",
+    "Theory of Structure (ref_sub: 26454(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
