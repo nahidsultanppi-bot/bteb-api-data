@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.87",
+    "Unknown Subject (gpa2: 639857 { gpa5: ref)",
+    "gpa4: 2.64",
+    "gpa3: 2.85",
+    "Unknown Subject (gpa2: 639872 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.79",
+    "Unknown Subject (gpa2: 639875 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "2.89",
+    "gpa1: 3.07",
+    "Accounting (ref_sub: 25841(T))",
+    "Generation of Electrical Power (26751(T))",
+    "2.49",
+    "gpa1: 3.07",
+    "Generation of Electrical Power (ref_sub: 26751(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
