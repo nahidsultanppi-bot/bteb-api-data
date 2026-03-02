@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.25",
+    "Unknown Subject (gpa2: 721520 { gpa5: ref)",
+    "gpa4: 3.17",
+    "gpa3: 3.38",
+    "Unknown Subject (gpa2: 721522 { gpa5: ref)",
+    "gpa4: 2.86",
+    "gpa3: 3.02",
+    "Unknown Subject (gpa2: 721524 { gpa5: ref)",
+    "gpa4: 2.52",
+    "gpa3: ref",
+    "gpa2:\n3.08",
+    "gpa1: 3.40",
+    "Accounting (ref_sub: 25841(T))",
+    "Computer Peripherals & Interfacing (28543(T))",
+    "3.18",
+    "gpa1: 3.48",
+    "Accounting (ref_sub: 25841(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
