@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.75",
+    "gpa4: ref",
+    "gpa3: 3.05",
+    "Unknown Subject (gpa2: 745308 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.05",
+    "Unknown Subject (gpa2: 745309 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 745311 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.95",
+    "gpa2:\n2.94",
+    "gpa1: 3.20",
+    "Radio and TV Engineering (ref_sub: 29441(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
