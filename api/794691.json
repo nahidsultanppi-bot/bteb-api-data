@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.32",
+    "Unknown Subject (gpa2: 794791 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.52",
+    "Unknown Subject (gpa2: 795497 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\nref",
+    "gpa1: 3.29",
+    "Mechanical Engineering Drawing (ref_sub: 27021(P))",
+    "Engineering Mechanics (27041(T))",
+    "ref",
+    "gpa1: 3.75",
+    "Accounting (ref_sub: 25841(T))",
+    "Digital Electronics-II (26841(T))",
+    "2.25",
+    "gpa1: ref",
+    "Civil Engineering Metarials (ref_sub: 26411(T))",
+    "Structural Mechanics (26431(T))",
+    "Mechanical Estimating & Costing (27052(T))",
+    "Foundry & Pattern Making (27054(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
