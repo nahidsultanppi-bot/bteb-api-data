@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.12",
+    "Unknown Subject (gpa2: 725608 { gpa5: ref)",
+    "gpa4: 3.00",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 725609 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.14",
+    "gpa2:\n3.31",
+    "gpa1: 2.95",
+    "Civil CAD-I (ref_sub: 26443(T))",
+    "Surveying-III (26453(T))",
+    "3.46",
+    "gpa1: 3.07",
+    "Structural Mechanics (ref_sub: 26431(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
