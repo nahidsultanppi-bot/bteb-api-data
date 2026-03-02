@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 602150 { gpa5: ref)",
+    "gpa4: 3.39",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 602195 { gpa5: ref)",
+    "gpa4: 3.30",
+    "gpa3: 3.50",
+    "gpa2:\n2.70",
+    "gpa1: 3.12",
+    "Electrical Circuits-II (ref_sub: 26731(T))",
+    "DC Machine (26742(T))",
+    "3.31",
+    "gpa1: 3.60",
+    "Electrical Circuits-II (ref_sub: 26731(T))",
+    "Generation of Electrical Power (26751(T))",
+    "ref",
+    "gpa1: 3.93",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
