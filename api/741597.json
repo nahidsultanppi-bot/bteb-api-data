@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (741614 { gpa5: ref)",
+    "gpa4: 3.30",
+    "gpa3: 3.34",
+    "Unknown Subject (gpa2: 741615 { gpa5: ref)",
+    "gpa4: 2.89",
+    "gpa3: 3.09",
+    "Unknown Subject (gpa2: 741620 { gpa5: ref)",
+    "gpa4: 2.85",
+    "gpa3: 3.08",
+    "gpa2:\ngpa1: ref",
+    "Accounting (ref_sub: 25841(T))",
+    "Mathematics-II (25921(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "3.04",
+    "gpa1: 3.43",
+    "Principles of Marketing (ref_sub: 25851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
