@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (737396 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.83",
+    "Unknown Subject (gpa2: 737397 { gpa5: ref)",
+    "gpa4: 2.86",
+    "gpa3: 2.97",
+    "gpa2:\ngpa1: 3.01",
+    "Chemistry (ref_sub: 25913(T))",
+    "Mechanical Engineering Materials (27031(T))",
+    "ref",
+    "gpa1: 2.97",
+    "Accounting (ref_sub: 25841(T))",
+    "Mathematics-II (25921(T))",
+    "2.67",
+    "gpa1: 3.29",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
