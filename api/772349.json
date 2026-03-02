@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.65",
+    "Unknown Subject (gpa2: 772350 { gpa5: ref)",
+    "gpa4: 2.86",
+    "gpa3: 2.60",
+    "Unknown Subject (gpa2: 772351 { gpa5: ref)",
+    "gpa4: 3.19",
+    "gpa3: 2.83",
+    "Unknown Subject (gpa2: 772363 { gpa5: 2.65)",
+    "gpa4: ref",
+    "gpa3: 2.94",
+    "gpa2:\n2.95",
+    "gpa1: 3.04",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Metallurgy2 (27043(T))",
+    "2.89",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Advanced Welding-I (27053(T))",
+    "3.11",
+    "gpa1: 3.45",
+    "Fundamental of Hybride & Electric Vehicle (ref_sub: 27151(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
