@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.32",
+    "gpa1: 3.83",
+    "Unknown Subject (885957 { gpa3: ref)",
+    "gpa2: 3.11",
+    "gpa1: 3.31",
+    "Unknown Subject (886122 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.50",
+    "Unknown Subject (ref_sub: 886124 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 4.00",
+    "Digital Electronics-I (ref_sub:\nref_sub: 26831(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
