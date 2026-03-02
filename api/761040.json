@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 761043 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.90",
+    "Unknown Subject (gpa2: 761046 { gpa5: ref)",
+    "gpa4: 2.63",
+    "gpa3: 3.17",
+    "Unknown Subject (gpa2: 761057 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n2.83",
+    "gpa1: 2.88",
+    "Physics-II (ref_sub: 25922(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "2.83",
+    "gpa1: 3.00",
+    "Data Structure & Algorithm (ref_sub: 28542(T))",
+    "Computer Peripherals & Interfacing (28543(T))",
+    "3.05",
+    "gpa1: 3.48",
+    "Data Communication (ref_sub: 28554(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
