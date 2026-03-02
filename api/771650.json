@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.43",
+    "gpa3: 2.61",
+    "Unknown Subject (gpa2: 771652 { gpa5: ref)",
+    "gpa4: 3.29",
+    "gpa3: 3.14",
+    "Unknown Subject (gpa2: 771653 { gpa5: ref)",
+    "gpa4: 3.39",
+    "gpa3: 3.00",
+    "Unknown Subject (gpa2: 771654 { gpa5: ref)",
+    "gpa4: 3.21",
+    "gpa3: 3.26",
+    "gpa2:\n2.89",
+    "gpa1: 2.73",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Television Engineering (26851(T))",
+    "2.96",
+    "gpa1: 2.82",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Television Engineering (26851(T))",
+    "2.87",
+    "gpa1: 3.06",
+    "Generation of Electrical Power (ref_sub: 26751(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
