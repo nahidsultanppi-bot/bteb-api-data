@@ -1,0 +1,27 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: 2.48",
+    "gpa4: 2.60",
+    "Unknown Subject (gpa3: 643877 { gpa6: 2.65)",
+    "gpa5: ref",
+    "gpa4: 2.60",
+    "Unknown Subject (gpa3: 644082 { gpa6: ref)",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "2.55",
+    "gpa2: 2.49",
+    "gpa1: 2.76",
+    "Electrical & Electronic Measurements-II (ref_sub: 26763(T))",
+    "2.42",
+    "gpa2: 2.82",
+    "gpa1: 3.13",
+    "Application Development Using Java (ref_sub: 28551(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
