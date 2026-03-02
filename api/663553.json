@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.08",
+    "gpa3: 3.40",
+    "Unknown Subject (gpa2: 762461 { gpa5: ref)",
+    "gpa4: 3.35",
+    "gpa3: 3.18",
+    "Unknown Subject (gpa2: 762462 { gpa5: ref)",
+    "gpa4: 3.38",
+    "gpa3: 3.37",
+    "Unknown Subject (gpa2: 762463 { gpa5: 3.19)",
+    "gpa4: ref",
+    "gpa3: 3.11",
+    "gpa2:\n2.77",
+    "gpa1: 3.00",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Testing and Maintannance of Electrical Equipments (26753(T))",
+    "3.14",
+    "gpa1: 3.41",
+    "Foundation Engineering (ref_sub: 26451(T))",
+    "Civil CAD-II (26452(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
