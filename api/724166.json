@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 724167 { gpa5: ref)",
+    "gpa4: 2.98",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 724170 { gpa5: 3.30)",
+    "gpa4: 3.00",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 724176 { gpa5: ref)",
+    "gpa4: 3.27",
+    "gpa3: 3.31",
+    "gpa2:\n2.90",
+    "gpa1: 3.07",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Mathematics-III (25931(T))",
+    "3.03",
+    "gpa1: 3.31",
+    "Electrical Circuits-II (ref_sub: 26731(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
