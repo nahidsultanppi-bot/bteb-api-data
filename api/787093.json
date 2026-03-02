@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.76",
+    "Unknown Subject (gpa2: 787094 { gpa5: ref)",
+    "gpa4: 3.20",
+    "gpa3: 3.14",
+    "Unknown Subject (gpa2: 787095 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.39",
+    "Unknown Subject (gpa2: 787097 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.32",
+    "gpa2:\n2.96",
+    "gpa1: 2.93",
+    "Structural Mechanics (ref_sub: 26431(T))",
+    "Basic Estimating & Costing (26447(T))",
+    "3.23",
+    "gpa1: 3.05",
+    "Water Supply and Sanitary Engineering (ref_sub: 26457(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
