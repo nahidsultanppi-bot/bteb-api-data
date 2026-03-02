@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 728602 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.54",
+    "Unknown Subject (gpa2: 728603 { gpa5: 2.89)",
+    "gpa4: ref",
+    "gpa3: 2.79",
+    "Unknown Subject (gpa2: 728605 { gpa5: ref)",
+    "gpa4: 2.94",
+    "gpa3: 3.10",
+    "gpa2:\n2.23",
+    "gpa1: 2.71",
+    "Industrial Management (ref_sub: 25852(T))",
+    "DC Machine (26742(T))",
+    "2.65",
+    "gpa1: 2.83",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
