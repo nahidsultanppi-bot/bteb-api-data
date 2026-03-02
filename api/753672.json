@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (753678 { gpa5: ref)",
+    "gpa4: 3.06",
+    "gpa3: 3.26",
+    "Unknown Subject (gpa2: 753680 { gpa5: ref)",
+    "gpa4: 3.33",
+    "gpa3: 3.11",
+    "gpa2:\ngpa1: 3.23",
+    "Bangla -II (ref_sub: 25721(T))",
+    "Electrical Engineering Drawing (26722(T))",
+    "3.23",
+    "gpa1: 2.90",
+    "Application Development Using Java (ref_sub: 28551(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
