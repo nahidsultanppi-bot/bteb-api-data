@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.48",
+    "Unknown Subject (gpa2: 724601 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.39",
+    "Unknown Subject (gpa2: 724603 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.23",
+    "Unknown Subject (gpa2: 724604 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.57",
+    "gpa2:\nref",
+    "gpa1: 3.27",
+    "Basic Estimating & Costing (ref_sub: 26447(T))",
+    "Basic Electronics (26811(T))",
+    "3.31",
+    "gpa1: 3.35",
+    "Basic Estimating & Costing (ref_sub: 26447(T))",
+    "Python Programming (28521(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
