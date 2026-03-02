@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.42",
+    "gpa3: 3.26",
+    "Unknown Subject (gpa2: 705431 { gpa5: ref)",
+    "gpa4: 3.44",
+    "gpa3: 3.17",
+    "Unknown Subject (gpa2: 705432 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (705433 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.23",
+    "gpa2:\n3.58",
+    "gpa1: 3.41",
+    "Foundation Engineering (ref_sub: 26451(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
