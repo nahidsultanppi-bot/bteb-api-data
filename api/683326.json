@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 683360 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 683366 { gpa5: ref)",
+    "gpa4: 2.68",
+    "gpa3: 2.75",
+    "Unknown Subject (gpa2: 683368 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.71",
+    "gpa2:\n2.83",
+    "gpa1: 3.15",
+    "Digital Electronics-II (ref_sub: 26841(T))",
+    "Java Programming (28541(T))",
+    "2.88",
+    "gpa1: 3.20",
+    "IT Support Services (ref_sub: 28533(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "2.76",
+    "gpa1: 3.73",
+    "Computer Architecture & Microprocessor (ref_sub: 28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
