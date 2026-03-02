@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.56",
+    "gpa1: 2.83",
+    "Unknown Subject (852792 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 852794 { gpa3: ref)",
+    "gpa2: 2.57",
+    "gpa1: 2.68",
+    "Unknown Subject (852795 { gpa3: 3.29)",
+    "gpa2: ref",
+    "gpa1: 2.91",
+    "Physics-II (ref_sub: 25922(T))",
+    "Chemical Engineering Operation-I (26331(T))",
+    "Industrial Chemistry (26332(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
