@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "Accounting (25841(T))",
+    "Computer Architecture & Microprocessor (28553(T))",
+    "Data Communication (28554(T))",
+    "Unknown Subject (724081 { 25841(T))",
+    "Digital Electronics-II (26841(T))",
+    "Application Development Using Java (28551(T))",
+    "Unknown Subject (724086 { 25841(T))",
+    "Java Programming (28541(T))",
+    "Computer Peripherals & Interfacing (28543(T))",
+    "Unknown Subject (724106 { 25841(T))",
+    "Application Development Using Python (28531(T))",
+    "Java Programming (28541(T))",
+    "Operating System (28555(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
