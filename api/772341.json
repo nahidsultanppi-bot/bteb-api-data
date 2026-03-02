@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.05",
+    "gpa3: 2.99",
+    "Unknown Subject (gpa2: 772343 { gpa5: ref)",
+    "gpa4: 3.54",
+    "gpa3: 3.62",
+    "Unknown Subject (gpa2: 772344 { gpa5: ref)",
+    "gpa4: 2.94",
+    "gpa3: 3.02",
+    "Unknown Subject (gpa2: 772346 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n3.11",
+    "gpa1: 3.12",
+    "Fundamental of Hybride & Electric Vehicle (ref_sub: 27151(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
