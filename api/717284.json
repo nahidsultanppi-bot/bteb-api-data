@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.81",
+    "gpa3: 2.58",
+    "Unknown Subject (gpa2: 717289 { gpa5: ref)",
+    "gpa4: 2.81",
+    "gpa3: 2.58",
+    "Unknown Subject (gpa2: 717301 { gpa5: ref)",
+    "gpa4: 2.65",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 717302 { gpa5: 3.08)",
+    "gpa4: 2.93",
+    "gpa3: ref",
+    "gpa2:\n2.80",
+    "gpa1: 3.06",
+    "Refrigeration & Cold Storage (ref_sub: 26355(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
