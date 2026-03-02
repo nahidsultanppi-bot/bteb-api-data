@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.68",
+    "Unknown Subject (gpa2: 779765 { gpa5: ref)",
+    "gpa4: 2.86",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 783185 { gpa5: ref)",
+    "gpa4: 2.99",
+    "gpa3: 3.13",
+    "Unknown Subject (gpa2: 783382 { gpa5: ref)",
+    "gpa4: 2.94",
+    "gpa3: 2.86",
+    "gpa2:\nref",
+    "gpa1: 2.69",
+    "Electrical Circuits-I (ref_sub: 26721(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.48",
+    "gpa1: 3.17",
+    "Business Communication (ref_sub: 25831(T))",
+    "Industrial Management (25852(T))",
+    "2.77",
+    "gpa1: 3.38",
+    "Industrial Management (ref_sub: 25852(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
