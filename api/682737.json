@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.92",
+    "Aircraft Maintenance Practices (gpa2: 682739 { gpa5: ref)",
+    "gpa4: 2.80",
+    "gpa3: 2.85",
+    "Unknown Subject (gpa2: 682755 { gpa5: 3.13)",
+    "gpa4: ref",
+    "gpa3: 3.08",
+    "Unknown Subject (gpa2: 682838 { gpa5: ref)",
+    "gpa4: 2.30",
+    "gpa3: 2.67",
+    "gpa2:\n2.51",
+    "gpa1: 3.09",
+    "Metallurgy2 (ref_sub: 27043(T))",
+    "Advanced Welding-I (27053(T))",
+    "2.64",
+    "gpa1: 3.16",
+    "Advanced Welding-I (ref_sub: 27053(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
