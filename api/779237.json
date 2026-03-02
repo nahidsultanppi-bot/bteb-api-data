@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 779238 { gpa5: ref)",
+    "gpa4: 3.58",
+    "gpa3: 3.31",
+    "Unknown Subject (gpa2: 779242 { gpa5: ref)",
+    "gpa4: 2.77",
+    "gpa3: 3.06",
+    "Unknown Subject (gpa2: 779251 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.01",
+    "gpa2:\n2.92",
+    "gpa1: 2.76",
+    "Accounting (ref_sub: 25841(T))",
+    "Electrical Appliances (26732(T))",
+    "3.49",
+    "gpa1: 3.69",
+    "Generation of Electrical Power (ref_sub: 26751(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
