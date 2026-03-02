@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.93",
+    "Unknown Subject (gpa2: 768259 { gpa5: ref)",
+    "gpa4: 2.88",
+    "gpa3: 2.74",
+    "Unknown Subject (gpa2: 768266 { gpa5: 2.85)",
+    "gpa4: ref",
+    "gpa3: 2.89",
+    "Unknown Subject (gpa2: 768283 { gpa5: ref)",
+    "gpa4: 3.08",
+    "gpa3: 2.99",
+    "gpa2:\n2.60",
+    "gpa1: 2.74",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Digital Electronics (26845(T))",
+    "2.69",
+    "gpa1: 3.00",
+    "Industrial Management (ref_sub: 25852(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
