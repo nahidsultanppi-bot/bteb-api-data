@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.18",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 783275 { gpa5: ref)",
+    "gpa4: 3.31",
+    "gpa3: 3.29",
+    "Unknown Subject (gpa2: 783276 { gpa5: ref)",
+    "gpa4: 3.33",
+    "gpa3: 3.35",
+    "Unknown Subject (gpa2: 790425 { gpa5: ref)",
+    "gpa4: 3.02",
+    "gpa3: 3.42",
+    "gpa2:\n2.98",
+    "gpa1: 3.28",
+    "Mechanical Estimating & Costing (ref_sub: 27052(T))",
+    "Manufacturing Process (27055(T))",
+    "2.76",
+    "gpa1: 2.93",
+    "Foundry & Pattern Making (ref_sub: 27054(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
