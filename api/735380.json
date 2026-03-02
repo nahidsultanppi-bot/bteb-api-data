@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (735382 { gpa5: ref)",
+    "gpa4: 3.20",
+    "gpa3: 3.18",
+    "Unknown Subject (gpa2: 735391 { gpa5: ref)",
+    "gpa4: 3.14",
+    "gpa3: 3.36",
+    "Unknown Subject (gpa2: 735393 { gpa5: ref)",
+    "gpa4: 2.86",
+    "gpa3: 2.89",
+    "gpa2:\ngpa1: 2.82",
+    "Business Communication (ref_sub: 25831(T))",
+    "Mathematics-II (25921(T))",
+    "3.19",
+    "gpa1: 2.91",
+    "Theory of Structure (ref_sub: 26454(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
