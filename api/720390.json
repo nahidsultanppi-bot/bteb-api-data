@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.04",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 720391 { gpa5: ref)",
+    "gpa4: 2.67",
+    "gpa3: 2.37",
+    "Unknown Subject (gpa2: 720392 { gpa5: ref)",
+    "gpa4: 2.83",
+    "gpa3: 2.44",
+    "Unknown Subject (gpa2: 720405 { gpa5: ref)",
+    "gpa4: 2.87",
+    "gpa3: 2.71",
+    "gpa2:\n2.91",
+    "gpa1: 2.98",
+    "Physics-II (ref_sub: 25922(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
