@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.71",
+    "gpa3: 3.48",
+    "Unknown Subject (gpa2: 753703 { gpa5: ref)",
+    "gpa4: 3.60",
+    "gpa3: 3.46",
+    "Unknown Subject (gpa2: 753706 { gpa5: ref)",
+    "gpa4: 3.40",
+    "gpa3: 3.23",
+    "Unknown Subject (gpa2: 753707 { gpa5: ref)",
+    "gpa4: 3.15",
+    "gpa3: 3.12",
+    "gpa2:\n3.29",
+    "gpa1: 3.13",
+    "Python Programming (ref_sub: 28521(T))",
+    "Environmental Studies (29041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
