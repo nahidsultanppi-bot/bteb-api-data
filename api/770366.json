@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.58",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 770371 { gpa5: ref)",
+    "gpa4: 2.94",
+    "gpa3: 2.80",
+    "Unknown Subject (gpa2: 770372 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (770377 { gpa5: ref)",
+    "gpa4: 3.18",
+    "gpa3: 3.26",
+    "gpa2:\n3.15",
+    "gpa1: 3.22",
+    "Physics-II (ref_sub: 25922(T))",
+    "Surveying-III (26453(T))",
+    "2.91",
+    "gpa1: 3.07",
+    "Civil CAD-II (ref_sub: 26452(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
