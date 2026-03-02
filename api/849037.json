@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.81",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 849045 { gpa3: ref)",
+    "gpa2: 3.03",
+    "gpa1: 3.10",
+    "Unknown Subject (849048 { gpa3: ref)",
+    "gpa2: 2.98",
+    "gpa1: 3.29",
+    "Unknown Subject (849055 { gpa3: ref)",
+    "gpa2: 2.53",
+    "gpa1: ref",
+    "Physics -I (ref_sub:\n25912(T))",
+    "Chemistry (25913(T))",
+    "Mathematics-III (25931(T))",
+    "Industrial Electronics (26833(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
