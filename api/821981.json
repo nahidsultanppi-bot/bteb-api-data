@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.30",
+    "gpa1: 3.07",
+    "Unknown Subject (821982 { gpa3: ref)",
+    "gpa2: 3.25",
+    "gpa1: 3.14",
+    "Unknown Subject (821983 { gpa3: ref)",
+    "gpa2: 3.11",
+    "gpa1: 2.98",
+    "Unknown Subject (821984 { gpa3: ref)",
+    "gpa2: 3.25",
+    "gpa1: 3.07",
+    "Industrial Electronics (ref_sub: 26833(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
