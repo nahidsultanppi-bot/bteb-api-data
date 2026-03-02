@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.05",
+    "gpa3: 3.05",
+    "Unknown Subject (gpa2: 756116 { gpa5: ref)",
+    "gpa4: 2.73",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 756117 { gpa5: 3.09)",
+    "gpa4: 2.92",
+    "gpa3: 2.58",
+    "Unknown Subject (756124 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.85",
+    "gpa2:\n2.79",
+    "gpa1: 2.87",
+    "Industrial Management (ref_sub: 25852(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
