@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.78",
+    "Unknown Subject (gpa2: 751209 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.75",
+    "Unknown Subject (gpa2: 751210 { gpa5: ref)",
+    "gpa4: 3.35",
+    "gpa3: 3.13",
+    "Unknown Subject (gpa2: 751212 { gpa5: ref)",
+    "gpa4: 2.93",
+    "gpa3: 3.13",
+    "gpa2:\n2.40",
+    "gpa1: 2.76",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "2.89",
+    "gpa1: 3.47",
+    "Geotechnical Engineering (ref_sub: 26445(T))",
+    "Theory of Structure (26454(T))",
+    "3.36",
+    "gpa1: 3.55",
+    "Theory of Structure (ref_sub: 26454(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
