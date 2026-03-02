@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.05",
+    "gpa3: 2.99",
+    "Unknown Subject (gpa2: 717632 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.92",
+    "Unknown Subject (gpa2: 717636 { gpa5: ref)",
+    "gpa4: 3.19",
+    "gpa3: 3.07",
+    "Unknown Subject (gpa2: 717637 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.57",
+    "gpa2:\n2.16",
+    "gpa1: 3.00",
+    "Construction Process-II (ref_sub: 26441(T))",
+    "Theory of Structure (26454(T))",
+    "ref",
+    "gpa1: 2.97",
+    "Geotechnical Engineering (ref_sub: 26445(T))",
+    "Theory of Structure (26454(T))",
+    "2.53",
+    "gpa1: 3.07",
+    "Theory of Structure (ref_sub: 26454(T))",
+    "Water and Waste Water Engineering (29051(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
