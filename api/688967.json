@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.38",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 689009 { gpa5: ref)",
+    "gpa4: 2.63",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 689015 { gpa5: ref)",
+    "gpa4: 2.34",
+    "gpa3: 2.76",
+    "Unknown Subject (gpa2: 689070 { gpa5: ref)",
+    "gpa4: 2.32",
+    "gpa3: 2.85",
+    "gpa2:\n2.68",
+    "gpa1: 3.12",
+    "Refrigeration & Cold Storage (ref_sub: 26355(T))",
+    "Basic Electronics (26811(T))",
+    "ref",
+    "gpa1: 3.06",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Food Industrial Instrumentation & Process Control (26955(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
