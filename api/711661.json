@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.46",
+    "Unknown Subject (gpa2: 711670 { gpa5: 3.02)",
+    "gpa4: ref",
+    "gpa3: 2.80",
+    "Unknown Subject (gpa2: 711674 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.67",
+    "Unknown Subject (gpa2: 711677 { gpa5: ref)",
+    "gpa4: 3.42",
+    "gpa3: 3.10",
+    "gpa2:\n2.54",
+    "gpa1: 2.69",
+    "DC Machine (ref_sub: 26742(T))",
+    "Networks, Filters and Transmission lines (26843(T))",
+    "3.07",
+    "gpa1: 3.10",
+    "Networks, Filters and Transmission lines (ref_sub: 26843(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
