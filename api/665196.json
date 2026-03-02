@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.87",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 764697 { gpa5: ref)",
+    "gpa4: 2.48",
+    "gpa3: 2.90",
+    "Unknown Subject (gpa2: 764698 { gpa5: ref)",
+    "gpa4: 2.60",
+    "gpa3: 2.93",
+    "Unknown Subject (gpa2: 764702 { gpa5: ref)",
+    "gpa4: 2.58",
+    "gpa3: 2.93",
+    "gpa2:\n3.01",
+    "gpa1: 3.54",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Structural Mechanics (26431(T))",
+    "2.64",
+    "gpa1: 2.83",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.66",
+    "gpa1: 2.83",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
