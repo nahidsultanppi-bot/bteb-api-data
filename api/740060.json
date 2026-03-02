@@ -1,0 +1,20 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.23",
+    "gpa3: 3.16",
+    "Unknown Subject (gpa2: 740061 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.24",
+    "Unknown Subject (gpa2: 740067 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.10",
+    "Television Engineering (gpa2:\n26851(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
