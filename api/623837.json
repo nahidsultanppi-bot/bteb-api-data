@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: 2.81",
+    "gpa4: 2.83",
+    "Unknown Subject (gpa3: 623841 { gpa6: ref)",
+    "gpa5: ref",
+    "gpa4: 2.81",
+    "gpa3:\n3.04",
+    "gpa2: 2.80",
+    "gpa1: 2.85",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "2.85",
+    "gpa2: 2.89",
+    "gpa1: 2.77",
+    "Testing and Maintannance of Electrical Equipments (ref_sub: 26753(T))",
+    "Communication Engineering (26842(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
