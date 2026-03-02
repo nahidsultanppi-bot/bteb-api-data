@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (703627 { gpa5: ref)",
+    "gpa4: 3.25",
+    "gpa3: 3.13",
+    "Unknown Subject (gpa2: 703644 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (703653 { gpa5: ref)",
+    "gpa4: 3.20",
+    "gpa3: ref",
+    "gpa2:\ngpa1: 2.86",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Physics-II (25922(T))",
+    "3.33",
+    "gpa1: 3.28",
+    "Theory of Structure (ref_sub: 26454(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
