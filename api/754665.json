@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.62",
+    "Unknown Subject (gpa2: 754677 { gpa5: ref)",
+    "gpa4: 2.62",
+    "gpa3: 3.13",
+    "Unknown Subject (gpa2: 754679 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.37",
+    "Unknown Subject (gpa2: 754681 { gpa5: ref)",
+    "gpa4: 2.25",
+    "gpa3: 2.69",
+    "gpa2:\nref",
+    "gpa1: 2.76",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Model Making (26153(P))",
+    "2.81",
+    "gpa1: 2.93",
+    "Structural Mechanics (ref_sub: 26431(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
