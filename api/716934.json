@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.87",
+    "Unknown Subject (ref_sub: 816094 { gpa3: ref)",
+    "gpa2: 3.36",
+    "gpa1: 3.12",
+    "Unknown Subject (816101 { gpa3: ref)",
+    "gpa2: 3.30",
+    "gpa1: 2.87",
+    "Unknown Subject (816102 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.91",
+    "Business Communication (ref_sub:\n25831(T))",
+    "Chemistry (25913(T))",
+    "Mathematics-II (25921(T))",
+    "Basic Electricity (26711(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
