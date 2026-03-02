@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.18",
+    "Unknown Subject (gpa2: 724752 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.40",
+    "Unknown Subject (gpa2: 724760 { gpa5: ref)",
+    "gpa4: 3.04",
+    "gpa3: 3.27",
+    "Unknown Subject (gpa2: 724770 { gpa5: ref)",
+    "gpa4: 3.21",
+    "gpa3: 3.55",
+    "gpa2:\n3.26",
+    "gpa1: 3.31",
+    "Electrical Installation,Planning and Estimating (ref_sub: 26741(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "3.39",
+    "gpa1: 3.10",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "3.30",
+    "gpa1: 3.21",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
