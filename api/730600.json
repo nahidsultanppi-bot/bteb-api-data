@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.10",
+    "gpa3: 2.98",
+    "Unknown Subject (gpa2: 730601 { gpa5: ref)",
+    "gpa4: 3.21",
+    "gpa3: 3.40",
+    "Unknown Subject (gpa2: 730608 { gpa5: ref)",
+    "gpa4: 2.96",
+    "gpa3: 3.18",
+    "Unknown Subject (gpa2: 730615 { gpa5: 2.46)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n3.10",
+    "gpa1: 3.26",
+    "Principles of Marketing (ref_sub: 25851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
