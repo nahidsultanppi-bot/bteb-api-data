@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 805422 { gpa3: ref)",
+    "gpa2: 3.25",
+    "gpa1: 3.55",
+    "Unknown Subject (805425 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.58",
+    "Unknown Subject (ref_sub: 805428 { gpa3: ref)",
+    "gpa2: 3.20",
+    "gpa1: 3.40",
+    "Mathematics -I (25911(T))",
+    "Mathematics-II (25921(T))",
+    "Basic Electronics (26811(T))",
+    "Digital Electronics-I (26831(T))",
+    "Digital Electronics-I (ref_sub: 26831(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
