@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.02",
+    "Unknown Subject (gpa2: 788391 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.15",
+    "Unknown Subject (gpa2: 788393 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.31",
+    "Unknown Subject (gpa2: 788397 { gpa5: 3.56)",
+    "gpa4: 3.44",
+    "gpa3: ref",
+    "gpa2:\n3.34",
+    "gpa1: 3.19",
+    "DC Machine (ref_sub: 26742(T))",
+    "Generation of Electrical Power (26751(T))",
+    "3.05",
+    "gpa1: 3.19",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
