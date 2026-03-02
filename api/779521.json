@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.86",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 779528 { gpa5: ref)",
+    "gpa4: 3.08",
+    "gpa3: 3.09",
+    "Unknown Subject (gpa2: 779534 { gpa5: ref)",
+    "gpa4: 3.13",
+    "gpa3: 2.63",
+    "Unknown Subject (gpa2: 779536 { gpa5: ref)",
+    "gpa4: 3.03",
+    "gpa3: 2.68",
+    "gpa2:\nref",
+    "gpa1: 2.89",
+    "Electrical Circuits-I (ref_sub: 26721(T))",
+    "Generation of Electrical Power (26751(T))",
+    "2.85",
+    "gpa1: 3.15",
+    "Television Engineering (ref_sub: 26851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
