@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.35",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 770548 { gpa5: ref)",
+    "gpa4: 2.60",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 770549 { gpa5: ref)",
+    "gpa4: 2.75",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 770560 { gpa5: ref)",
+    "gpa4: 3.50",
+    "gpa3: 3.23",
+    "gpa2:\n2.74",
+    "gpa1: 2.71",
+    "Electrical Circuits-II (ref_sub: 26731(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.71",
+    "gpa1: ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Television Engineering (26851(T))",
+    "2.65",
+    "gpa1: 2.87",
+    "Television Engineering (ref_sub: 26851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
