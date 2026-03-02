@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.26",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 758827 { gpa5: 2.85)",
+    "gpa4: 2.45",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 758849 { gpa5: 2.30)",
+    "gpa4: 2.51",
+    "gpa3: 2.57",
+    "Unknown Subject (758853 { gpa5: 3.14)",
+    "gpa4: 2.79",
+    "gpa3: 2.71",
+    "ref",
+    "gpa1: 2.29",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Automotive Engine System-I (26221(T))",
+    "ref",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Chemistry (25913(T))",
+    "gpa2: ref",
+    "gpa1: 2.69",
+    "Mathematics-II (ref_sub: 25921(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
