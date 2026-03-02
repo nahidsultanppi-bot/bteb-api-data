@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.64",
+    "gpa3: 2.60",
+    "Unknown Subject (gpa2: 760964 { gpa5: ref)",
+    "gpa4: 3.35",
+    "gpa3: 3.25",
+    "Unknown Subject (gpa2: 760968 { gpa5: ref)",
+    "gpa4: 3.32",
+    "gpa3: 3.29",
+    "Unknown Subject (gpa2: 760972 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.99",
+    "gpa2:\n2.56",
+    "gpa1: 2.94",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "3.11",
+    "gpa1: 3.08",
+    "Application Development Using Java (ref_sub: 28551(T))",
+    "Operating System (28555(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
