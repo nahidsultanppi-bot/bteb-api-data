@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: 2.75",
+    "Unknown Subject (gpa1: 756685 { gpa4: ref)",
+    "gpa3: 2.45",
+    "gpa2: 2.64",
+    "Unknown Subject (gpa1: 757113 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: 2.76",
+    "Unknown Subject (gpa1: 757850 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1:\n2.66",
+    "Surveying-I (ref_sub: 26432(T))",
+    "Surveying-II (26444(T))",
+    "Geotechnical Engineering (26445(T))",
+    "2.57",
+    "DC Machine (ref_sub: 26742(T))",
+    "Digital Electronics (26845(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
