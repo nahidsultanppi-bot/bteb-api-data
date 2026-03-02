@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "Unknown Subject (gpa3: 663243 { gpa6: ref)",
+    "gpa5: ref",
+    "gpa4: 2.71",
+    "gpa3:\n2.86",
+    "gpa2: 2.81",
+    "gpa1: 3.06",
+    "Electrical Installation,Planning and Estimating (ref_sub: 26741(T))",
+    "3.21",
+    "gpa2: ref",
+    "gpa1: 3.66",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Electrical & Electronic Measurements-II (26763(T))",
+    "Communication Engineering (26842(T))",
+    "Digital Electronics (26845(T))",
+    "Microprocessor & Microcontroller (26853(T))",
+    "Manufacturing Process (27055(T))",
+    "Strength of Materials (27061(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
