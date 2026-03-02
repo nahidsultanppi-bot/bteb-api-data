@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "Electrical Circuits-II (26731(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "DC Machine (26742(T))",
+    "Unknown Subject (680643 { 26811(T))",
+    "Application Development Using Python (28531(T))",
+    "Java Programming (28541(T))",
+    "Unknown Subject (781383 { 25911(T))",
+    "Physics -I (25912(T))",
+    "Chemistry (25913(T))",
+    "Electronic Devices and Circuits (26821(T))",
+    "Digital Electronics-I (26831(T))",
+    "Digital Electronics-II (26841(T))",
+    "Communication Engineering (26842(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "Computer Peripherals & Interfacing (28543(T))",
+    "Web Design & Development-I (28544(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
