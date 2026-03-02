@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.40",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 725669 { gpa5: ref)",
+    "gpa4: 2.92",
+    "gpa3: 3.05",
+    "Unknown Subject (gpa2: 725674 { gpa5: ref)",
+    "gpa4: 3.23",
+    "gpa3: 3.35",
+    "Unknown Subject (gpa2: 725675 { gpa5: ref)",
+    "gpa4: 2.92",
+    "gpa3: 2.61",
+    "gpa2:\n2.53",
+    "gpa1: ref",
+    "Basic Electricity (ref_sub: 26711(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.80",
+    "gpa1: 3.38",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
