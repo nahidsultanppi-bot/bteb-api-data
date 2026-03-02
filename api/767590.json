@@ -1,0 +1,18 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.96",
+    "gpa2:\nref",
+    "gpa1: 3.05",
+    "Chemistry (ref_sub: 25913(T))",
+    "Java Programming (28541(T))",
+    "Computer Architecture & Microprocessor (28553(T))",
+    "Operating System (28555(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
