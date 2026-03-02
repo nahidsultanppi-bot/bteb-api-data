@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.35",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 795076 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.13",
+    "Unknown Subject (gpa2: 795077 { gpa5: ref)",
+    "gpa4: 2.94",
+    "gpa3: 2.63",
+    "Unknown Subject (gpa2: 795079 { gpa5: 3.33)",
+    "gpa4: 2.76",
+    "gpa3: ref",
+    "gpa2:\nref",
+    "gpa1: 3.63",
+    "Accounting (ref_sub: 25841(T))",
+    "Mathematics-III (25931(T))",
+    "3.50",
+    "gpa1: 2.25",
+    "Construction Process-II (ref_sub: 26441(T))",
+    "Civil CAD-I (26443(T))",
+    "3.75",
+    "gpa1: 2.50",
+    "Surveying-III (ref_sub: 26453(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
