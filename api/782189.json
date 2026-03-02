@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 782193 { gpa5: ref)",
+    "gpa4: 2.76",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 782214 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.76",
+    "Unknown Subject (gpa2: 782215 { gpa5: ref)",
+    "gpa4: 2.95",
+    "gpa3: 3.39",
+    "gpa2:\n2.83",
+    "gpa1: 2.81",
+    "DC Machine (ref_sub: 26742(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.89",
+    "gpa1: 2.55",
+    "Power Electronics (ref_sub: 26832(T))",
+    "Bio-Medical Instruments (28654(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
