@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (729103 { gpa5: ref)",
+    "gpa4: 2.92",
+    "gpa3: 2.88",
+    "Unknown Subject (gpa2: 729105 { gpa5: ref)",
+    "gpa4: 2.79",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 729109 { gpa5: ref)",
+    "gpa4: 2.45",
+    "gpa3: 2.85",
+    "gpa2:\ngpa1: 3.05",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Mathematics-III (25931(T))",
+    "2.91",
+    "gpa1: 3.29",
+    "Foundry & Pattern Making (ref_sub: 27054(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
