@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 735487 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: 2.26",
+    "Unknown Subject (gpa1: 735504 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1:\n3.03",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Construction Process-II (26441(T))",
+    "Geotechnical Engineering (26445(T))",
+    "2.67",
+    "Accounting (ref_sub: 25841(T))",
+    "Electrical Circuits-II (26731(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "2.81",
+    "Accounting (ref_sub: 25841(T))",
+    "Chemistry (25913(T))",
+    "Electrical Circuits-II (26731(T))",
+    "Basic Electronics (26811(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
