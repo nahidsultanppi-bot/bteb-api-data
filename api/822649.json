@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.71",
+    "Unknown Subject (ref_sub: 822650 { gpa3: ref)",
+    "gpa2: 3.00",
+    "gpa1: 3.18",
+    "Unknown Subject (822652 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.95",
+    "Unknown Subject (ref_sub: 822655 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.76",
+    "Mathematics-III (ref_sub:\n25931(T))",
+    "Structural Mechanics (26431(T))",
+    "Surveying-I (26432(T))",
+    "Basic Electronics (26811(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
