@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (761701 { gpa5: ref)",
+    "gpa4: 2.77",
+    "gpa3: 2.81",
+    "Unknown Subject (gpa2: 761709 { gpa5: ref)",
+    "gpa4: 2.63",
+    "gpa3: 2.44",
+    "Unknown Subject (gpa2: 761711 { gpa5: ref)",
+    "gpa4: 2.73",
+    "gpa3: ref",
+    "gpa2:\ngpa1: ref",
+    "Accounting (ref_sub: 25841(T))",
+    "Physics -I (25912(T))",
+    "Electrical Circuits-I (26721(T))",
+    "2.92",
+    "gpa1: 3.03",
+    "Application Development Using Java (ref_sub: 28551(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
