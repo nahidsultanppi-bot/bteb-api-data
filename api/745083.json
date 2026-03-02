@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.55",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 745090 { gpa5: ref)",
+    "gpa4: 3.08",
+    "gpa3: 2.83",
+    "Unknown Subject (gpa2: 745092 { gpa5: ref)",
+    "gpa4: 2.96",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 745097 { gpa5: ref)",
+    "gpa4: 3.17",
+    "gpa3: 2.90",
+    "gpa2:\n2.59",
+    "gpa1: 2.89",
+    "Television Engineering (ref_sub: 26851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
