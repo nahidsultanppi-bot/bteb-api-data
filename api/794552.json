@@ -1,0 +1,27 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "Accounting (25841(T))",
+    "Principles of Marketing (25851(T))",
+    "Electrical Circuits-II (26731(T))",
+    "Unknown Subject (794576 { 28542(T))",
+    "Application Development Using Java (28551(T))",
+    "Computer Architecture & Microprocessor (28553(T))",
+    "Unknown Subject (795472 { 26432(T))",
+    "Foundation Engineering (26451(T))",
+    "Surveying-III (26453(T))",
+    "Unknown Subject (795484 { 25851(T))",
+    "Industrial Management (25852(T))",
+    "Electrical Appliances (26732(T))",
+    "Generation of Electrical Power (26751(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "Electrical Engineering Project-II (26754(P))",
+    "Digital Electronics (26845(T))",
+    "Data Communication (28554(T))",
+    "Operating System (28555(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
