@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.11",
+    "Marine Auxiliary System & Hydraulic Machinery (gpa2: 679623 { gpa5: ref)",
+    "gpa4: 2.75",
+    "gpa3: 3.15",
+    "Unknown Subject (gpa2: 679709 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Engine Testing & Installation (gpa2: 679717 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.23",
+    "gpa2:\n3.11",
+    "gpa1: 3.51",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "3.05",
+    "gpa1: 3.50",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
