@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 795054 { gpa5: ref)",
+    "gpa4: 3.33",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 795055 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 795056 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n2.75",
+    "gpa1: 2.25",
+    "Electrical Appliances (ref_sub: 26732(T))",
+    "Generation of Electrical Power (26751(T))",
+    "3.00",
+    "gpa1: 3.25",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))",
+    "Industrial Electronics (26833(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
