@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.92",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 719099 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 719101 { gpa5: 2.62)",
+    "gpa4: ref",
+    "gpa3: 2.64",
+    "Unknown Subject (gpa2: 719107 { gpa5: 3.48)",
+    "gpa4: 2.63",
+    "gpa3: ref",
+    "gpa2:\n3.21",
+    "gpa1: 2.70",
+    "Chemistry (ref_sub: 25913(T))",
+    "Engineering Thermodynamics (27131(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
