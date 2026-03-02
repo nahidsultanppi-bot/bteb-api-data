@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.38",
+    "Unknown Subject (gpa2: 785687 { gpa5: ref)",
+    "gpa4: 2.95",
+    "gpa3: 2.56",
+    "Unknown Subject (gpa2: 785688 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.36",
+    "Unknown Subject (gpa2: 785689 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.88",
+    "gpa2:\n2.49",
+    "gpa1: 2.65",
+    "Electrical Installation,Planning and Estimating (ref_sub: 26741(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.87",
+    "gpa1: 2.93",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))",
+    "Television Engineering (26851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
