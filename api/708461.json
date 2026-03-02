@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.98",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 708466 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.52",
+    "Unknown Subject (gpa2: 708469 { gpa5: 3.11)",
+    "gpa4: 3.03",
+    "gpa3: 2.74",
+    "Unknown Subject (708470 { gpa5: ref)",
+    "gpa4: 2.70",
+    "gpa3: 3.05",
+    "gpa2:\n2.90",
+    "gpa1: 3.00",
+    "Physiotherapy and Rehabilitation Devices (ref_sub: 28653(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
