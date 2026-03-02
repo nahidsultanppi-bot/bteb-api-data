@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.54",
+    "gpa3: 2.41",
+    "Unknown Subject (gpa2: 755287 { gpa5: 2.81)",
+    "gpa4: 2.64",
+    "gpa3: 2.34",
+    "Unknown Subject (755289 { gpa5: ref)",
+    "gpa4: 3.27",
+    "gpa3: 2.95",
+    "Unknown Subject (gpa2: 755293 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.65",
+    "gpa2:\n2.48",
+    "gpa1: 2.60",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Water Treatment Technology (26353(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
