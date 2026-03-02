@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.43",
+    "gpa3: 2.32",
+    "Unknown Subject (gpa2: 742481 { gpa5: ref)",
+    "gpa4: 2.92",
+    "gpa3: 3.12",
+    "Unknown Subject (gpa2: 742482 { gpa5: ref)",
+    "gpa4: 2.95",
+    "gpa3: 2.60",
+    "Unknown Subject (gpa2: 742483 { gpa5: ref)",
+    "gpa4: 3.45",
+    "gpa3: 3.20",
+    "gpa2:\n2.59",
+    "gpa1: ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Surveying-III (26453(T))",
+    "3.05",
+    "gpa1: ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Theory of Structure (26454(T))",
+    "2.96",
+    "gpa1: 2.90",
+    "Theory of Structure (ref_sub: 26454(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
