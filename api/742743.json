@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.33",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 742745 { gpa5: ref)",
+    "gpa4: 2.62",
+    "gpa3: 3.08",
+    "Unknown Subject (gpa2: 742749 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 742750 { gpa5: ref)",
+    "gpa4: 2.43",
+    "gpa3: 2.75",
+    "gpa2:\n2.39",
+    "gpa1: 2.88",
+    "Electrical Circuits-II (ref_sub: 26731(T))",
+    "Generation of Electrical Power (26751(T))",
+    "2.81",
+    "gpa1: 3.36",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
