@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.50",
+    "gpa3: 2.42",
+    "Unknown Subject (gpa2: 726997 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.48",
+    "Unknown Subject (gpa2: 727030 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.64",
+    "Unknown Subject (gpa2: 727038 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.61",
+    "gpa2:\nref",
+    "gpa1: 3.00",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Environmental Studies (29041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
