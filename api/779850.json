@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.17",
+    "gpa3: 3.00",
+    "Unknown Subject (gpa2: 779857 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.77",
+    "Unknown Subject (gpa2: 779862 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.75",
+    "Unknown Subject (gpa2: 779864 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.90",
+    "gpa2:\n3.05",
+    "gpa1: 3.26",
+    "Power Plant Enginnering (ref_sub: 27152(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
