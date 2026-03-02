@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.93",
+    "Oil, Fats & Waxes (gpa2: 663442 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.49",
+    "Refrigeration & Cold Storage (gpa2: 663536 { gpa5: ref)",
+    "gpa4: 3.01",
+    "gpa3: 3.01",
+    "Unknown Subject (gpa2: 762387 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n3.28",
+    "gpa1: 3.49",
+    "Civil CAD-I (ref_sub: 26443(T))",
+    "Geotechnical Engineering (26445(T))",
+    "3.28",
+    "gpa1: 3.21",
+    "Electrical Installation,Planning and Estimating (ref_sub: 26741(T))",
+    "Generation of Electrical Power (26751(T))",
+    "2.71",
+    "gpa1: 3.18",
+    "Computer Architecture & Microprocessor (ref_sub: 28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
