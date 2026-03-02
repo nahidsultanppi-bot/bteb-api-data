@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.26",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 734730 { gpa5: ref)",
+    "gpa4: 3.40",
+    "gpa3: 3.21",
+    "Unknown Subject (gpa2: 734731 { gpa5: ref)",
+    "gpa4: 3.60",
+    "gpa3: 3.36",
+    "Unknown Subject (gpa2: 734732 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n3.36",
+    "gpa1: 3.14",
+    "Surveying-I (ref_sub: 26432(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
