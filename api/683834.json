@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.50",
+    "Unknown Subject (gpa2: 683843 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.64",
+    "Unknown Subject (gpa2: 784344 { gpa5: ref)",
+    "gpa4: 3.42",
+    "gpa3: 3.45",
+    "Unknown Subject (gpa2: 784345 { gpa5: ref)",
+    "gpa4: 3.32",
+    "gpa3: 3.25",
+    "gpa2:\n2.31",
+    "gpa1: 2.71",
+    "DC Machine (ref_sub: 26742(T))",
+    "Generation of Electrical Power (26751(T))",
+    "2.51",
+    "gpa1: 2.85",
+    "DC Machine (ref_sub: 26742(T))",
+    "Generation of Electrical Power (26751(T))",
+    "2.91",
+    "gpa1: 3.01",
+    "Foundation Engineering (ref_sub: 26451(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
