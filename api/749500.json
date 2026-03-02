@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.26",
+    "Unknown Subject (gpa2: 749502 { gpa5: 3.78)",
+    "gpa4: 3.33",
+    "gpa3: 3.64",
+    "ref",
+    "gpa1: 3.10",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "gpa2: ref",
+    "gpa1: 3.45",
+    "Basic Electronics (ref_sub: 26811(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
