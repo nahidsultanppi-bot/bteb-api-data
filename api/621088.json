@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 621128 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.63",
+    "Unknown Subject (gpa2: 621134 { gpa5: ref)",
+    "gpa4: 3.00",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 621157 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.47",
+    "gpa2:\n2.65",
+    "gpa1: 3.38",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Manufacturing Process (27055(T))",
+    "3.01",
+    "gpa1: 3.47",
+    "Accounting (ref_sub: 25841(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "2.76",
+    "gpa1: 3.54",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
