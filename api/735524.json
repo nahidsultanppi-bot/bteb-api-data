@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.73",
+    "gpa3: 2.98",
+    "Unknown Subject (gpa2: 740936 { gpa5: ref)",
+    "gpa4: 2.85",
+    "gpa3: 2.69",
+    "Unknown Subject (gpa2: 743140 { gpa5: ref)",
+    "gpa4: 2.81",
+    "gpa3: 2.63",
+    "Unknown Subject (gpa2: 743370 { gpa5: ref)",
+    "gpa4: 2.65",
+    "gpa3: 3.13",
+    "gpa2:\n2.24",
+    "gpa1: 2.55",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Bio-Medical Instruments (28654(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
