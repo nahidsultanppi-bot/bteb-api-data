@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.41",
+    "gpa3: 3.45",
+    "Unknown Subject (gpa2: 780713 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.91",
+    "Unknown Subject (gpa2: 780714 { gpa5: ref)",
+    "gpa4: 3.30",
+    "gpa3: 3.03",
+    "Unknown Subject (gpa2: 794455 { gpa5: ref)",
+    "gpa4: 3.26",
+    "gpa3: 2.75",
+    "gpa2:\n3.33",
+    "gpa1: 3.04",
+    "Advanced GIS (ref_sub: 27851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
