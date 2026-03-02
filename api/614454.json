@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.85",
+    "gpa3: 3.06",
+    "Unknown Subject (gpa2: 614518 { gpa5: ref)",
+    "gpa4: 2.87",
+    "gpa3: 2.79",
+    "Unknown Subject (gpa2: 614564 { gpa5: ref)",
+    "gpa4: 2.96",
+    "gpa3: 2.99",
+    "Unknown Subject (gpa2: 614591 { gpa5: ref)",
+    "gpa4: 2.89",
+    "gpa3: 3.00",
+    "gpa2:\n2.52",
+    "gpa1: 3.05",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
