@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.50",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 788950 { gpa5: ref)",
+    "gpa4: 3.11",
+    "gpa3: 2.64",
+    "Unknown Subject (gpa2: 788953 { gpa5: ref)",
+    "gpa4: 2.26",
+    "gpa3: 2.64",
+    "Unknown Subject (gpa2: 788955 { gpa5: ref)",
+    "gpa4: 2.37",
+    "gpa3: 2.67",
+    "gpa2:\n2.53",
+    "gpa1: 2.46",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Electrical Circuits-II (26731(T))",
+    "2.95",
+    "gpa1: 3.00",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
