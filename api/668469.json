@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.28",
+    "gpa1: 2.71",
+    "Unknown Subject (668505 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.63",
+    "Instrumentation & Process Control (ref_sub: 668637 { gpa3: ref)",
+    "gpa2: 2.39",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 668762 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Chemistry (ref_sub:\nref_sub: 25913(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
