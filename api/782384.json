@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.88",
+    "Unknown Subject (gpa2: 782387 { gpa5: ref)",
+    "gpa4: 2.93",
+    "gpa3: 2.60",
+    "Unknown Subject (gpa2: 782392 { gpa5: ref)",
+    "gpa4: 2.90",
+    "gpa3: 2.68",
+    "gpa2:\n3.14",
+    "gpa1: 2.82",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
