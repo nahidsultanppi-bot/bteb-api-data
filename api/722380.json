@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.32",
+    "gpa3: 3.00",
+    "Unknown Subject (gpa2: 722384 { gpa5: 3.29)",
+    "gpa4: 3.01",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 722398 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 722399 { gpa5: ref)",
+    "gpa4: 3.24",
+    "gpa3: ref",
+    "gpa2:\n2.94",
+    "gpa1: 2.97",
+    "Theory of Structure (ref_sub: 26454(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
