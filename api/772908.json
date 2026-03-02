@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.91",
+    "gpa3: 3.19",
+    "Unknown Subject (gpa2: 772910 { gpa5: ref)",
+    "gpa4: 2.95",
+    "gpa3: 2.95",
+    "Unknown Subject (gpa2: 772923 { gpa5: ref)",
+    "gpa4: 3.19",
+    "gpa3: 3.14",
+    "Unknown Subject (gpa2: 772929 { gpa5: ref)",
+    "gpa4: 3.23",
+    "gpa3: 3.50",
+    "gpa2:\n2.60",
+    "gpa1: 2.74",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "Electrical & Electronic Measurements-II (26763(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
