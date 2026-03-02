@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.41",
+    "gpa3: 2.35",
+    "Unknown Subject (gpa2: 676274 { gpa5: ref)",
+    "gpa4: 2.47",
+    "gpa3: 2.92",
+    "Ceramic Equipments & Body Preparation (gpa2: 676328 { gpa5: ref)",
+    "gpa4: 3.05",
+    "gpa3: 2.74",
+    "Unknown Subject (gpa2: 690690 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.51",
+    "gpa2:\n2.59",
+    "gpa1: 2.68",
+    "Electrical & Electronic Measurements-II (ref_sub: 26763(T))",
+    "Radiology and Imaging Equipment (28651(T))",
+    "2.36",
+    "gpa1: 2.90",
+    "Radiology and Imaging Equipment (ref_sub: 28651(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
