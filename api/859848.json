@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.98",
+    "gpa1: 3.08",
+    "Unknown Subject (859854 { gpa3: ref)",
+    "gpa2: 3.18",
+    "gpa1: 3.18",
+    "Unknown Subject (859855 { gpa3: ref)",
+    "gpa2: 2.86",
+    "gpa1: 3.23",
+    "Unknown Subject (859856 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.15",
+    "Physics-II (ref_sub:\nref_sub: 25922(T))",
+    "Application Development Using Python (28531(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
