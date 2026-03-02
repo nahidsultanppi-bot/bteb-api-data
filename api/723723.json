@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.06",
+    "Unknown Subject (gpa2: 723724 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.08",
+    "Unknown Subject (gpa2: 723726 { gpa5: ref)",
+    "gpa4: 2.99",
+    "gpa3: 3.37",
+    "Unknown Subject (gpa2: 723729 { gpa5: ref)",
+    "gpa4: 3.00",
+    "gpa3: 3.10",
+    "gpa2:\n2.65",
+    "gpa1: 2.94",
+    "Electrical Installation,Planning and Estimating (ref_sub: 26741(T))",
+    "Generation of Electrical Power (26751(T))",
+    "2.77",
+    "gpa1: 3.19",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "3.33",
+    "gpa1: 3.32",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
