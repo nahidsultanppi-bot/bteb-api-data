@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.44",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 761868 { gpa5: ref)",
+    "gpa4: 3.27",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 761870 { gpa5: ref)",
+    "gpa4: 3.15",
+    "gpa3: 3.07",
+    "Unknown Subject (gpa2: 761872 { gpa5: ref)",
+    "gpa4: 3.45",
+    "gpa3: 3.09",
+    "gpa2:\n2.93",
+    "gpa1: ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Basic Electronics (26811(T))",
+    "ref",
+    "gpa1: 2.86",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Basic Electronics (26811(T))",
+    "2.99",
+    "gpa1: 3.29",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Advanced Welding-I (27053(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
