@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.00",
+    "Unknown Subject (ref_sub: 821067 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.00",
+    "Unknown Subject (ref_sub: 821068 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.73",
+    "Unknown Subject (ref_sub: 821072 { gpa3: ref)",
+    "gpa2: 2.79",
+    "gpa1: 3.10",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Application Development Using Python (28531(T))",
+    "IT Support Services (28533(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
