@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 603150 { gpa5: 3.17)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 603157 { gpa5: ref)",
+    "gpa4: 3.12",
+    "gpa3: 3.56",
+    "Unknown Subject (gpa2: 603193 { gpa5: ref)",
+    "gpa4: 2.99",
+    "gpa3: 3.20",
+    "gpa2:\n3.45",
+    "gpa1: 3.62",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Electrical Circuits-II (26731(T))",
+    "3.22",
+    "gpa1: 3.42",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Basic Electronics (26811(T))",
+    "3.24",
+    "gpa1: 3.78",
+    "Advanced Welding-I (ref_sub: 27053(T))",
+    "Manufacturing Process (27055(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
