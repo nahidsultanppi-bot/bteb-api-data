@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.20",
+    "gpa3: 3.53",
+    "Unknown Subject (gpa2: 780414 { gpa5: ref)",
+    "gpa4: 3.05",
+    "gpa3: 3.24",
+    "Unknown Subject (gpa2: 780427 { gpa5: ref)",
+    "gpa4: 3.20",
+    "gpa3: 3.20",
+    "Unknown Subject (gpa2: 780431 { gpa5: ref)",
+    "gpa4: 3.20",
+    "gpa3: 3.48",
+    "gpa2:\n3.26",
+    "gpa1: 3.40",
+    "Theory of Structure (ref_sub: 26454(T))",
+    "Advanced Surveying-II (27853(T))",
+    "2.99",
+    "gpa1: 3.15",
+    "Accounting (ref_sub: 25841(T))",
+    "Application Development Using Java (28551(T))",
+    "3.13",
+    "gpa1: 3.30",
+    "Accounting (ref_sub: 25841(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
