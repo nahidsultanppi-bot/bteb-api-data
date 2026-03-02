@@ -1,0 +1,21 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: 3.08",
+    "gpa4: ref",
+    "gpa3:\n3.40",
+    "gpa2: 3.12",
+    "gpa1: 3.50",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Digital Electronics-II (26841(T))",
+    "Java Programming (28541(T))",
+    "Computer Peripherals & Interfacing (28543(T))",
+    "Database Management System (28561(T))",
+    "Copmputer Networking (28562(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
