@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.07",
+    "Unknown Subject (ref_sub: 861952 { gpa3: ref)",
+    "gpa2: 2.71",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 861956 { gpa3: ref)",
+    "gpa2: 3.04",
+    "gpa1: 3.04",
+    "Unknown Subject (861962 { gpa3: ref)",
+    "gpa2: 3.10",
+    "gpa1: 3.20",
+    "Civil Engineering Drawing (26421(T))",
+    "Surveying-I (26432(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
