@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.58",
+    "Unknown Subject (gpa2: 753080 { gpa5: 3.23)",
+    "gpa4: 3.26",
+    "gpa3: 2.74",
+    "Unknown Subject (753082 { gpa5: 3.09)",
+    "gpa4: ref",
+    "gpa3: 2.47",
+    "Unknown Subject (gpa2: 753084 { gpa5: ref)",
+    "gpa4: 2.89",
+    "gpa3: ref",
+    "gpa2:\n2.71",
+    "gpa1: ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Advance Automotive Mechanisms (26252(T))",
+    "gpa2: 2.29",
+    "gpa1: ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "2.29",
+    "gpa1: ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Engineering Mechanics (27041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
