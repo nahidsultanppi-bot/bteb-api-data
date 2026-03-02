@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.79",
+    "gpa1: 3.17",
+    "Unknown Subject (844173 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.80",
+    "Unknown Subject (ref_sub: 844177 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.85",
+    "Unknown Subject (ref_sub: 844181 { gpa3: ref)",
+    "gpa2: 2.87",
+    "gpa1: 2.62",
+    "Machine Shop Practice-II (ref_sub: 27032(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
