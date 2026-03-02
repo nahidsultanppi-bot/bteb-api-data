@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.96",
+    "Unknown Subject (gpa2: 771736 { gpa5: ref)",
+    "gpa4: 3.03",
+    "gpa3: 3.10",
+    "Unknown Subject (gpa2: 771740 { gpa5: ref)",
+    "gpa4: 2.74",
+    "gpa3: 3.06",
+    "Unknown Subject (gpa2: 771742 { gpa5: ref)",
+    "gpa4: 2.53",
+    "gpa3: 2.96",
+    "gpa2:\n2.93",
+    "gpa1: 2.79",
+    "Networks, Filters and Transmission lines (ref_sub: 26843(T))",
+    "Television Engineering (26851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
