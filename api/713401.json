@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.12",
+    "gpa3: 3.40",
+    "Unknown Subject (gpa2: 713409 { gpa5: ref)",
+    "gpa4: 3.43",
+    "gpa3: 3.27",
+    "Unknown Subject (gpa2: 713411 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.16",
+    "Unknown Subject (gpa2: 713415 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.26",
+    "gpa2:\n2.98",
+    "gpa1: 3.24",
+    "Mechanical Estimating & Costing (ref_sub: 27052(T))",
+    "Advanced Welding-I (27053(T))",
+    "2.76",
+    "gpa1: 3.09",
+    "Python Programming (ref_sub: 28521(T))",
+    "Environmental Studies (29041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
