@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 634854 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 634872 { gpa5: ref)",
+    "gpa4: 3.08",
+    "gpa3: 3.25",
+    "Unknown Subject (gpa2: 634903 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.89",
+    "gpa2:\n3.05",
+    "gpa1: 3.12",
+    "Chemistry (ref_sub: 25913(T))",
+    "Mathematics-III (25931(T))",
+    "2.84",
+    "gpa1: 3.10",
+    "Accounting (ref_sub: 25841(T))",
+    "Chemistry (25913(T))",
+    "3.17",
+    "gpa1: 3.47",
+    "Advanced Welding-I (ref_sub: 27053(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
