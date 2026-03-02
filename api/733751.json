@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.95",
+    "gpa3: 2.96",
+    "Unknown Subject (gpa2: 733753 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (733758 { gpa5: ref)",
+    "gpa4: 2.65",
+    "gpa3: 2.74",
+    "Unknown Subject (gpa2: 733764 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.75",
+    "gpa2:\n3.05",
+    "gpa1: 3.12",
+    "Mechanical Estimating & Costing (ref_sub: 27052(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
