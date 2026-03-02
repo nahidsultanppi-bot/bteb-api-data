@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.81",
+    "Unknown Subject (gpa2: 713082 { gpa5: ref)",
+    "gpa4: 2.83",
+    "gpa3: 3.26",
+    "Unknown Subject (gpa2: 713086 { gpa5: ref)",
+    "gpa4: 2.56",
+    "gpa3: 2.92",
+    "Unknown Subject (gpa2: 713089 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.54",
+    "gpa2:\n2.88",
+    "gpa1: 3.12",
+    "Surveying-III (ref_sub: 26453(T))",
+    "Wood Workshop Practice (26521(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
