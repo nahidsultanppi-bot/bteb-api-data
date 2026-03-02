@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.13",
+    "Unknown Subject (gpa2: 749675 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 749677 { gpa5: ref)",
+    "gpa4: 2.87",
+    "gpa3: 3.01",
+    "Unknown Subject (gpa2: 749678 { gpa5: ref)",
+    "gpa4: 3.33",
+    "gpa3: 3.35",
+    "gpa2:\n2.97",
+    "gpa1: 3.12",
+    "Industrial Management (ref_sub: 25852(T))",
+    "DC Machine (26742(T))",
+    "ref",
+    "gpa1: 3.12",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Physics-II (25922(T))",
+    "2.90",
+    "gpa1: 2.93",
+    "Industrial Management (ref_sub: 25852(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
