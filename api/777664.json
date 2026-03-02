@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.36",
+    "gpa3: 2.19",
+    "Unknown Subject (gpa2: 777666 { gpa5: ref)",
+    "gpa4: 2.63",
+    "gpa3: 2.51",
+    "Unknown Subject (gpa2: 777669 { gpa5: ref)",
+    "gpa4: 3.31",
+    "gpa3: 3.32",
+    "Unknown Subject (gpa2: 777672 { gpa5: ref)",
+    "gpa4: 3.07",
+    "gpa3: 2.81",
+    "gpa2:\nref",
+    "gpa1: 2.76",
+    "Physics -I (ref_sub: 25912(T))",
+    "Mathematics-II (25921(T))",
+    "2.64",
+    "gpa1: 2.70",
+    "Surveying-III (ref_sub: 26453(T))",
+    "Theory of Structure (26454(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
