@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.75",
+    "gpa3: 2.51",
+    "Unknown Subject (gpa2: 774174 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 774202 { gpa5: ref)",
+    "gpa4: 3.30",
+    "gpa3: 2.96",
+    "Unknown Subject (gpa2: 774205 { gpa5: ref)",
+    "gpa4: 2.76",
+    "gpa3: ref",
+    "gpa2:\n2.53",
+    "gpa1: 3.02",
+    "Refrigeration & Cold Storage (ref_sub: 26355(T))",
+    "Food Biotechnology (26953(T))",
+    "2.44",
+    "gpa1: 3.01",
+    "Food Industrial Chemistry (ref_sub: 26932(T))",
+    "Food Chemistry (26943(T))",
+    "3.14",
+    "gpa1: 3.13",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
