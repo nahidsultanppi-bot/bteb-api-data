@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (663251 { gpa5: ref)",
+    "gpa4: 3.01",
+    "gpa3: 3.06",
+    "Unknown Subject (gpa2: 663269 { gpa5: ref)",
+    "gpa4: 2.73",
+    "gpa3: 2.93",
+    "Unknown Subject (gpa2: 663278 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.24",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Physics-II (25922(T))",
+    "2.90",
+    "gpa1: 3.47",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
