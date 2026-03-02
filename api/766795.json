@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.10",
+    "Unknown Subject (gpa2: 766796 { gpa5: ref)",
+    "gpa4: 3.20",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 766797 { gpa5: ref)",
+    "gpa4: 2.86",
+    "gpa3: 2.96",
+    "Unknown Subject (gpa2: 766799 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n3.04",
+    "gpa1: 3.02",
+    "Geotechnical Engineering (ref_sub: 26445(T))",
+    "Foundation Engineering (26451(T))",
+    "3.29",
+    "gpa1: 3.27",
+    "Structural Mechanics (ref_sub: 26431(T))",
+    "Foundation Engineering (26451(T))",
+    "3.28",
+    "gpa1: 3.07",
+    "Civil CAD-II (ref_sub: 26452(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
