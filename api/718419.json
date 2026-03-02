@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.23",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 718420 { gpa5: ref)",
+    "gpa4: 2.90",
+    "gpa3: 2.88",
+    "Unknown Subject (gpa2: 718422 { gpa5: ref)",
+    "gpa4: 2.99",
+    "gpa3: 2.68",
+    "Unknown Subject (gpa2: 718425 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "2.33",
+    "gpa1: 2.46",
+    "Physics-II (ref_sub: 25922(T))",
+    "Catering Management (26931(T))",
+    "2.67",
+    "gpa1: 2.90",
+    "Food Biotechnology (ref_sub: 26953(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
