@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 2.21",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Construction Surveying-1 (gpa2: 688328 { gpa5: ref)",
+    "gpa4: 2.42",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 688354 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 688360 { gpa5: ref)",
+    "gpa4: 2.30",
+    "gpa3: 2.44",
+    "gpa2:\nref",
+    "gpa1: ref",
+    "Chemistry (ref_sub: 25913(T))",
+    "Mathematics-II (25921(T))",
+    "2.36",
+    "gpa1: 3.07",
+    "Chemistry (ref_sub: 25913(T))",
+    "Electrical & Electronic Measurements-I (26752(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
