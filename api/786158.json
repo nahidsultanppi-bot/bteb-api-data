@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 786163 { gpa5: 2.64)",
+    "gpa4: ref",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 786166 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.25",
+    "Unknown Subject (gpa2: 786170 { gpa5: 2.69)",
+    "gpa4: ref",
+    "gpa3: 2.58",
+    "gpa2:\n2.40",
+    "gpa1: 2.76",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Fuels & Lubricants (27142(T))",
+    "2.79",
+    "gpa1: 3.07",
+    "Fuels & Lubricants (ref_sub: 27142(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
