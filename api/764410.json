@@ -1,0 +1,31 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.87",
+    "Unknown Subject (gpa2: 764414 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.11",
+    "Unknown Subject (gpa2: 764416 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.31",
+    "Unknown Subject (gpa2: 764418 { gpa5: ref)",
+    "gpa4: 3.02",
+    "gpa3: 3.08",
+    "gpa2:\n2.89",
+    "gpa1: 2.74",
+    "Surveying-II (ref_sub: 26444(T))",
+    "Geotechnical Engineering (26445(T))",
+    "3.11",
+    "gpa1: 2.89",
+    "Geotechnical Engineering (ref_sub: 26445(T))",
+    "Surveying-III (26453(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester",
+  "Name": "Fahid Hasan",
+  "Department": "Civil Technology"
+}
