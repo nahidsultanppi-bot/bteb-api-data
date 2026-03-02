@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.07",
+    "Unknown Subject (ref_sub: 801954 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 801965 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.10",
+    "Unknown Subject (ref_sub: 801966 { gpa3: 3.14)",
+    "gpa2: ref",
+    "gpa1: 3.10",
+    "Chemistry (25913(T))",
+    "Mathematics-III (25931(T))",
+    "Basic Electricity (26711(T))",
+    "Engineering Thermodynamics (27131(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
