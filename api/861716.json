@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "Mathematics -I (25911(T))",
+    "Physics -I (25912(T))",
+    "Chemistry (25913(T))",
+    "Unknown Subject (861728 { 25911(T))",
+    "Mathematics-II (25921(T))",
+    "Physics-II (25922(T))",
+    "Unknown Subject (861764 { 25922(T))",
+    "Mathematics-III (25931(T))",
+    "Digital Electronics-I (26831(T))",
+    "Unknown Subject (861767 { 25811(T))",
+    "Physics-II (25922(P))",
+    "Mathematics-III (25931(P))",
+    "Mathematics-II (25921(T))",
+    "Physics-II (25922(T))",
+    "Automobile Fundamentals (26211(T))",
+    "Basic Electricity (26711(T))",
+    "Mathematics-III (25931(T))",
+    "Basic Electronics (26811(T))",
+    "RAC Cycles and Components (27231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
