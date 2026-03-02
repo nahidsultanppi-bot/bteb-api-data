@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: 2.75",
+    "gpa4: ref",
+    "Unknown Subject (gpa3: 662904 { gpa6: ref)",
+    "gpa5: 2.59",
+    "gpa4: 3.04",
+    "gpa3:\nref",
+    "gpa2: ref",
+    "gpa1: 3.02",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "2.77",
+    "gpa2: 2.95",
+    "gpa1: 3.40",
+    "Copmputer Networking (ref_sub: 28562(T))",
+    "Electrical Circuits-I (26721(T))",
+    "DC Machine (26742(T))",
+    "AC Machine-I (26761(T))",
+    "Transmission and Distribution ofEectricalPower-I (26762(T))",
+    "Sensor & IoT System (28563(T))",
+    "Microcontroller Based System Design & Development (28564(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
