@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.22",
+    "gpa1: 3.17",
+    "Unknown Subject (864263 { gpa3: ref)",
+    "gpa2: 2.74",
+    "gpa1: 2.62",
+    "Unknown Subject (864268 { gpa3: ref)",
+    "gpa2: 3.06",
+    "gpa1: 3.31",
+    "Unknown Subject (864273 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.74",
+    "Mathematics-III (ref_sub:\nref_sub: 25931(T))",
+    "Electrical Appliances (26732(T))",
+    "Industrial Electronics (26833(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
