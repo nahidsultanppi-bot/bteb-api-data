@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.82",
+    "gpa3: 2.46",
+    "Unknown Subject (gpa2: 602688 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.25",
+    "Unknown Subject (gpa2: 602738 { gpa5: ref)",
+    "gpa4: 2.85",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 602865 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.18",
+    "gpa2:\n2.33",
+    "gpa1: 3.26",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Fundamental of Hybride & Electric Vehicle (27151(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
