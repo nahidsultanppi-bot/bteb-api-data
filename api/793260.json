@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.58",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 793265 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (793266 { gpa5: ref)",
+    "gpa4: 2.42",
+    "gpa3: 2.68",
+    "Unknown Subject (gpa2: 795067 { gpa5: 2.78)",
+    "gpa4: 2.38",
+    "gpa3: ref",
+    "gpa2:\n2.25",
+    "gpa1: 4.00",
+    "Digital Electronics-I (ref_sub: 26831(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
