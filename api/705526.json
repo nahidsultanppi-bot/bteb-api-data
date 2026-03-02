@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.50",
+    "gpa3: 3.00",
+    "Unknown Subject (gpa2: 705550 { gpa5: 3.45)",
+    "gpa4: ref",
+    "gpa3: 3.04",
+    "Unknown Subject (gpa2: 705570 { gpa5: 3.56)",
+    "gpa4: 3.51",
+    "gpa3: 3.11",
+    "Unknown Subject (705606 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.98",
+    "gpa2:\n3.10",
+    "gpa1: 3.00",
+    "Civil CAD-II (ref_sub: 26452(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
