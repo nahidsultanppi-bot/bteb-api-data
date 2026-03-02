@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.81",
+    "Unknown Subject (ref_sub: 842401 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.95",
+    "Unknown Subject (ref_sub: 842403 { gpa3: ref)",
+    "gpa2: 2.76",
+    "gpa1: 2.95",
+    "Unknown Subject (842413 { gpa3: ref)",
+    "gpa2: 2.72",
+    "gpa1: 3.07",
+    "Chemistry (25913(T))",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Electrical Circuits-I (26721(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
