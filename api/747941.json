@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.73",
+    "Unknown Subject (gpa2: 747953 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.68",
+    "Unknown Subject (gpa2: 747962 { gpa5: ref)",
+    "gpa4: 2.85",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 747967 { gpa5: 3.08)",
+    "gpa4: 3.24",
+    "gpa3: ref",
+    "gpa2:\n2.96",
+    "gpa1: 2.57",
+    "Business Communication (ref_sub: 25831(T))",
+    "Engineering Mechanics (27041(T))",
+    "3.17",
+    "gpa1: 2.83",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Fundamental of Hybride & Electric Vehicle (27151(T))",
+    "2.86",
+    "gpa1: 2.87",
+    "Basic Electronics (ref_sub: 26811(T))",
+    "Fundamental of Hybride & Electric Vehicle (27151(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
