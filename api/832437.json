@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.62",
+    "Unknown Subject (ref_sub: 832448 { gpa3: ref)",
+    "gpa2: 3.32",
+    "gpa1: 3.58",
+    "Unknown Subject (832466 { gpa3: ref)",
+    "gpa2: 3.07",
+    "gpa1: 3.40",
+    "Unknown Subject (832475 { gpa3: ref)",
+    "gpa2: 3.31",
+    "gpa1: 3.50",
+    "Basic Electricity (26711(T))",
+    "RAC Cycles and Components (27231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
