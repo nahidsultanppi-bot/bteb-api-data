@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (732019 { gpa5: ref)",
+    "gpa4: 3.42",
+    "gpa3: 2.99",
+    "Unknown Subject (gpa2: 732024 { gpa5: ref)",
+    "gpa4: 3.21",
+    "gpa3: 2.91",
+    "Unknown Subject (gpa2: 732025 { gpa5: ref)",
+    "gpa4: 3.51",
+    "gpa3: 2.93",
+    "gpa2:\ngpa1: ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Physics -I (25912(T))",
+    "Basic Electricity (26711(T))",
+    "3.07",
+    "gpa1: 3.00",
+    "Heating Ventilation & Air Conditioning (HVAC) (ref_sub: 27251(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
