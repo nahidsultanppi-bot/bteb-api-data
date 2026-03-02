@@ -1,0 +1,17 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: 3.19",
+    "gpa1:\n3.21",
+    "Chemistry (ref_sub: 25913(T))",
+    "DC Machine (26742(T))",
+    "Industrial Electronics (26833(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
