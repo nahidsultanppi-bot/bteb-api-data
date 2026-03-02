@@ -1,0 +1,19 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: 3.20",
+    "gpa4: 3.01",
+    "gpa3:\nref",
+    "gpa2: ref",
+    "gpa1: 3.33",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "AC Machine-I (26761(T))",
+    "Transmission and Distribution ofEectricalPower-I (26762(T))",
+    "Industrial Electronics (26833(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
