@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: 3.11",
+    "gpa2: ref",
+    "gpa1: 2.73",
+    "Unknown Subject (820999 { gpa3: ref)",
+    "gpa2: 3.19",
+    "gpa1: 3.36",
+    "Unknown Subject (821000 { gpa3: ref)",
+    "gpa2: 3.63",
+    "gpa1: 3.77",
+    "Unknown Subject (821006 { gpa3: 2.94)",
+    "gpa2: ref",
+    "gpa1: 2.80",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Basic Electronics (26811(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
