@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.44",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 726039 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.28",
+    "Unknown Subject (gpa2: 726041 { gpa5: ref)",
+    "gpa4: 2.93",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 726044 { gpa5: ref)",
+    "gpa4: 3.02",
+    "gpa3: 3.40",
+    "gpa2:\n2.39",
+    "gpa1: 2.85",
+    "Power Electronics (ref_sub: 26832(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
