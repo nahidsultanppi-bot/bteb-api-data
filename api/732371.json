@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.85",
+    "gpa3: 2.67",
+    "Unknown Subject (gpa2: 732376 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.57",
+    "Unknown Subject (gpa2: 732387 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.70",
+    "Unknown Subject (gpa2: 732395 { gpa5: ref)",
+    "gpa4: 2.96",
+    "gpa3: 2.87",
+    "gpa2:\n3.05",
+    "gpa1: 2.95",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Manufacturing Process (27055(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
