@@ -1,0 +1,27 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (705022 { gpa5: ref)",
+    "gpa4: 3.64",
+    "gpa3: 3.49",
+    "Unknown Subject (gpa2: 705024 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\ngpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Chemistry (25913(T))",
+    "Mathematics-II (25921(T))",
+    "3.36",
+    "gpa1: 3.35",
+    "Web Design & Development-II (ref_sub: 28552(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
