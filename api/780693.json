@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.16",
+    "gpa3: 3.02",
+    "Unknown Subject (gpa2: 780694 { gpa5: ref)",
+    "gpa4: 3.40",
+    "gpa3: 2.87",
+    "Unknown Subject (gpa2: 780695 { gpa5: ref)",
+    "gpa4: 3.21",
+    "gpa3: 2.72",
+    "Unknown Subject (gpa2: 780696 { gpa5: ref)",
+    "gpa4: 3.48",
+    "gpa3: 3.16",
+    "gpa2:\n2.93",
+    "gpa1: 2.80",
+    "Advanced GIS (ref_sub: 27851(T))",
+    "Python Programming (28521(T))",
+    "2.45",
+    "gpa1: 2.96",
+    "Python Programming (ref_sub: 28521(T))",
+    "Environmental Studies (29041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
