@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (762571 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.26",
+    "Unknown Subject (gpa2: 762573 { gpa5: ref)",
+    "gpa4: 3.60",
+    "gpa3: 3.18",
+    "Unknown Subject (gpa2: 762574 { gpa5: ref)",
+    "gpa4: 3.25",
+    "gpa3: ref",
+    "gpa2:\ngpa1: 3.07",
+    "Physics -I (ref_sub: 25912(T))",
+    "Physics-II (25922(T))",
+    "3.55",
+    "gpa1: 3.26",
+    "Estimating & Costing-I (ref_sub: 26442(T))",
+    "Surveying-II (26444(T))",
+    "3.55",
+    "gpa1: 3.45",
+    "Theory of Structure (ref_sub: 26454(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
