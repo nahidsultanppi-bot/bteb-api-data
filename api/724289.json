@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 724291 { gpa5: ref)",
+    "gpa4: 3.20",
+    "gpa3: 2.81",
+    "Unknown Subject (gpa2: 724292 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.76",
+    "Unknown Subject (gpa2: 724298 { gpa5: ref)",
+    "gpa4: 3.18",
+    "gpa3: 2.99",
+    "gpa2:\n2.75",
+    "gpa1: ref",
+    "Accounting (ref_sub: 25841(T))",
+    "Basic Electricity (26711(T))",
+    "2.94",
+    "gpa1: 3.17",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
