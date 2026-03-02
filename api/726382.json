@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 726383 { gpa5: ref)",
+    "gpa4: 2.60",
+    "gpa3: 2.65",
+    "Unknown Subject (gpa2: 726385 { gpa5: ref)",
+    "gpa4: 2.92",
+    "gpa3: 2.35",
+    "Unknown Subject (gpa2: 726390 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.68",
+    "gpa2:\n3.02",
+    "gpa1: 2.86",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Metallurgy2 (27043(T))",
+    "2.67",
+    "gpa1: 2.86",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Advanced Welding-I (27053(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
