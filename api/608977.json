@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 608988 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 709907 { gpa5: 3.40)",
+    "gpa4: ref",
+    "gpa3: 3.11",
+    "Unknown Subject (gpa2: 709917 { gpa5: ref)",
+    "gpa4: 2.88",
+    "gpa3: 2.90",
+    "gpa2:\n2.91",
+    "gpa1: 3.40",
+    "Industrial Electronics (ref_sub: 26833(T))",
+    "Microprocessor & Microcontroller (26853(T))",
+    "2.65",
+    "gpa1: 3.10",
+    "Electrical Circuits-II (ref_sub: 26731(T))",
+    "DC Machine (26742(T))",
+    "3.09",
+    "gpa1: 3.29",
+    "Accounting (ref_sub: 25841(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
