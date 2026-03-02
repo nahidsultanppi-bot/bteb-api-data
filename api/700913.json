@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.70",
+    "Unknown Subject (gpa2: 700926 { gpa5: ref)",
+    "gpa4: 3.04",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 700932 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (700933 { gpa5: ref)",
+    "gpa4: 2.95",
+    "gpa3: 2.79",
+    "gpa2:\n2.79",
+    "gpa1: 2.73",
+    "Digital Electronics (ref_sub: 26845(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "ref",
+    "gpa1: 3.30",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Fluid Mechanics & Machineries (27051(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
