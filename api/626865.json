@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 626909 { gpa5: ref)",
+    "gpa4: 2.56",
+    "gpa3: 2.99",
+    "Unknown Subject (gpa2: 626919 { gpa5: ref)",
+    "gpa4: 2.75",
+    "gpa3: 2.83",
+    "Unknown Subject (gpa2: 626931 { gpa5: ref)",
+    "gpa4: 3.17",
+    "gpa3: 3.10",
+    "gpa2:\n2.94",
+    "gpa1: 2.63",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Construction Process-II (26441(T))",
+    "2.65",
+    "gpa1: 2.69",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Industrial Management (25852(T))",
+    "3.06",
+    "gpa1: 3.00",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Electrical & Electronic Measurements-I (26752(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
