@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.04",
+    "gpa3: 4.00",
+    "Unknown Subject (gpa2: 795230 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.75",
+    "Unknown Subject (gpa2: 795231 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 4.00",
+    "gpa2:\nref",
+    "gpa1: 4.00",
+    "Python Programming (ref_sub: 28521(T))",
+    "Application Development Using Java (28551(T))",
+    "3.40",
+    "gpa1: 4.00",
+    "Data Structure & Algorithm (ref_sub: 28542(T))",
+    "Web Design & Development-I (28544(T))",
+    "ref",
+    "gpa1: 4.00",
+    "Business Communication (ref_sub: 25831(T))",
+    "Python Programming (28521(T))",
+    "Web Design & Development-II (28552(T))",
+    "Operating System (28555(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
