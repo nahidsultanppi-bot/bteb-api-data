@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "Accounting (25841(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "Application Development Using Java (28551(T))",
+    "Unknown Subject (625942 { 25841(T))",
+    "Physics-II (25922(T))",
+    "Java Programming (28541(T))",
+    "Unknown Subject (626332 { 25841(T))",
+    "Chemistry (25913(T))",
+    "Mathematics-II (25921(T))",
+    "Unknown Subject (626355 { 26441(T))",
+    "Theory of Structure (26454(T))",
+    "Water and Waste Water Engineering (29051(T))",
+    "Computer Architecture & Microprocessor (28553(T))",
+    "Operating System (28555(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
