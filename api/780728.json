@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "Accounting (25841(T))",
+    "Chemistry (25913(T))",
+    "Basic Estimating & Costing (26447(T))",
+    "Unknown Subject (780732 { 25841(T))",
+    "Chemistry (25913(T))",
+    "Mathematics-II (25921(T))",
+    "Unknown Subject (780733 { 25841(T))",
+    "Chemistry (25913(T))",
+    "Mathematics-II (25921(T))",
+    "Unknown Subject (780738 { 25841(T))",
+    "Chemistry (25913(T))",
+    "Physics-II (25922(T))",
+    "Theory of Structure (26454(T))",
+    "Basic Electronics (26811(T))",
+    "Hydraulics & Hydrology (27852(T))",
+    "Advanced Surveying-II (27853(T))",
+    "Digital Electronics-I (26831(T))",
+    "Application Development Using Python (28531(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "Web Design & Development-I (28544(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "Application Development Using Java (28551(T))",
+    "Computer Architecture & Microprocessor (28553(T))",
+    "Data Communication (28554(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
