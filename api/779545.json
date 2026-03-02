@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.79",
+    "gpa3: 2.56",
+    "Unknown Subject (gpa2: 782073 { gpa5: ref)",
+    "gpa4: 2.54",
+    "gpa3: 2.70",
+    "Unknown Subject (gpa2: 782105 { gpa5: ref)",
+    "gpa4: 2.36",
+    "gpa3: 2.43",
+    "Unknown Subject (gpa2: 782284 { gpa5: ref)",
+    "gpa4: 3.08",
+    "gpa3: 3.45",
+    "gpa2:\n3.11",
+    "gpa1: 3.37",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.65",
+    "gpa1: 3.11",
+    "Civil CAD-II (ref_sub: 26452(T))",
+    "Surveying-III (26453(T))",
+    "2.43",
+    "gpa1: 3.17",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))",
+    "Microprocessor & Microcontroller (26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
