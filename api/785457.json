@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.32",
+    "gpa3: 2.49",
+    "Unknown Subject (gpa2: 785460 { gpa5: ref)",
+    "gpa4: 2.95",
+    "gpa3: 2.77",
+    "Unknown Subject (gpa2: 785461 { gpa5: ref)",
+    "gpa4: 2.55",
+    "gpa3: 2.58",
+    "Unknown Subject (gpa2: 785462 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.60",
+    "gpa2:\n2.85",
+    "gpa1: 2.88",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
