@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.13",
+    "Unknown Subject (gpa2: 727585 { gpa5: ref)",
+    "gpa4: 3.06",
+    "gpa3: 3.07",
+    "Unknown Subject (gpa2: 727588 { gpa5: ref)",
+    "gpa4: 3.12",
+    "gpa3: 3.01",
+    "Unknown Subject (gpa2: 727589 { gpa5: 3.11)",
+    "gpa4: 3.44",
+    "gpa3: 3.01",
+    "ref",
+    "gpa1: 2.98",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Mathematics-II (25921(T))",
+    "2.90",
+    "gpa1: 3.10",
+    "Industrial Management (ref_sub: 25852(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
