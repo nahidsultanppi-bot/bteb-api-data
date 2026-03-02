@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: 2.55",
+    "Unknown Subject (gpa3: 684896 { gpa6: ref)",
+    "gpa5: 2.64",
+    "gpa4: 2.90",
+    "Unknown Subject (gpa3: 684997 { gpa6: ref)",
+    "gpa5: 2.61",
+    "gpa4: 2.55",
+    "Unknown Subject (gpa3: 685185 { gpa6: 2.65)",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3:\n2.54",
+    "gpa2: 2.48",
+    "gpa1: 2.67",
+    "Transmission and Distribution ofEectricalPower-I (ref_sub: 26762(T))",
+    "2.90",
+    "gpa2: 3.19",
+    "gpa1: 3.63",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
