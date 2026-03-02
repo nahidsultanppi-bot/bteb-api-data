@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 865158 { gpa3: 2.89)",
+    "gpa2: ref",
+    "gpa1: 3.37",
+    "Unknown Subject (865160 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.30",
+    "Unknown Subject (ref_sub: 865161 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.29",
+    "Business Communication (ref_sub:\n25831(T))",
+    "Mathematics -I (25911(T))",
+    "Physics -I (25912(T))",
+    "Mechanical Engineering Drawing (27021(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
