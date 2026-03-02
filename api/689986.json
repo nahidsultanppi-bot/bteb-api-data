@@ -1,0 +1,23 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: 2.79",
+    "gpa2: 2.68",
+    "Unknown Subject (gpa1: 772993 { gpa4: ref)",
+    "gpa3: 2.95",
+    "gpa2: 3.00",
+    "Unknown Subject (gpa1: 773007 { gpa4: ref)",
+    "gpa3: 3.19",
+    "gpa2: 3.10",
+    "Unknown Subject (gpa1: 773047 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1:\n3.08",
+    "Computer Peripherals & Interfacing (ref_sub: 28543(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
