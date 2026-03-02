@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (667813 { gpa6: 3.44)",
+    "gpa5: 3.08",
+    "gpa4: 3.19",
+    "Unknown Subject (667818 { gpa6: ref)",
+    "gpa5: ref",
+    "gpa4: 3.04",
+    "gpa3:\ngpa2: 2.89",
+    "gpa1: 3.33",
+    "Electrical Installation,Planning and Estimating (ref_sub: 26741(T))",
+    "gpa3: 2.89",
+    "gpa2: ref",
+    "gpa1: 3.60",
+    "ref_sub: ref",
+    "gpa2: 2.95",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Generation of Electrical Power (26751(T))",
+    "Industrial Electronics (26833(T))",
+    "Microprocessor & Microcontroller (26853(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
