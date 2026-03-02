@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.64",
+    "Unknown Subject (gpa2: 752816 { gpa5: 3.19)",
+    "gpa4: ref",
+    "gpa3: 2.81",
+    "Unknown Subject (gpa2: 752825 { gpa5: ref)",
+    "gpa4: 3.17",
+    "gpa3: 2.60",
+    "Unknown Subject (gpa2: 752829 { gpa5: ref)",
+    "gpa4: 3.40",
+    "gpa3: 3.01",
+    "gpa2:\n2.62",
+    "gpa1: 2.68",
+    "Java Programming (ref_sub: 28541(T))",
+    "Data Communication (28554(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
