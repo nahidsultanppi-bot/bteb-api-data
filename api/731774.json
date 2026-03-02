@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.04",
+    "Unknown Subject (gpa2: 731778 { gpa5: ref)",
+    "gpa4: 3.34",
+    "gpa3: 2.88",
+    "Unknown Subject (gpa2: 731779 { gpa5: ref)",
+    "gpa4: 3.15",
+    "gpa3: 2.83",
+    "Unknown Subject (gpa2: 731782 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.90",
+    "gpa2:\n3.15",
+    "gpa1: 3.32",
+    "Electrical Installation,Planning and Estimating (ref_sub: 26741(T))",
+    "Television Engineering (26851(T))",
+    "3.30",
+    "gpa1: 2.92",
+    "Television Engineering (ref_sub: 26851(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
