@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.75",
+    "gpa1: 3.62",
+    "Unknown Subject (814758 { gpa3: ref)",
+    "gpa2: 3.65",
+    "gpa1: 3.27",
+    "Unknown Subject (814759 { gpa3: ref)",
+    "gpa2: 3.44",
+    "gpa1: 3.63",
+    "Unknown Subject (814763 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Computer Office Application (ref_sub:\nref_sub: 28511(P))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
