@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.35",
+    "gpa1: 3.31",
+    "Unknown Subject (817758 { gpa3: ref)",
+    "gpa2: 2.60",
+    "gpa1: 2.75",
+    "Unknown Subject (817766 { gpa3: ref)",
+    "gpa2: 3.11",
+    "gpa1: 3.13",
+    "Unknown Subject (817769 { gpa3: ref)",
+    "gpa2: 3.12",
+    "gpa1: 3.18",
+    "Physics-II (ref_sub: 25922(T))",
+    "Automobile Fundamentals (26211(T))",
+    "Engineering Thermodynamics (27131(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
