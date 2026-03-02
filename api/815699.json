@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.01",
+    "Unknown Subject (ref_sub: 815702 { gpa3: ref)",
+    "gpa2: 3.55",
+    "gpa1: 3.30",
+    "Unknown Subject (815703 { gpa3: ref)",
+    "gpa2: 3.33",
+    "gpa1: 3.04",
+    "Unknown Subject (815705 { gpa3: ref)",
+    "gpa2: 3.43",
+    "gpa1: 3.25",
+    "Mathematics-III (25931(T))",
+    "Civil Engineering Drawing (26421(T))",
+    "Structural Mechanics (26431(T))",
+    "Surveying-I (26432(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
