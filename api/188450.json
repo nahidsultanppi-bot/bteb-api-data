@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.65",
+    "Unknown Subject (gpa2: 188451 { gpa5: ref)",
+    "gpa4: 2.61",
+    "gpa3: 2.66",
+    "Unknown Subject (gpa2: 188453 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.38",
+    "Unknown Subject (gpa2: 188466 { gpa5: ref)",
+    "gpa4: 2.61",
+    "gpa3: 2.51",
+    "gpa2:\n2.00",
+    "gpa1: 4.00",
+    "Networks, Filters and Transmission lines (ref_sub: 26843(T))",
+    "Television Engineering (26851(T))",
+    "2.13",
+    "gpa1: 4.00",
+    "Progamming in C (ref_sub: 28567(T))",
+    "Bio-Medical Instruments (28654(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
