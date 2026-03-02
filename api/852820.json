@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.75",
+    "Unknown Subject (ref_sub: 852827 { gpa3: ref)",
+    "gpa2: 3.23",
+    "gpa1: 3.49",
+    "Unknown Subject (852828 { gpa3: ref)",
+    "gpa2: 2.75",
+    "gpa1: 3.10",
+    "Unknown Subject (852829 { gpa3: ref)",
+    "gpa2: 2.60",
+    "gpa1: 2.98",
+    "Basic Stoichiometry (26321(T))",
+    "Industrial Chemistry (26332(T))",
+    "Basic Electricity (26711(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
