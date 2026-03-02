@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.65",
+    "Unknown Subject (ref_sub: 824629 { gpa3: ref)",
+    "gpa2: 2.51",
+    "gpa1: 2.93",
+    "Unknown Subject (824630 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 824631 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.85",
+    "Social Science (ref_sub:\n25811(T))",
+    "Mathematics-III (25931(T))",
+    "Python Programming (28521(T))",
+    "IT Support Services (28533(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
