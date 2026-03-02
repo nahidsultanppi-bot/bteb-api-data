@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 719342 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 776970 { gpa5: ref)",
+    "gpa4: 3.43",
+    "gpa3: 3.36",
+    "Unknown Subject (gpa2: 790358 { gpa5: ref)",
+    "gpa4: 2.91",
+    "gpa3: ref",
+    "gpa2:\n2.57",
+    "gpa1: 2.63",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Chemistry (25913(T))",
+    "2.67",
+    "gpa1: 2.70",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Chemistry (25913(T))",
+    "3.07",
+    "gpa1: 3.30",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
