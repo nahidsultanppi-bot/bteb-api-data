@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.57",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 722123 { gpa5: ref)",
+    "gpa4: 3.18",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 722135 { gpa5: 2.83)",
+    "gpa4: ref",
+    "gpa3: 2.55",
+    "Unknown Subject (gpa2: 722148 { gpa5: ref)",
+    "gpa4: 2.63",
+    "gpa3: 2.54",
+    "gpa2:\n2.43",
+    "gpa1: 2.62",
+    "Testing and Maintannance of Electrical Equipments (ref_sub: 26753(T))",
+    "Industrial Electronics (26833(T))",
+    "2.91",
+    "gpa1: 2.76",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Testing and Maintannance of Electrical Equipments (26753(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
