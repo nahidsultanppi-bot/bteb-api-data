@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.86",
+    "Unknown Subject (gpa2: 702576 { gpa5: 3.37)",
+    "gpa4: ref",
+    "gpa3: 2.70",
+    "Unknown Subject (gpa2: 702582 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 702589 { gpa5: 3.48)",
+    "gpa4: ref",
+    "gpa3: 3.18",
+    "gpa2:\n3.02",
+    "gpa1: 2.88",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Fundamental of Hybride & Electric Vehicle (27151(T))",
+    "2.98",
+    "gpa1: 3.12",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
