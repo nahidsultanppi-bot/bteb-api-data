@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.85",
+    "gpa1: 3.03",
+    "Unknown Subject (860546 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.17",
+    "Unknown Subject (ref_sub: 860549 { gpa3: 3.44)",
+    "gpa2: ref",
+    "gpa1: 3.50",
+    "Unknown Subject (860557 { gpa3: ref)",
+    "gpa2: 3.24",
+    "gpa1: 3.24",
+    "Structural Mechanics (ref_sub: 26431(T))",
+    "Surveying-I (26432(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester",
+  "Name": "Md. Shamim",
+  "Department": "Civil Technology"
+}
