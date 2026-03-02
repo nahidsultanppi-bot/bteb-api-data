@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.16",
+    "gpa3: 2.99",
+    "Unknown Subject (gpa2: 723959 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.61",
+    "Unknown Subject (gpa2: 723960 { gpa5: ref)",
+    "gpa4: 2.76",
+    "gpa3: 2.78",
+    "Unknown Subject (gpa2: 723964 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n3.11",
+    "gpa1: 3.03",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
