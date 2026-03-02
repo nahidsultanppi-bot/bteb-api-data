@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (752106 { gpa5: ref)",
+    "gpa4: 2.45",
+    "gpa3: 2.49",
+    "Unknown Subject (gpa2: 752115 { gpa5: ref)",
+    "gpa4: 2.26",
+    "gpa3: 2.55",
+    "Unknown Subject (gpa2: 752117 { gpa5: 2.99)",
+    "gpa4: 2.94",
+    "gpa3: ref",
+    "gpa2:\ngpa1: 2.57",
+    "Accounting (ref_sub: 25841(T))",
+    "Mathematics-II (25921(T))",
+    "2.39",
+    "gpa1: 2.56",
+    "Design & Editing (ref_sub: 29653(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
