@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.98",
+    "gpa1: 2.93",
+    "Unknown Subject (850663 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.99",
+    "Unknown Subject (ref_sub: 850667 { gpa3: ref)",
+    "gpa2: 3.28",
+    "gpa1: 3.53",
+    "Unknown Subject (850672 { gpa3: ref)",
+    "gpa2: 2.66",
+    "gpa1: 3.20",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Basic Electronics (26811(T))",
+    "Mechanical Engineering Materials (27031(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
