@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 724823 { gpa5: ref)",
+    "gpa4: 2.79",
+    "gpa3: 2.55",
+    "Unknown Subject (gpa2: 724827 { gpa5: ref)",
+    "gpa4: 2.63",
+    "gpa3: 2.39",
+    "Unknown Subject (gpa2: 724842 { gpa5: ref)",
+    "gpa4: 2.20",
+    "gpa3: 2.58",
+    "gpa2:\n2.17",
+    "gpa1: 2.43",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Metallurgy2 (27043(T))",
+    "2.15",
+    "gpa1: 2.78",
+    "Marine Boiler & Steam Engineering (ref_sub: 27952(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
