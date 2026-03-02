@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.65",
+    "Unknown Subject (gpa2: 724001 { gpa5: ref)",
+    "gpa4: 3.07",
+    "gpa3: 2.88",
+    "Unknown Subject (gpa2: 724002 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.72",
+    "Unknown Subject (gpa2: 724003 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.74",
+    "gpa2:\n2.49",
+    "gpa1: 2.78",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Circuits and Electrical Machine in RAC (27241(T))",
+    "2.66",
+    "gpa1: 2.81",
+    "Heating Ventilation & Air Conditioning (HVAC) (ref_sub: 27251(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
