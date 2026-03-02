@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 715526 { gpa5: ref)",
+    "gpa4: 3.64",
+    "gpa3: 3.65",
+    "Unknown Subject (gpa2: 715528 { gpa5: ref)",
+    "gpa4: 2.75",
+    "gpa3: 2.81",
+    "Unknown Subject (gpa2: 715530 { gpa5: ref)",
+    "gpa4: 2.77",
+    "gpa3: 2.88",
+    "gpa2:\n3.44",
+    "gpa1: 3.55",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Application Development Using Python (28531(T))",
+    "3.73",
+    "gpa1: 3.73",
+    "Data Communication (ref_sub: 28554(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
