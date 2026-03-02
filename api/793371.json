@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (793372 { gpa5: ref)",
+    "gpa4: 3.14",
+    "gpa3: 3.08",
+    "Unknown Subject (gpa2: 793375 { gpa5: ref)",
+    "gpa4: 3.27",
+    "gpa3: 2.88",
+    "Unknown Subject (gpa2: 793382 { gpa5: ref)",
+    "gpa4: 3.14",
+    "gpa3: 2.99",
+    "gpa2:\ngpa1: 2.90",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Physics-II (25922(T))",
+    "3.69",
+    "gpa1: 3.20",
+    "Surveying-III (ref_sub: 26453(T))",
+    "Theory of Structure (26454(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
