@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (647641 { gpa5: ref)",
+    "gpa4: 2.77",
+    "gpa3: 2.60",
+    "Unknown Subject (gpa2: 647642 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (647649 { gpa5: ref)",
+    "gpa4: 2.79",
+    "gpa3: 2.54",
+    "gpa2:\ngpa1: 3.04",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Chemistry (25913(T))",
+    "2.50",
+    "gpa1: 3.12",
+    "Fundamental of Hybride & Electric Vehicle (ref_sub: 27151(T))",
+    "Power Plant Enginnering (27152(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
