@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.54",
+    "Unknown Subject (gpa2: 742889 { gpa5: ref)",
+    "gpa4: 2.83",
+    "gpa3: 2.73",
+    "Unknown Subject (gpa2: 742892 { gpa5: ref)",
+    "gpa4: 3.27",
+    "gpa3: 3.49",
+    "Unknown Subject (gpa2: 742895 { gpa5: ref)",
+    "gpa4: 3.26",
+    "gpa3: 3.29",
+    "gpa2:\n2.48",
+    "gpa1: 3.00",
+    "DC Machine (ref_sub: 26742(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "2.57",
+    "gpa1: 2.71",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
