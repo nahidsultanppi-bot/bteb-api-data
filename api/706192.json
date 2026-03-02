@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.26",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 706195 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.96",
+    "Unknown Subject (gpa2: 706199 { gpa5: ref)",
+    "gpa4: 3.27",
+    "gpa3: 3.23",
+    "Unknown Subject (gpa2: 706202 { gpa5: ref)",
+    "gpa4: 3.27",
+    "gpa3: 3.15",
+    "gpa2:\nref",
+    "gpa1: 3.27",
+    "Structural Mechanics (ref_sub: 26431(T))",
+    "Surveying-I (26432(T))",
+    "ref",
+    "gpa1: 3.07",
+    "Generation of Electrical Power (ref_sub: 26751(T))",
+    "Basic Electronics (26811(T))",
+    "3.09",
+    "gpa1: 3.52",
+    "Generation of Electrical Power (ref_sub: 26751(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
