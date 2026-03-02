@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 766954 { gpa5: 2.93)",
+    "gpa4: ref",
+    "gpa3: 2.49",
+    "Unknown Subject (gpa2: 766957 { gpa5: 3.35)",
+    "gpa4: ref",
+    "gpa3: 3.07",
+    "Unknown Subject (gpa2: 766968 { gpa5: ref)",
+    "gpa4: 3.38",
+    "gpa3: 3.37",
+    "gpa2:\n2.90",
+    "gpa1: 3.05",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Microprocessor & Microcontroller (26853(T))",
+    "2.90",
+    "gpa1: 2.88",
+    "DC Machine (ref_sub: 26742(T))",
+    "Applied Mechanics (27044(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
