@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: 3.17",
+    "Unknown Subject (gpa1: 761222 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: 3.25",
+    "Unknown Subject (gpa1: 761224 { gpa4: ref)",
+    "gpa3: 2.96",
+    "gpa2: 3.20",
+    "Unknown Subject (gpa1: 761228 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: 3.23",
+    "gpa1:\n2.98",
+    "Physics-II (ref_sub: 25922(T))",
+    "Digital Electronics-II (26841(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "3.05",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Digital Electronics-II (26841(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "3.20",
+    "Digital Electronics-II (ref_sub: 26841(T))",
+    "Java Programming (28541(T))",
+    "Data Structure & Algorithm (28542(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
