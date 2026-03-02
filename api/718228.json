@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 718233 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.91",
+    "Unknown Subject (gpa2: 718238 { gpa5: ref)",
+    "gpa4: 3.43",
+    "gpa3: 3.73",
+    "Unknown Subject (gpa2: 718242 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.59",
+    "gpa2:\n2.65",
+    "gpa1: 2.99",
+    "Physics-II (ref_sub: 25922(T))",
+    "DC Machine (26742(T))",
+    "2.57",
+    "gpa1: ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Communication Engineering (26842(T))",
+    "3.15",
+    "gpa1: 3.19",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
