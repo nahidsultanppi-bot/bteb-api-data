@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.82",
+    "Unknown Subject (gpa2: 716687 { gpa5: ref)",
+    "gpa4: 3.29",
+    "gpa3: 2.95",
+    "Unknown Subject (gpa2: 716715 { gpa5: ref)",
+    "gpa4: 3.23",
+    "gpa3: 3.03",
+    "Unknown Subject (gpa2: 716730 { gpa5: ref)",
+    "gpa4: 3.45",
+    "gpa3: 3.10",
+    "gpa2:\nref",
+    "gpa1: 2.88",
+    "Electrical Circuits-I (ref_sub: 26721(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "3.03",
+    "gpa1: 3.33",
+    "Generation of Electrical Power (ref_sub: 26751(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
