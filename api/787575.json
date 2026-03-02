@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 787577 { gpa5: 2.70)",
+    "gpa4: ref",
+    "gpa3: 2.41",
+    "Unknown Subject (gpa2: 787582 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (787583 { gpa5: 2.64)",
+    "gpa4: ref",
+    "gpa3: 2.58",
+    "gpa2:\n2.71",
+    "gpa1: ref",
+    "Physics -I (ref_sub: 25912(T))",
+    "Automotive Engine System-II (26231(T))",
+    "2.43",
+    "gpa1: 2.63",
+    "Engineering Thermodynamics (ref_sub: 27131(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
