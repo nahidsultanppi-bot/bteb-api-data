@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: 2.90",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 773292 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: 2.61",
+    "Unknown Subject (gpa1: 773315 { gpa4: ref)",
+    "gpa3: 3.07",
+    "gpa2: 2.94",
+    "Unknown Subject (gpa1: 773395 { gpa4: ref)",
+    "gpa3: 2.89",
+    "gpa2: 3.06",
+    "gpa1:\n2.93",
+    "Chemistry (ref_sub: 25913(T))",
+    "Basic Electronics (26811(T))",
+    "Engineering Mechanics (27041(T))",
+    "2.86",
+    "Mathematics-III (ref_sub: 25931(T))",
+    "Mechanical Engineering Materials (27031(T))",
+    "Engineering Mechanics (27041(T))",
+    "3.35",
+    "Business Communication (ref_sub: 25831(T))",
+    "Digital Electronics-II (26841(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
