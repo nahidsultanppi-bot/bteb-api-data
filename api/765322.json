@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.17",
+    "gpa3: 3.54",
+    "Unknown Subject (gpa2: 765330 { gpa5: ref)",
+    "gpa4: 3.15",
+    "gpa3: 3.40",
+    "Unknown Subject (gpa2: 765331 { gpa5: ref)",
+    "gpa4: 3.20",
+    "gpa3: 3.38",
+    "Unknown Subject (gpa2: 765334 { gpa5: ref)",
+    "gpa4: 3.36",
+    "gpa3: 3.44",
+    "gpa2:\n3.23",
+    "gpa1: 3.53",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
