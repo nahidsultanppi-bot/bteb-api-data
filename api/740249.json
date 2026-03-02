@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 790432 { gpa4: ref)",
+    "gpa3: ref",
+    "gpa2: 2.56",
+    "gpa1:\n3.03",
+    "Chemistry (ref_sub: 25913(T))",
+    "Basic Electronics (26811(T))",
+    "Digital Electronics-I (26831(T))",
+    "ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "IT Support Services (28533(T))",
+    "Java Programming (28541(T))",
+    "Java Programming (28541(T))",
+    "Web Design & Development-I (28544(T))",
+    "Environmental Studies (29041(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
