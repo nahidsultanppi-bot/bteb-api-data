@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.80",
+    "Unknown Subject (ref_sub: 853515 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.84",
+    "Unknown Subject (ref_sub: 853516 { gpa3: ref)",
+    "gpa2: 2.72",
+    "gpa1: 3.00",
+    "Unknown Subject (853522 { gpa3: ref)",
+    "gpa2: 2.84",
+    "gpa1: 2.78",
+    "Mathematics-II (25921(T))",
+    "Physics-II (25922(T))",
+    "Mathematics-III (25931(T))",
+    "Mechanical Engineering Materials (27031(T))",
+    "Chemistry (25913(T))",
+    "Physics-II (25922(T))",
+    "Mathematics-III (25931(T))",
+    "RAC Cycles and Components (27231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
