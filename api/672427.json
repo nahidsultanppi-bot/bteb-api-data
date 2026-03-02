@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Cooling and Heating Load Calculation (gpa2: 672433 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Maintenance of RAC Equipment (gpa2: 672442 { gpa5: ref)",
+    "gpa4: 2.50",
+    "gpa3: 2.77",
+    "Unknown Subject (gpa2: 672459 { gpa5: ref)",
+    "gpa4: 2.40",
+    "gpa3: 2.45",
+    "gpa2:\n2.81",
+    "gpa1: 3.12",
+    "Business Communication (ref_sub: 25831(T))",
+    "Basic Electronics (26811(T))",
+    "2.68",
+    "gpa1: 3.26",
+    "Fluid Mechanics & Machineries (ref_sub: 27051(T))",
+    "Engineering Thermodynamics (27131(T))",
+    "3.05",
+    "gpa1: 3.25",
+    "Fundamental of Hybride & Electric Vehicle (ref_sub: 27151(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
