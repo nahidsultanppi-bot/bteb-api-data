@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.56",
+    "gpa1: 3.58",
+    "Unknown Subject (832636 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.82",
+    "Unknown Subject (ref_sub: 832642 { gpa3: ref)",
+    "gpa2: 2.83",
+    "gpa1: 3.11",
+    "Unknown Subject (832647 { gpa3: ref)",
+    "gpa2: 2.84",
+    "gpa1: 3.41",
+    "Business Communication (ref_sub: 25831(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
