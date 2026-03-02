@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 633732 { gpa5: ref)",
+    "gpa4: 2.52",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 633769 { gpa5: 2.90)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 633773 { gpa5: ref)",
+    "gpa4: 3.26",
+    "gpa3: 3.57",
+    "gpa2:\n2.96",
+    "gpa1: 3.59",
+    "Structural Mechanics (ref_sub: 26431(T))",
+    "Geotechnical Engineering (26445(T))",
+    "3.04",
+    "gpa1: 3.14",
+    "Theory of Structure (ref_sub: 26454(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
