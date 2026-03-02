@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.95",
+    "gpa3: 2.68",
+    "Unknown Subject (gpa2: 702713 { gpa5: ref)",
+    "gpa4: 3.12",
+    "gpa3: 2.94",
+    "Unknown Subject (gpa2: 702719 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (702722 { gpa5: 2.99)",
+    "gpa4: 3.01",
+    "gpa3: ref",
+    "gpa2:\n2.76",
+    "gpa1: 3.02",
+    "Advanced Welding-I (ref_sub: 27053(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
