@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 735439 { gpa5: ref)",
+    "gpa4: 2.80",
+    "gpa3: 2.76",
+    "Unknown Subject (gpa2: 735441 { gpa5: ref)",
+    "gpa4: 3.03",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 735443 { gpa5: ref)",
+    "gpa4: 2.71",
+    "gpa3: ref",
+    "gpa2:\n2.96",
+    "gpa1: 2.93",
+    "Electrical Circuits-II (ref_sub: 26731(T))",
+    "DC Machine (26742(T))",
+    "2.78",
+    "gpa1: 2.81",
+    "Industrial Management (ref_sub: 25852(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
