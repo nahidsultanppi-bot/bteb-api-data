@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.48",
+    "Unknown Subject (gpa2: 781100 { gpa5: ref)",
+    "gpa4: 2.99",
+    "gpa3: 2.65",
+    "Unknown Subject (gpa2: 781104 { gpa5: ref)",
+    "gpa4: 2.30",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 781106 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\nref",
+    "gpa1: 2.70",
+    "Electrical & Electronic Measurements-I (ref_sub: 26752(T))",
+    "Electronic Devices and Circuits (26821(T))",
+    "2.59",
+    "gpa1: 2.50",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
