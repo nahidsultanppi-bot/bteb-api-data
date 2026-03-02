@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 773860 { gpa5: ref)",
+    "gpa4: 2.90",
+    "gpa3: 2.64",
+    "Unknown Subject (gpa2: 773861 { gpa5: ref)",
+    "gpa4: 2.70",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 773863 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.44",
+    "gpa2:\n2.56",
+    "gpa1: 2.83",
+    "Digital Electronics-II (ref_sub: 26841(T))",
+    "Application Development Using Python (28531(T))",
+    "2.85",
+    "gpa1: 2.81",
+    "Television Engineering (ref_sub: 26851(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
