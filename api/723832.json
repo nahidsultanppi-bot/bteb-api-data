@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.83",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 731847 { gpa5: ref)",
+    "gpa4: 3.50",
+    "gpa3: 3.09",
+    "Unknown Subject (gpa2: 731851 { gpa5: ref)",
+    "gpa4: 3.09",
+    "gpa3: 2.54",
+    "Unknown Subject (gpa2: 733245 { gpa5: ref)",
+    "gpa4: 2.80",
+    "gpa3: 3.07",
+    "gpa2:\nref",
+    "gpa1: 3.50",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Television Engineering (26851(T))",
+    "2.98",
+    "gpa1: 3.24",
+    "Industrial Management (ref_sub: 25852(T))",
+    "Generation of Electrical Power (26751(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
