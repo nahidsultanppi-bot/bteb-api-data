@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: ref",
+    "Unknown Subject (715356 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.70",
+    "Unknown Subject (gpa2: 715360 { gpa5: ref)",
+    "gpa4: 3.28",
+    "gpa3: 3.12",
+    "Unknown Subject (gpa2: 715366 { gpa5: ref)",
+    "gpa4: 3.43",
+    "gpa3: 2.99",
+    "gpa2:\ngpa1: 2.84",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Mathematics-II (25921(T))",
+    "2.61",
+    "gpa1: 3.05",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "3.25",
+    "gpa1: 3.25",
+    "Metallurgy2 (ref_sub: 27043(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
