@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 2.42",
+    "gpa1: 2.88",
+    "Unknown Subject (754453 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.60",
+    "Unknown Subject (ref_sub: 754606 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.69",
+    "Unknown Subject (ref_sub: 754629 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Automobile Fundamentals (ref_sub:\nref_sub: 26211(T))",
+    "Engineering Thermodynamics (27131(T))",
+    "RAC Cycles and Components (27231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
