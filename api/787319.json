@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.30",
+    "Unknown Subject (gpa2: 787327 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.18",
+    "Unknown Subject (gpa2: 787328 { gpa5: ref)",
+    "gpa4: 2.79",
+    "gpa3: 3.04",
+    "Unknown Subject (gpa2: 787329 { gpa5: ref)",
+    "gpa4: 3.64",
+    "gpa3: 3.43",
+    "gpa2:\nref",
+    "gpa1: 2.86",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Estimating & Costing-I (26442(T))",
+    "ref",
+    "gpa1: 3.07",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Testing and Maintannance of Electrical Equipments (26753(P))",
+    "2.61",
+    "gpa1: 2.81",
+    "Microprocessor & Microcontroller (ref_sub: 26853(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
