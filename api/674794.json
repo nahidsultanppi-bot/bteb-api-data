@@ -1,0 +1,27 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa7: ref",
+    "gpa6: ref",
+    "gpa5: 3.36",
+    "Unknown Subject (gpa4: 674795 { gpa7: ref)",
+    "gpa6: 3.25",
+    "gpa5: 3.28",
+    "gpa4:\n3.18",
+    "gpa3: 2.73",
+    "gpa2: 2.86",
+    "gpa1: 3.31",
+    "ref_sub: 3.17",
+    "gpa3: 3.18",
+    "gpa2: 2.95",
+    "gpa1: 3.57",
+    "AC Machine-II (ref_sub:\n26771(T))",
+    "Switch Gear and Protection (26773(T))",
+    "Communication Engineering (26842(T))",
+    "Automation Engineering & PLC (26875(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "7th Semester"
+}
