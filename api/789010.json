@@ -1,0 +1,24 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.12",
+    "gpa3: 3.07",
+    "Unknown Subject (gpa2: 789012 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.46",
+    "Unknown Subject (gpa2: 789015 { gpa5: 2.88)",
+    "gpa4: ref",
+    "gpa3: 2.89",
+    "Unknown Subject (gpa2: 789016 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.64",
+    "gpa2:\n2.89",
+    "gpa1: 3.11",
+    "Manufacturing Process (ref_sub: 27055(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
