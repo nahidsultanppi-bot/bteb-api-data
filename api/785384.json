@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.64",
+    "Unknown Subject (gpa2: 785387 { gpa5: ref)",
+    "gpa4: 3.29",
+    "gpa3: 2.92",
+    "Unknown Subject (gpa2: 785388 { gpa5: ref)",
+    "gpa4: 3.15",
+    "gpa3: 2.83",
+    "Unknown Subject (gpa2: 785390 { gpa5: ref)",
+    "gpa4: 3.19",
+    "gpa3: 2.80",
+    "gpa2:\n2.79",
+    "gpa1: 2.77",
+    "Geotechnical Engineering (ref_sub: 26445(T))",
+    "Surveying-III (26453(T))",
+    "3.01",
+    "gpa1: 3.04",
+    "Surveying-III (ref_sub: 26453(T))",
+    "Theory of Structure (26454(T))",
+    "3.00",
+    "gpa1: 2.84",
+    "Theory of Structure (ref_sub: 26454(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
