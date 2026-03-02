@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: 3.24",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 612719 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.05",
+    "Unknown Subject (gpa2: 712450 { gpa5: ref)",
+    "gpa4: 2.88",
+    "gpa3: 3.08",
+    "Unknown Subject (gpa2: 712453 { gpa5: ref)",
+    "gpa4: 3.05",
+    "gpa3: 2.92",
+    "gpa2:\nref",
+    "gpa1: ref",
+    "Chemistry (ref_sub: 25913(T))",
+    "Mathematics-II (25921(T))",
+    "3.10",
+    "gpa1: 3.08",
+    "Digital Electronics-II (ref_sub: 26841(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "ref",
+    "gpa1: 2.95",
+    "Physics-II (ref_sub: 25922(T))",
+    "Testing and Maintannance of Electrical Equipments (26753(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
