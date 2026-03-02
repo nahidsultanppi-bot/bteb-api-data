@@ -1,0 +1,30 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 3.08",
+    "Unknown Subject (ref_sub: 741259 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.52",
+    "Unknown Subject (ref_sub: 741261 { gpa3: ref)",
+    "gpa2: 3.40",
+    "gpa1: 2.79",
+    "Unknown Subject (741262 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.98",
+    "Bangla -II (ref_sub:\n25721(T))",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Civil Engineering Drawing (26421(T))",
+    "Physics -I (25912(T))",
+    "Mathematics-II (25921(T))",
+    "Mathematics-III (25931(T))",
+    "Structural Mechanics (26431(T))",
+    "Construction Process-I (ref_sub: 26433(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
