@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: 3.36",
+    "gpa4: 2.46",
+    "Unknown Subject (gpa3: 610107 { gpa6: ref)",
+    "gpa5: ref",
+    "gpa4: 2.98",
+    "gpa3:\n2.63",
+    "gpa2: 2.85",
+    "gpa1: 3.71",
+    "AC Machine-I (ref_sub: 26761(T))",
+    "3.15",
+    "gpa2: 3.21",
+    "gpa1: 3.79",
+    "Strength of Materials (ref_sub: 27061(T))",
+    "Communication Engineering (26842(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
