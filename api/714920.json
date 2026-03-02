@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.99",
+    "Unknown Subject (gpa2: 714922 { gpa5: ref)",
+    "gpa4: 3.11",
+    "gpa3: 3.25",
+    "Unknown Subject (gpa2: 714923 { gpa5: ref)",
+    "gpa4: 2.94",
+    "gpa3: 3.44",
+    "Unknown Subject (gpa2: 714924 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n2.49",
+    "gpa1: 2.89",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Foundry & Pattern Making (27054(T))",
+    "2.90",
+    "gpa1: 3.22",
+    "Progamming in C (ref_sub: 28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
