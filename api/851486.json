@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: 2.94",
+    "Unknown Subject (ref_sub: 851492 { gpa3: ref)",
+    "gpa2: 3.27",
+    "gpa1: 3.40",
+    "Unknown Subject (851496 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.21",
+    "Unknown Subject (ref_sub: 851497 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 3.09",
+    "Physics -I (ref_sub:\n25912(T))",
+    "Mathematics-III (25931(T))",
+    "Industrial Chemistry (26332(T))",
+    "Chemical Engineering Materials (26333(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
