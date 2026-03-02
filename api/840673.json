@@ -1,0 +1,28 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: ref",
+    "gpa1: ref",
+    "Unknown Subject (ref_sub: 840683 { gpa3: ref)",
+    "gpa2: 2.52",
+    "gpa1: 2.98",
+    "Unknown Subject (840684 { gpa3: ref)",
+    "gpa2: 2.81",
+    "gpa1: 3.21",
+    "Unknown Subject (840686 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.45",
+    "English-II (ref_sub:\n25722(T))",
+    "Mathematics -I (25911(T))",
+    "Physics-II (25922(T))",
+    "Basic Electronics (26811(T))",
+    "Physics-II (ref_sub: 25922(T))",
+    "Mathematics-III (25931(T))",
+    "RAC Cycles and Components (27231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
