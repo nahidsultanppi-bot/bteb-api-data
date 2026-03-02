@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.32",
+    "gpa3: 2.95",
+    "Unknown Subject (gpa2: 703894 { gpa5: ref)",
+    "gpa4: 3.40",
+    "gpa3: 3.63",
+    "Unknown Subject (gpa2: 703895 { gpa5: ref)",
+    "gpa4: 3.87",
+    "gpa3: 3.52",
+    "Unknown Subject (gpa2: 703896 { gpa5: ref)",
+    "gpa4: 3.58",
+    "gpa3: 3.35",
+    "gpa2:\n3.15",
+    "gpa1: 3.23",
+    "Foundation Engineering (ref_sub: 26451(T))",
+    "Theory of Structure (26454(T))",
+    "3.27",
+    "gpa1: 3.31",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Electrical & Electronic Measurements-I (26752(T))",
+    "3.25",
+    "gpa1: 3.42",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Electrical & Electronic Measurements-I (26752(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
