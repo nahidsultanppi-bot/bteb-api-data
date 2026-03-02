@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.50",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 711949 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.56",
+    "Unknown Subject (gpa2: 711952 { gpa5: ref)",
+    "gpa4: 2.90",
+    "gpa3: 2.69",
+    "Unknown Subject (gpa2: 711953 { gpa5: ref)",
+    "gpa4: 2.90",
+    "gpa3: 2.69",
+    "gpa2:\nref",
+    "gpa1: 2.70",
+    "Accounting (ref_sub: 25841(T))",
+    "Mathematics-III (25931(T))",
+    "2.27",
+    "gpa1: 3.05",
+    "Accounting (ref_sub: 25841(T))",
+    "Computer Peripherals & Interfacing (28543(T))",
+    "3.00",
+    "gpa1: 3.35",
+    "Accounting (ref_sub: 25841(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
