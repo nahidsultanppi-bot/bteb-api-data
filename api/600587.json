@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: 2.91",
+    "Unknown Subject (gpa3: 600651 { gpa6: ref)",
+    "gpa5: 2.67",
+    "gpa4: 2.88",
+    "Unknown Subject (gpa3: 601062 { gpa6: ref)",
+    "gpa5: 2.54",
+    "gpa4: ref",
+    "gpa3:\n2.54",
+    "gpa2: ref",
+    "gpa1: 3.24",
+    "Chemistry (ref_sub: 25913(T))",
+    "2.38",
+    "gpa2: 2.44",
+    "gpa1: 2.80",
+    "CAD & CAM (ref_sub: 27063(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
