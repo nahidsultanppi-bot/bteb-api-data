@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.40",
+    "gpa3: 2.40",
+    "Unknown Subject (gpa2: 685647 { gpa5: ref)",
+    "gpa4: 2.51",
+    "gpa3: 2.52",
+    "Unknown Subject (gpa2: 685706 { gpa5: ref)",
+    "gpa4: 2.70",
+    "gpa3: 2.69",
+    "Unknown Subject (gpa2: 685940 { gpa5: ref)",
+    "gpa4: 2.11",
+    "gpa3: ref",
+    "gpa2:\nref",
+    "gpa1: 2.96",
+    "Chemistry (ref_sub: 25913(T))",
+    "Automotive Body Building (26241(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
