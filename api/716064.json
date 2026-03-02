@@ -1,0 +1,32 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.07",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 716070 { gpa5: ref)",
+    "gpa4: 2.96",
+    "gpa3: 3.45",
+    "Unknown Subject (gpa2: 716071 { gpa5: ref)",
+    "gpa4: 3.68",
+    "gpa3: 3.86",
+    "Unknown Subject (gpa2: 716072 { gpa5: ref)",
+    "gpa4: 3.42",
+    "gpa3: 3.50",
+    "gpa2:\n3.09",
+    "gpa1: 3.03",
+    "Construction Process-I (ref_sub: 26433(T))",
+    "Foundation Engineering (26451(T))",
+    "3.01",
+    "gpa1: 3.12",
+    "Foundation Engineering (ref_sub: 26451(T))",
+    "Surveying-III (26453(T))",
+    "3.45",
+    "gpa1: 3.47",
+    "Hydraulics (ref_sub: 26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
