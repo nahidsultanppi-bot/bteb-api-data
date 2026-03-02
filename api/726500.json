@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "Mathematics-II (25921(T))",
+    "Physics-II (25922(T))",
+    "Engineering Mechanics (27041(T))",
+    "Unknown Subject (726522 { 27043(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "Heating Ventilation & Air Conditioning (HVAC) (27251(T))",
+    "Unknown Subject (726706 { 28542(T))",
+    "Web Design & Development-I (28544(T))",
+    "Application Development Using Java (28551(T))",
+    "Unknown Subject (726735 { 25841(T))",
+    "Data Structure & Algorithm (28542(T))",
+    "Application Development Using Java (28551(T))",
+    "Metallurgy2 (27043(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "Heating Ventilation & Air Conditioning (HVAC) (27251(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
