@@ -1,0 +1,22 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa3: ref",
+    "gpa2: 3.76",
+    "gpa1: 3.49",
+    "Unknown Subject (851399 { gpa3: ref)",
+    "gpa2: 3.14",
+    "gpa1: 2.65",
+    "Unknown Subject (851400 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.40",
+    "Unknown Subject (ref_sub: 851401 { gpa3: ref)",
+    "gpa2: ref",
+    "gpa1: 2.92",
+    "Automotive Engine System-II (ref_sub:\nref_sub: 26231(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "3rd Semester"
+}
