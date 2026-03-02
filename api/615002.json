@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2: 3.12",
+    "Unknown Subject (gpa1: 713995 { gpa4: ref)",
+    "gpa3: 3.13",
+    "gpa2: ref",
+    "Unknown Subject (gpa1: 714012 { gpa4: ref)",
+    "gpa3: 3.08",
+    "gpa2: ref",
+    "gpa1:\nref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Mathematics-III (25931(T))",
+    "Basic Electricity (26711(T))",
+    "3.04",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Basic Electricity (26711(T))",
+    "Engineering Mechanics (27041(T))",
+    "ref",
+    "Mathematics -I (ref_sub: 25911(T))",
+    "Mathematics-II (25921(T))",
+    "Physics-II (25922(T))",
+    "Digital Electronics-I (26831(T))",
+    "Application Development Using Python (28531(T))",
+    "Data Structure & Algorithm (28542(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "4th Semester"
+}
