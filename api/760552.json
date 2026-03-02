@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.08",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 761239 { gpa5: 3.31)",
+    "gpa4: ref",
+    "gpa3: 3.39",
+    "Unknown Subject (gpa2: 761298 { gpa5: ref)",
+    "gpa4: 3.41",
+    "gpa3: 3.41",
+    "Unknown Subject (gpa2: 761301 { gpa5: 3.85)",
+    "gpa4: 3.61",
+    "gpa3: ref",
+    "gpa2:\n3.23",
+    "gpa1: 3.20",
+    "Digital Electronics-I (ref_sub: 26831(T))",
+    "Application Development Using Java (28551(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
