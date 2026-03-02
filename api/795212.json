@@ -1,0 +1,33 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 795213 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 795217 { gpa5: ref)",
+    "gpa4: 2.77",
+    "gpa3: 3.00",
+    "Unknown Subject (gpa2: 795218 { gpa5: ref)",
+    "gpa4: 3.31",
+    "gpa3: 3.00",
+    "gpa2:\n2.25",
+    "gpa1: 3.00",
+    "Accounting (ref_sub: 25841(T))",
+    "Machine Shop Practice-II (27032(T))",
+    "3.00",
+    "gpa1: 3.25",
+    "Business Communication (ref_sub: 25831(T))",
+    "Engineering Mechanics (27041(T))",
+    "3.10",
+    "gpa1: 4.00",
+    "Application Development Using Java (ref_sub: 28551(T))",
+    "Computer Architecture & Microprocessor (28553(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
