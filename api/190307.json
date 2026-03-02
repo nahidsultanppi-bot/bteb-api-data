@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 2.89",
+    "Unknown Subject (gpa2: 675153 { gpa5: ref)",
+    "gpa4: 2.79",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 675156 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.50",
+    "Unknown Subject (gpa2: 675313 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.75",
+    "gpa2:\n3.25",
+    "gpa1: 2.25",
+    "Accounting (ref_sub: 25841(T))",
+    "Electrical Installation,Planning and Estimating (26741(T))",
+    "3.23",
+    "gpa1: 2.70",
+    "Theory of Structure (ref_sub: 26454(T))",
+    "Hydraulics (26456(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
