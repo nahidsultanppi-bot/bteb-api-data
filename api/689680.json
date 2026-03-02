@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.25",
+    "gpa3: 2.83",
+    "Unknown Subject (gpa2: 690388 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 2.98",
+    "Unknown Subject (gpa2: 730585 { gpa5: ref)",
+    "gpa4: 3.31",
+    "gpa3: 3.29",
+    "Unknown Subject (gpa2: 730590 { gpa5: ref)",
+    "gpa4: 3.29",
+    "gpa3: 3.18",
+    "gpa2:\nref",
+    "gpa1: 3.05",
+    "Mathematics-II (ref_sub: 25921(T))",
+    "Application Development Using Java (28551(T))",
+    "2.66",
+    "gpa1: 2.68",
+    "Principles of Marketing (ref_sub: 25851(T))",
+    "Digital Electronics (26845(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
