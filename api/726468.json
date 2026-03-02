@@ -1,0 +1,29 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 2.93",
+    "gpa3: 2.62",
+    "Unknown Subject (gpa2: 726485 { gpa5: ref)",
+    "gpa4: 3.21",
+    "gpa3: 3.12",
+    "Unknown Subject (gpa2: 726501 { gpa5: ref)",
+    "gpa4: 2.70",
+    "gpa3: 2.59",
+    "Unknown Subject (gpa2: 726502 { gpa5: ref)",
+    "gpa4: 3.16",
+    "gpa3: 3.11",
+    "gpa2:\n2.53",
+    "gpa1: 2.58",
+    "Metallurgy2 (ref_sub: 27043(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "2.99",
+    "gpa1: 2.71",
+    "Heating Ventilation & Air Conditioning (HVAC) (ref_sub: 27251(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
