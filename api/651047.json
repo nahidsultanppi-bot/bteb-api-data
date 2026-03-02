@@ -1,0 +1,26 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa6: ref",
+    "gpa5: ref",
+    "gpa4: 2.67",
+    "Unknown Subject (gpa3: 651077 { gpa6: ref)",
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3:\nref",
+    "gpa2: 2.67",
+    "gpa1: 2.94",
+    "Physics-II (ref_sub: 25922(T))",
+    "2.52",
+    "gpa2: 2.61",
+    "gpa1: 2.98",
+    "Engineering Mechanics (ref_sub: 27041(T))",
+    "Fluid Mechanics & Machineries (27051(T))",
+    "Strength of Materials (27061(T))",
+    "RAC Plant Installation Maintenance & Operation (27262(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "6th Semester"
+}
