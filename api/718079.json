@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: 3.26",
+    "gpa3: 3.28",
+    "Unknown Subject (gpa2: 718090 { gpa5: ref)",
+    "gpa4: 2.88",
+    "gpa3: 2.89",
+    "Unknown Subject (gpa2: 718091 { gpa5: ref)",
+    "gpa4: 2.36",
+    "gpa3: 2.71",
+    "Unknown Subject (gpa2: 718104 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "gpa2:\n3.22",
+    "gpa1: 3.13",
+    "Progamming in C (ref_sub: 28567(T))",
+    "Bio-Medical Instruments (28654(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
