@@ -1,0 +1,25 @@
+{
+  "gpa": "0.00",
+  "status": "DROPOUT",
+  "subjects": [
+    "gpa5: ref",
+    "gpa4: ref",
+    "gpa3: 3.13",
+    "Unknown Subject (gpa2: 625209 { gpa5: ref)",
+    "gpa4: ref",
+    "gpa3: 3.13",
+    "Unknown Subject (gpa2: 625235 { gpa5: 3.15)",
+    "gpa4: ref",
+    "gpa3: ref",
+    "Unknown Subject (gpa2: 625304 { gpa5: ref)",
+    "gpa4: 2.49",
+    "gpa3: 2.56",
+    "gpa2:\n3.03",
+    "gpa1: 3.28",
+    "Engineering Thermodynamics (ref_sub: 27131(T))",
+    "Progamming in C (28567(T))"
+  ],
+  "held_in": "July-August, 2025",
+  "regulation": "2022 Probidhan",
+  "semester": "5th Semester"
+}
